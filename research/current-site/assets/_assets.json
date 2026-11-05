@@ -1,0 +1,2026 @@
+[
+ {
+  "url": "https://prosparity.in/static/media/anni.7855806fc6354895be74.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Anirudh Dhakar - team member of Prosparity",
+    "section": "teams",
+    "rendered": "446x446",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Anirudh Dhakar - team member of Prosparity",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (bio modal)",
+    "alt": "Anirudh Dhakar",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "Anirudh Dhakar - team member of Prosparity",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/anni.7855806fc6354895be74.png",
+  "file": "anni.png",
+  "bytes": 190937,
+  "sha256": "b241c43a6ddae09f669f4f1353838ca79c21b849874affc71a02ad67895d54ef",
+  "pixels": "472x472"
+ },
+ {
+  "url": "https://prosparity.in/static/media/banner.a603839aadd2d0f3041b.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "diagram showing the prosparity logo",
+    "section": "hero",
+    "rendered": "768x768",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "diagram showing the prosparity logo",
+    "section": "hero",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/banner.a603839aadd2d0f3041b.png",
+  "file": "banner.png",
+  "bytes": 102387,
+  "sha256": "052c6d4e44673076bd890f2e5057ab236b78f69b4078125ba9febb4fc0fe1243",
+  "pixels": "1093x1093"
+ },
+ {
+  "url": "https://prosparity.in/static/media/contact_us.c3dd14877d1494a1f65e.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "css background",
+    "alt": null,
+    "section": "contact",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "css background (390px pass)",
+    "alt": null,
+    "section": "contact",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(stylesheet)",
+    "how": "css url()",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/contact_us.c3dd14877d1494a1f65e.png",
+  "file": "contact-us.png",
+  "bytes": 216194,
+  "sha256": "501caf4883feef0c8e283dee7b19734131b2cad43528af28c8310aa6bccaad96",
+  "pixels": "1920x945"
+ },
+ {
+  "url": "https://prosparity.in/static/media/Customers.cbd6be6acf089e9bf750.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Customers",
+    "section": "why-us",
+    "rendered": "0x0",
+    "hidden_at_1440": true
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Customers",
+    "section": "why-us",
+    "rendered": "437x330",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "Customers",
+    "section": "why-us",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "Customers",
+    "section": "why-us",
+    "rendered": null,
+    "hidden_at_1440": true
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/Customers.cbd6be6acf089e9bf750.png",
+  "file": "customers.png",
+  "bytes": 21675,
+  "sha256": "9b382a466033212af654e95136ab3b8a7f8bf69592a60c92d389305f2dc4c24f",
+  "pixels": "536x405"
+ },
+ {
+  "url": "data:(omitted)",
+  "uses": [
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "left divider",
+    "section": "why-us",
+    "rendered": "469x205",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "left divider",
+    "section": "why-us",
+    "rendered": null,
+    "hidden_at_1440": true
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle data URI",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "source": "data URI embedded in the JS bundle or CSS",
+  "file": "data-uri-left-divider.png",
+  "bytes": 2803,
+  "sha256": "453df1f71bebe60f2bbbfb0101162f16cfb82565944e9d20d7f9e818b5e42b84",
+  "pixels": "674x294"
+ },
+ {
+  "url": "data:(omitted)",
+  "uses": [
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "right divider",
+    "section": "why-us",
+    "rendered": "469x201",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "right divider",
+    "section": "why-us",
+    "rendered": null,
+    "hidden_at_1440": true
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle data URI",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "source": "data URI embedded in the JS bundle or CSS",
+  "file": "data-uri-right-divider.png",
+  "bytes": 2781,
+  "sha256": "eaf2de08c100e1f2a83e1b1cdb7cdf2ff4dffa2219858975ca70631cc7de845c",
+  "pixels": "685x294"
+ },
+ {
+  "url": "https://prosparity.in/static/media/Dealers.b6fb1eb5caa9074f27a8.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Dealers",
+    "section": "why-us",
+    "rendered": "0x0",
+    "hidden_at_1440": true
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Dealers",
+    "section": "why-us",
+    "rendered": "438x330",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "Dealers",
+    "section": "why-us",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "Dealers",
+    "section": "why-us",
+    "rendered": null,
+    "hidden_at_1440": true
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/Dealers.b6fb1eb5caa9074f27a8.png",
+  "file": "dealers.png",
+  "bytes": 25341,
+  "sha256": "c2b538ea177110ebd0943600f5feac173e53c8d986971359c2fcc43f90b5c218",
+  "pixels": "537x405"
+ },
+ {
+  "url": "https://prosparity.in/static/media/dealerships_mobile.615ad6920ce139948918.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "css background (390px pass)",
+    "alt": null,
+    "section": "products",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(stylesheet)",
+    "how": "css url()",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/dealerships_mobile.615ad6920ce139948918.png",
+  "file": "dealerships-mobile.png",
+  "bytes": 34687,
+  "sha256": "d50afa5f93971369c912186faa59dee7673d892d24898212c66f5108948bace9",
+  "pixels": "417x332"
+ },
+ {
+  "url": "https://prosparity.in/static/media/dealerships.b4660d271c8eacb51d69.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "css background",
+    "alt": null,
+    "section": "products",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(stylesheet)",
+    "how": "css url()",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/dealerships.b4660d271c8eacb51d69.png",
+  "file": "dealerships.png",
+  "bytes": 194314,
+  "sha256": "ac1bcce9e6a9f945e6fb496162e6dba00bd003dc6ee23e8fdd343b9e2d1beba0",
+  "pixels": "1493x553"
+ },
+ {
+  "url": "https://prosparity.in/assets/logos/dmi.svg",
+  "uses": [
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "img",
+    "alt": "Manba Finance",
+    "section": "partners",
+    "rendered": "156x52",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "img (390px pass)",
+    "alt": "Manba Finance",
+    "section": "partners",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures-standalone",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures-standalone",
+    "how": "img",
+    "alt": "Manba Finance",
+    "section": "partners",
+    "rendered": "156x52",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures-standalone",
+    "how": "img (390px pass)",
+    "alt": "Manba Finance",
+    "section": "partners",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/svg+xml",
+  "source": "https://prosparity.in/assets/logos/dmi.svg",
+  "file": "dmi.svg",
+  "bytes": 6085,
+  "sha256": "725a8124035bd6a292fb312ae781291bb947c544a8d5a9450de231f1eaee182d",
+  "pixels": "svg 198x66 viewBox 0 0 198 66"
+ },
+ {
+  "url": "https://prosparity.in/favicon.svg",
+  "uses": [
+   {
+    "page": "home",
+    "how": "head icon",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "dlg-disclosure",
+    "how": "head icon",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "head icon",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "privacy-policy",
+    "how": "head icon",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "refund-and-cancellation-policy",
+    "how": "head icon",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "terms-and-conditions",
+    "how": "head icon",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "not-found-404",
+    "how": "head icon",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/svg+xml",
+  "source": "https://prosparity.in/favicon.svg",
+  "file": "favicon.svg",
+  "bytes": 1971,
+  "sha256": "51ec55a3d4bfb905ea99e483d0be3d0d376dad87c1c94ced1c70a5852f2c30e0",
+  "pixels": "svg 51x50 viewBox 0 0 51 50"
+ },
+ {
+  "url": "https://prosparity.in/static/media/globe_logo.dd8aa27197434c4d1714.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "",
+    "section": "root",
+    "rendered": "529x550",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "",
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/globe_logo.dd8aa27197434c4d1714.png",
+  "file": "globe-logo.png",
+  "bytes": 27728,
+  "sha256": "924458c62a907acff83ae07b81ab5b73e6c4cff58795297d0ac17caeaa154ab2",
+  "pixels": "700x680"
+ },
+ {
+  "url": "https://prosparity.in/static/media/Hakam Dhakar.2368252f57a034245580.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Hakam Singh Dhakar - team member of Prosparity",
+    "section": "teams",
+    "rendered": "446x446",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Hakam Singh Dhakar - team member of Prosparity",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (bio modal)",
+    "alt": "Hakam Singh Dhakar",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "Hakam Singh Dhakar - team member of Prosparity",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/Hakam Dhakar.2368252f57a034245580.png",
+  "file": "hakam-dhakar.png",
+  "bytes": 169747,
+  "sha256": "d358fe34de873ce821c59bcfc195836d9410771f8f20aa59c721c019e549a1ad",
+  "pixels": "472x472"
+ },
+ {
+  "url": "https://prosparity.in/static/media/investor1.b3366ba0088e51258b20.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "logo of invesor in the Prosparity",
+    "section": "investors",
+    "rendered": "224x120",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "logo of invesor in the Prosparity",
+    "section": "investors",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/investor1.b3366ba0088e51258b20.png",
+  "file": "investor1.png",
+  "bytes": 16747,
+  "sha256": "dac49f99d7546e45dfc896fe9df6a3570a8cd64ea2d0bb83d426e9294483515a",
+  "pixels": "303x151"
+ },
+ {
+  "url": "https://prosparity.in/static/media/investor2.3d11eef62231a0e1ac6f.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "logo of invesor in the Prosparity",
+    "section": "investors",
+    "rendered": "224x120",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "logo of invesor in the Prosparity",
+    "section": "investors",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/investor2.3d11eef62231a0e1ac6f.png",
+  "file": "investor2.png",
+  "bytes": 14797,
+  "sha256": "9daca7ce2d4471201293f23258945c558d8cb322d95406a22916d5b7e964a427",
+  "pixels": "304x151"
+ },
+ {
+  "url": "https://prosparity.in/static/media/investor3.70498629152ef0a44d6d.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "logo of invesor in the Prosparity",
+    "section": "investors",
+    "rendered": "224x120",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "logo of invesor in the Prosparity",
+    "section": "investors",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/investor3.70498629152ef0a44d6d.png",
+  "file": "investor3.png",
+  "bytes": 19163,
+  "sha256": "3682f581b030117111aaff3d934deed37d774c8681d94d32c5120ef6c1700432",
+  "pixels": "304x151"
+ },
+ {
+  "url": "https://prosparity.in/static/media/investor4.86f25d7124a2dcc5068f.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "logo of invesor in the Prosparity",
+    "section": "investors",
+    "rendered": "224x120",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "logo of invesor in the Prosparity",
+    "section": "investors",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/investor4.86f25d7124a2dcc5068f.png",
+  "file": "investor4.png",
+  "bytes": 14139,
+  "sha256": "d431c4b2de9c604067b8c4b140a916367463755a973f2de8876eac54caa3082e",
+  "pixels": "305x152"
+ },
+ {
+  "url": "https://prosparity.in/static/media/investor5.ba1affdf53ffbdd4086b.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "logo of invesor in the Prosparity",
+    "section": "investors",
+    "rendered": "224x120",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "logo of invesor in the Prosparity",
+    "section": "investors",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/investor5.ba1affdf53ffbdd4086b.png",
+  "file": "investor5.png",
+  "bytes": 20710,
+  "sha256": "85457a87760d067cd1ba5323c1501119f7c933133dae7f6198b1de2e394f09f2",
+  "pixels": "303x151"
+ },
+ {
+  "url": "https://prosparity.in/static/media/Jitendra Sharma.76290fd3c46ed15ea091.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Jitendra Sharma  - team member of Prosparity",
+    "section": "teams",
+    "rendered": "446x446",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Jitendra Sharma  - team member of Prosparity",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (bio modal)",
+    "alt": "Jitendra Sharma ",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "Jitendra Sharma  - team member of Prosparity",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/Jitendra Sharma.76290fd3c46ed15ea091.png",
+  "file": "jitendra-sharma.png",
+  "bytes": 174683,
+  "sha256": "5c2fbbc12c747bd38fc88d7b5a02ebee4e992662f4bb4899ccecbb7c76af9afe",
+  "pixels": "472x472"
+ },
+ {
+  "url": "https://prosparity.in/static/media/kanishk.f0f3b11c6ad4c55b27b2.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Kanishk Agarwal - team member of Prosparity",
+    "section": "teams",
+    "rendered": "446x446",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Kanishk Agarwal - team member of Prosparity",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (bio modal)",
+    "alt": "Kanishk Agarwal",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "Kanishk Agarwal - team member of Prosparity",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/kanishk.f0f3b11c6ad4c55b27b2.png",
+  "file": "kanishk.png",
+  "bytes": 162032,
+  "sha256": "2434d1665c00b90e3752e0d482530733cf835072eea18260f47d888a8ca61508",
+  "pixels": "472x472"
+ },
+ {
+  "url": "https://prosparity.in/static/media/Lenders.c17b808ddbe2a48b3b12.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Lenders",
+    "section": "why-us",
+    "rendered": "0x0",
+    "hidden_at_1440": true
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Lenders",
+    "section": "why-us",
+    "rendered": "438x330",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "Lenders",
+    "section": "why-us",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "Lenders",
+    "section": "why-us",
+    "rendered": null,
+    "hidden_at_1440": true
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/Lenders.c17b808ddbe2a48b3b12.png",
+  "file": "lenders.png",
+  "bytes": 20617,
+  "sha256": "cfb010bdd08d210d0c36468956c30aad956660fd06685aef46e4c13e83a012b4",
+  "pixels": "537x405"
+ },
+ {
+  "url": "https://prosparity.in/static/media/letterArt.c6cc47ab73ba94de0a9d.svg",
+  "uses": [
+   {
+    "page": "(stylesheet)",
+    "how": "css url()",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/svg+xml",
+  "source": "https://prosparity.in/static/media/letterArt.c6cc47ab73ba94de0a9d.svg",
+  "file": "letterart.svg",
+  "bytes": 2618137,
+  "sha256": "771130fa11efd1d68391de7de137a9f1e0ea9fe234db5bb081d330390e3783fc",
+  "pixels": "svg 984x686 viewBox 0 0 984 686"
+ },
+ {
+  "url": "https://prosparity.in/static/media/logo_with_text.bffff105cfa1cea614dbcbb83289ce39.svg",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "210x48",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "245x56",
+    "hidden_at_1440": true
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "245x56",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": true
+   },
+   {
+    "page": "dlg-disclosure",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "dlg-disclosure",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "210x48",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "dlg-disclosure",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "245x56",
+    "hidden_at_1440": true
+   },
+   {
+    "page": "dlg-disclosure",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "245x56",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "dlg-disclosure",
+    "how": "img (390px pass)",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "dlg-disclosure",
+    "how": "img (390px pass)",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": true
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "210x48",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "245x56",
+    "hidden_at_1440": true
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "245x56",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "img (390px pass)",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "img (390px pass)",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": true
+   },
+   {
+    "page": "privacy-policy",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "privacy-policy",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "210x48",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "privacy-policy",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "245x56",
+    "hidden_at_1440": true
+   },
+   {
+    "page": "privacy-policy",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "245x56",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "privacy-policy",
+    "how": "img (390px pass)",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "privacy-policy",
+    "how": "img (390px pass)",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": true
+   },
+   {
+    "page": "refund-and-cancellation-policy",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "refund-and-cancellation-policy",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "210x48",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "refund-and-cancellation-policy",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "245x56",
+    "hidden_at_1440": true
+   },
+   {
+    "page": "refund-and-cancellation-policy",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "245x56",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "refund-and-cancellation-policy",
+    "how": "img (390px pass)",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "refund-and-cancellation-policy",
+    "how": "img (390px pass)",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": true
+   },
+   {
+    "page": "terms-and-conditions",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "terms-and-conditions",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "210x48",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "terms-and-conditions",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "245x56",
+    "hidden_at_1440": true
+   },
+   {
+    "page": "terms-and-conditions",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "245x56",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "terms-and-conditions",
+    "how": "img (390px pass)",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "terms-and-conditions",
+    "how": "img (390px pass)",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": true
+   },
+   {
+    "page": "not-found-404",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "not-found-404",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "210x48",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "not-found-404",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "245x56",
+    "hidden_at_1440": true
+   },
+   {
+    "page": "not-found-404",
+    "how": "img",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": "245x56",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "not-found-404",
+    "how": "img (390px pass)",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "not-found-404",
+    "how": "img (390px pass)",
+    "alt": "logo for prosparity",
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": true
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/svg+xml",
+  "source": "https://prosparity.in/static/media/logo_with_text.bffff105cfa1cea614dbcbb83289ce39.svg",
+  "file": "logo-with-text.svg",
+  "bytes": 9721,
+  "sha256": "c100f121932a6e9218edecd76ad452f42109fe2dbbcf578481fd5738e71558ce",
+  "pixels": "svg 306x70 viewBox 0 0 306 70"
+ },
+ {
+  "url": "https://prosparity.in/assets/logos/manba.svg",
+  "uses": [
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "img",
+    "alt": "DMI Finance",
+    "section": "partners",
+    "rendered": "154x52",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "img (390px pass)",
+    "alt": "DMI Finance",
+    "section": "partners",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures-standalone",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures-standalone",
+    "how": "img",
+    "alt": "DMI Finance",
+    "section": "partners",
+    "rendered": "154x52",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures-standalone",
+    "how": "img (390px pass)",
+    "alt": "DMI Finance",
+    "section": "partners",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/svg+xml",
+  "source": "https://prosparity.in/assets/logos/manba.svg",
+  "file": "manba.svg",
+  "bytes": 5040,
+  "sha256": "319c8d511f5b4984e028f87dd0648fa8be9dd4453a1d57bf4579a6e451a6ea58",
+  "pixels": "svg 27.24x104.67 viewBox 0 0 1080 364.1"
+ },
+ {
+  "url": "https://prosparity.in/static/media/mesh_bg.6e40580c1b33f32187c8.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "css background",
+    "alt": null,
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "css background (390px pass)",
+    "alt": null,
+    "section": "root",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(stylesheet)",
+    "how": "css url()",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/mesh_bg.6e40580c1b33f32187c8.png",
+  "file": "mesh-bg.png",
+  "bytes": 75456,
+  "sha256": "19b906ad6557c4435073b4a255ffccaee3370f1811112a5229f3c82d046ccf9b",
+  "pixels": "1910x976"
+ },
+ {
+  "url": "https://prosparity.in/static/media/mesh.44b1638086de36d9c71a.png",
+  "uses": [
+   {
+    "page": "(stylesheet)",
+    "how": "css url()",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/mesh.44b1638086de36d9c71a.png",
+  "file": "mesh.png",
+  "bytes": 49188,
+  "sha256": "662c90a7d9357e2bdb147f2666926bfdd8cc6dc5b2b33d926a96e28beca0b9e3",
+  "pixels": "2469x1005"
+ },
+ {
+  "url": "https://prosparity.in/assets/logos/namdev.webp",
+  "uses": [
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "img",
+    "alt": "Namdev Finvest",
+    "section": "partners",
+    "rendered": "200x50",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "img (390px pass)",
+    "alt": "Namdev Finvest",
+    "section": "partners",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures-standalone",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures-standalone",
+    "how": "img",
+    "alt": "Namdev Finvest",
+    "section": "partners",
+    "rendered": "200x50",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures-standalone",
+    "how": "img (390px pass)",
+    "alt": "Namdev Finvest",
+    "section": "partners",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/webp",
+  "source": "https://prosparity.in/assets/logos/namdev.webp",
+  "file": "namdev.webp",
+  "bytes": 4104,
+  "sha256": "271f6bef75dfb05e38906aba93654e8230a3891bc0897f9065bf7915891dbe52",
+  "pixels": "256x64"
+ },
+ {
+  "url": "https://prosparity.in/static/media/OEMs.356c6bc1c74c9233f40d.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "OEMs",
+    "section": "why-us",
+    "rendered": "0x0",
+    "hidden_at_1440": true
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "OEMs",
+    "section": "why-us",
+    "rendered": "438x330",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "OEMs",
+    "section": "why-us",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "OEMs",
+    "section": "why-us",
+    "rendered": null,
+    "hidden_at_1440": true
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/OEMs.356c6bc1c74c9233f40d.png",
+  "file": "oems.png",
+  "bytes": 19608,
+  "sha256": "f2c81317fd3bbf24f2483a908d3b43befc8dc07baf678680bb879dcf2e6d3899",
+  "pixels": "537x405"
+ },
+ {
+  "url": "https://prosparity.in/og_image.jpeg",
+  "uses": [
+   {
+    "page": "home",
+    "how": "og:image",
+    "alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "dlg-disclosure",
+    "how": "og:image",
+    "alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "og:image",
+    "alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "privacy-policy",
+    "how": "og:image",
+    "alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "refund-and-cancellation-policy",
+    "how": "og:image",
+    "alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "terms-and-conditions",
+    "how": "og:image",
+    "alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "not-found-404",
+    "how": "og:image",
+    "alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/jpeg",
+  "source": "https://prosparity.in/og_image.jpeg",
+  "file": "og-image.jpeg",
+  "bytes": 55990,
+  "sha256": "0607fb797849918cc0df2a682b18fd3bdf5c8638d2a852598c3caa4a88c5abbd",
+  "pixels": "1600x866"
+ },
+ {
+  "url": "https://prosparity.in/static/media/rahulPandey.39f22f227c7ded06d97b.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Rahul Pandey - team member of Prosparity",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (bio modal)",
+    "alt": "Rahul Pandey",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/rahulPandey.39f22f227c7ded06d97b.png",
+  "file": "rahulpandey.png",
+  "bytes": 180231,
+  "sha256": "acc18c6dea35bf956960ea76102cb32ff5056166bf9b42ebb76fc830ff0e700c",
+  "pixels": "472x472"
+ },
+ {
+  "url": "https://prosparity.in/static/media/saurabh.f263ac4e8104d9b20d49.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Saurabh Khodke - team member of Prosparity",
+    "section": "teams",
+    "rendered": "446x446",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Saurabh Khodke - team member of Prosparity",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (bio modal)",
+    "alt": "Saurabh Khodke",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (390px pass)",
+    "alt": "Saurabh Khodke - team member of Prosparity",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/saurabh.f263ac4e8104d9b20d49.png",
+  "file": "saurabh.png",
+  "bytes": 177347,
+  "sha256": "c55a6e88b970d687f8e59b8c70f7ff4291fabd2591c53411bbab91e3ed28bd9f",
+  "pixels": "472x472"
+ },
+ {
+  "url": "https://prosparity.in/static/media/Sunil Dubey.1cf8d27a032528637952.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img",
+    "alt": "Sunil Dubey - team member of Prosparity",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "img (bio modal)",
+    "alt": "Sunil Dubey",
+    "section": "teams",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(bundle)",
+    "how": "bundle reference",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/Sunil Dubey.1cf8d27a032528637952.png",
+  "file": "sunil-dubey.png",
+  "bytes": 180047,
+  "sha256": "dd45f769a390283d692d69d1f8673fb77afecdb05a633e38626a71ac454ed793",
+  "pixels": "472x472"
+ },
+ {
+  "url": "https://prosparity.in/static/media/three_wheeler.b6af5a34e62ff18655ab.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "css background",
+    "alt": null,
+    "section": "products",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "css background (390px pass)",
+    "alt": null,
+    "section": "products",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(stylesheet)",
+    "how": "css url()",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/three_wheeler.b6af5a34e62ff18655ab.png",
+  "file": "three-wheeler.png",
+  "bytes": 76966,
+  "sha256": "149b8c042ed1619b459e4d526cb28c5eea2912d566103747903a709714d62a48",
+  "pixels": "739x538"
+ },
+ {
+  "url": "https://prosparity.in/static/media/two_wheeler.233e33762ed2c02a1894.png",
+  "uses": [
+   {
+    "page": "home",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "css background",
+    "alt": null,
+    "section": "products",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "home",
+    "how": "css background (390px pass)",
+    "alt": null,
+    "section": "products",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "(stylesheet)",
+    "how": "css url()",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/png",
+  "source": "https://prosparity.in/static/media/two_wheeler.233e33762ed2c02a1894.png",
+  "file": "two-wheeler.png",
+  "bytes": 75452,
+  "sha256": "c02ec7c9361fe3314b86441972c96c21aa81863f52b468aebf346bdb34870477",
+  "pixels": "739x538"
+ },
+ {
+  "url": "https://prosparity.in/assets/logos/vivriti.jpg",
+  "uses": [
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "img",
+    "alt": "Vivriti Capital Limited",
+    "section": "partners",
+    "rendered": "126x52",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures",
+    "how": "img (390px pass)",
+    "alt": "Vivriti Capital Limited",
+    "section": "partners",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures-standalone",
+    "how": "network response",
+    "alt": null,
+    "section": "",
+    "rendered": null,
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures-standalone",
+    "how": "img",
+    "alt": "Vivriti Capital Limited",
+    "section": "partners",
+    "rendered": "126x52",
+    "hidden_at_1440": false
+   },
+   {
+    "page": "grievance-redressal-and-disclosures-standalone",
+    "how": "img (390px pass)",
+    "alt": "Vivriti Capital Limited",
+    "section": "partners",
+    "rendered": null,
+    "hidden_at_1440": false
+   }
+  ],
+  "status": 200,
+  "content_type": "image/jpeg",
+  "source": "https://prosparity.in/assets/logos/vivriti.jpg",
+  "file": "vivriti.jpg",
+  "bytes": 21817,
+  "sha256": "c4150edaf103c70f0574bd96c4bc3c723b399e6927e7009a96975b0602938090",
+  "pixels": "800x329"
+ }
+]

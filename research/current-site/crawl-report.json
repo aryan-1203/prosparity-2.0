@@ -1,0 +1,3657 @@
+{
+ "crawled_at": "2026-11-05T11:08:24.424952+00:00",
+ "base": "https://prosparity.in",
+ "pages": [
+  {
+   "slug": "home",
+   "url": "https://prosparity.in/",
+   "status": 200,
+   "title": "Home | ProsParity",
+   "metas": {
+    "viewport": "width=device-width,initial-scale=1",
+    "og:title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:type": "website",
+    "og:url": "https://prosparity.in",
+    "og:image": "https://prosparity.in/og_image.jpeg",
+    "og:image:alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@prosparity",
+    "twitter:creator": "@prosparity",
+    "twitter:title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "twitter:description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "twitter:url": "https://prosparity.in",
+    "twitter:image": "https://prosparity.in/og_image.jpeg",
+    "twitter:image:alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "name": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "theme-color": "#000000",
+    "color-scheme": "light",
+    "keywords": "prosparity,ev",
+    "robots": "index,follow"
+   },
+   "canonical": "https://prosparity.in/",
+   "lang": "en",
+   "height": 7971,
+   "forms": 1,
+   "headings": [
+    [
+     2,
+     "Our Products"
+    ]
+   ],
+   "visual_headings": [
+    [
+     32,
+     "Reimagining Distribution Of Credit In The Electric Mobility Sector"
+    ],
+    [
+     32,
+     "Electric 3 Wheeler"
+    ],
+    [
+     32,
+     "Electric 2 Wheeler"
+    ],
+    [
+     32,
+     "Dealer Financing"
+    ],
+    [
+     48,
+     "Why ProsParity"
+    ],
+    [
+     32,
+     "OEMs"
+    ],
+    [
+     32,
+     "Dealers"
+    ],
+    [
+     32,
+     "Lenders"
+    ],
+    [
+     32,
+     "Customers"
+    ],
+    [
+     32,
+     "Empowering sustainable mobility by doing our bit"
+    ],
+    [
+     32,
+     "Saurabh Khodke"
+    ],
+    [
+     32,
+     "Anirudh Dhakar"
+    ],
+    [
+     32,
+     "Hakam Singh Dhakar"
+    ],
+    [
+     32,
+     "Jitendra Sharma"
+    ],
+    [
+     32,
+     "Kanishk Agarwal"
+    ],
+    [
+     48,
+     "Our Investors"
+    ],
+    [
+     52,
+     "Join us in the\nEV Revolution!"
+    ],
+    [
+     24,
+     "Contact Info"
+    ]
+   ],
+   "pseudo_content": [],
+   "mobile_only": [],
+   "media": [
+    [
+     "https://prosparity.in/static/media/three_wheeler.b6af5a34e62ff18655ab.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/two_wheeler.233e33762ed2c02a1894.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/dealerships.b4660d271c8eacb51d69.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/mesh_bg.6e40580c1b33f32187c8.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/contact_us.c3dd14877d1494a1f65e.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/logo_with_text.bffff105cfa1cea614dbcbb83289ce39.svg",
+     200,
+     "image/svg+xml"
+    ],
+    [
+     "https://prosparity.in/static/media/banner.a603839aadd2d0f3041b.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/OEMs.356c6bc1c74c9233f40d.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/Dealers.b6fb1eb5caa9074f27a8.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/Lenders.c17b808ddbe2a48b3b12.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/Customers.cbd6be6acf089e9bf750.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/globe_logo.dd8aa27197434c4d1714.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/saurabh.f263ac4e8104d9b20d49.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/anni.7855806fc6354895be74.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/Hakam%20Dhakar.2368252f57a034245580.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/Jitendra%20Sharma.76290fd3c46ed15ea091.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/kanishk.f0f3b11c6ad4c55b27b2.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/investor1.b3366ba0088e51258b20.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/investor3.70498629152ef0a44d6d.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/investor4.86f25d7124a2dcc5068f.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/investor5.ba1affdf53ffbdd4086b.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/investor2.3d11eef62231a0e1ac6f.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/dealerships_mobile.615ad6920ce139948918.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/Sunil%20Dubey.1cf8d27a032528637952.png",
+     200,
+     "image/png"
+    ],
+    [
+     "https://prosparity.in/static/media/rahulPandey.39f22f227c7ded06d97b.png",
+     200,
+     "image/png"
+    ]
+   ],
+   "verify": {
+    "md_words": 309,
+    "rendered_words": 317,
+    "ratio": 0.98722,
+    "diffs": [
+     {
+      "op": "insert",
+      "markdown": "",
+      "rendered": "our products why us about us our investors"
+     }
+    ]
+   },
+   "ids": {
+    "https://prosparity.in/": [
+     "root",
+     "hero",
+     "products",
+     "why-us",
+     "teams",
+     "investors",
+     "contact",
+     "firstName",
+     "lastName",
+     "email",
+     "phone",
+     "message"
+    ]
+   }
+  },
+  {
+   "slug": "dlg-disclosure",
+   "url": "https://prosparity.in/dlg-disclosure",
+   "status": 404,
+   "title": "Home | ProsParity",
+   "metas": {
+    "viewport": "width=device-width,initial-scale=1",
+    "og:title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:type": "website",
+    "og:url": "https://prosparity.in",
+    "og:image": "https://prosparity.in/og_image.jpeg",
+    "og:image:alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@prosparity",
+    "twitter:creator": "@prosparity",
+    "twitter:title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "twitter:description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "twitter:url": "https://prosparity.in",
+    "twitter:image": "https://prosparity.in/og_image.jpeg",
+    "twitter:image:alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "name": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "theme-color": "#000000",
+    "color-scheme": "light",
+    "keywords": "prosparity,ev",
+    "robots": "index,follow"
+   },
+   "canonical": "https://prosparity.in/",
+   "lang": "en",
+   "height": 1066,
+   "forms": 0,
+   "headings": [
+    [
+     1,
+     "ETRIBE FINANCE PRIVATE LIMITED - Website Disclosure"
+    ],
+    [
+     2,
+     "DISCLOSURE UNDER GUIDELINES ON DEFAULT LOSS GUARANTEE (DLG)"
+    ]
+   ],
+   "visual_headings": [],
+   "pseudo_content": [],
+   "mobile_only": [],
+   "media": [
+    [
+     "https://prosparity.in/static/media/logo_with_text.bffff105cfa1cea614dbcbb83289ce39.svg",
+     200,
+     "image/svg+xml"
+    ]
+   ],
+   "verify": {
+    "md_words": 83,
+    "rendered_words": 89,
+    "ratio": 0.94186,
+    "diffs": [
+     {
+      "op": "insert",
+      "markdown": "",
+      "rendered": "our products why us about us our investors"
+     },
+     {
+      "op": "delete",
+      "markdown": "--- ---",
+      "rendered": ""
+     }
+    ]
+   },
+   "ids": {
+    "https://prosparity.in/dlg-disclosure": [
+     "root"
+    ]
+   }
+  },
+  {
+   "slug": "grievance-redressal-and-disclosures",
+   "url": "https://prosparity.in/grievance-redressal-and-disclosures",
+   "status": 404,
+   "title": "Home | ProsParity",
+   "metas": {
+    "viewport": "width=device-width,initial-scale=1",
+    "og:title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:type": "website",
+    "og:url": "https://prosparity.in",
+    "og:image": "https://prosparity.in/og_image.jpeg",
+    "og:image:alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@prosparity",
+    "twitter:creator": "@prosparity",
+    "twitter:title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "twitter:description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "twitter:url": "https://prosparity.in",
+    "twitter:image": "https://prosparity.in/og_image.jpeg",
+    "twitter:image:alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "name": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "theme-color": "#000000",
+    "color-scheme": "light",
+    "keywords": "prosparity,ev",
+    "robots": "index,follow"
+   },
+   "canonical": "https://prosparity.in/",
+   "lang": "en",
+   "height": 5555,
+   "forms": 1,
+   "headings": [
+    [
+     1,
+     "Grievance Redressal & Disclosures"
+    ],
+    [
+     1,
+     "We’re here to resolve it, fairly and on time."
+    ],
+    [
+     2,
+     "A structured framework for every complaint"
+    ],
+    [
+     3,
+     "Easy access"
+    ],
+    [
+     3,
+     "Customer protection"
+    ],
+    [
+     3,
+     "Transparency & defined timelines"
+    ],
+    [
+     3,
+     "A clear escalation path"
+    ],
+    [
+     3,
+     "Learning from feedback"
+    ],
+    [
+     2,
+     "Four steps, each with a guaranteed response time"
+    ],
+    [
+     3,
+     "Lodge your grievance"
+    ],
+    [
+     3,
+     "Chief Grievance Officer"
+    ],
+    [
+     3,
+     "Business Head"
+    ],
+    [
+     3,
+     "RBI Ombudsman"
+    ],
+    [
+     2,
+     "Lodge a complaint"
+    ],
+    [
+     4,
+     "Email us"
+    ],
+    [
+     4,
+     "Submit a complaint"
+    ],
+    [
+     2,
+     "Nodal Grievance Redressal Officer"
+    ],
+    [
+     2,
+     "RBI portals"
+    ],
+    [
+     4,
+     "Report unauthorised entities"
+    ],
+    [
+     4,
+     "Complaint Management System"
+    ],
+    [
+     2,
+     "Our lending partners"
+    ]
+   ],
+   "visual_headings": [],
+   "pseudo_content": [],
+   "mobile_only": [],
+   "media": [
+    [
+     "https://prosparity.in/static/media/logo_with_text.bffff105cfa1cea614dbcbb83289ce39.svg",
+     200,
+     "image/svg+xml"
+    ],
+    [
+     "https://prosparity.in/assets/logos/vivriti.jpg",
+     200,
+     "image/jpeg"
+    ],
+    [
+     "https://prosparity.in/assets/logos/manba.svg",
+     200,
+     "image/svg+xml"
+    ],
+    [
+     "https://prosparity.in/assets/logos/dmi.svg",
+     200,
+     "image/svg+xml"
+    ],
+    [
+     "https://prosparity.in/assets/logos/namdev.webp",
+     200,
+     "image/webp"
+    ]
+   ],
+   "verify": {
+    "md_words": 888,
+    "rendered_words": 912,
+    "ratio": 0.95333,
+    "diffs": [
+     {
+      "op": "insert",
+      "markdown": "",
+      "rendered": "our products why us about us our investors grievance redressal & disclosures our products why us about us our investors copyright © 2024 etribe finance private limited privacy policy terms & condition"
+     },
+     {
+      "op": "insert",
+      "markdown": "",
+      "rendered": "select a category loan / emi disbursement repayment & charges recovery conduct data & privacy other"
+     },
+     {
+      "op": "delete",
+      "markdown": "our products why us about us our investors copyright © 2024 etribe finance private limited privacy policy terms & conditions dlg disclosure refund and cancellation policy grievance redressal & disclos",
+      "rendered": ""
+     }
+    ]
+   },
+   "ids": {
+    "https://prosparity.in/grievance-redressal-and-disclosures": [
+     "root"
+    ],
+    "https://prosparity.in/grievance-redressal-and-disclosures.html": [
+     "top",
+     "policy",
+     "escalation",
+     "lodge",
+     "complaint-form",
+     "cf-name",
+     "cf-app",
+     "cf-email",
+     "cf-phone",
+     "cf-type",
+     "cf-ref",
+     "cf-msg",
+     "cf-success",
+     "officer",
+     "rbi",
+     "partners"
+    ]
+   }
+  },
+  {
+   "slug": "privacy-policy",
+   "url": "https://prosparity.in/privacy-policy",
+   "status": 404,
+   "title": "Home | ProsParity",
+   "metas": {
+    "viewport": "width=device-width,initial-scale=1",
+    "og:title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:type": "website",
+    "og:url": "https://prosparity.in",
+    "og:image": "https://prosparity.in/og_image.jpeg",
+    "og:image:alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@prosparity",
+    "twitter:creator": "@prosparity",
+    "twitter:title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "twitter:description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "twitter:url": "https://prosparity.in",
+    "twitter:image": "https://prosparity.in/og_image.jpeg",
+    "twitter:image:alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "name": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "theme-color": "#000000",
+    "color-scheme": "light",
+    "keywords": "prosparity,ev",
+    "robots": "index,follow"
+   },
+   "canonical": "https://prosparity.in/",
+   "lang": "en",
+   "height": 10098,
+   "forms": 0,
+   "headings": [
+    [
+     1,
+     "Privacy Policy"
+    ],
+    [
+     4,
+     "Overview"
+    ],
+    [
+     4,
+     "User acceptance"
+    ],
+    [
+     4,
+     "Information We collect"
+    ],
+    [
+     4,
+     "acceptance of terms and conditions"
+    ],
+    [
+     4,
+     "Use of your Information"
+    ],
+    [
+     4,
+     "Sharing of your information"
+    ],
+    [
+     4,
+     "Third Party Policies"
+    ],
+    [
+     4,
+     "Our security practices and policies"
+    ],
+    [
+     4,
+     "Information storage, retention, and usage"
+    ],
+    [
+     4,
+     "Restrictions on the use of data"
+    ],
+    [
+     4,
+     "Standards for handling security breach"
+    ],
+    [
+     4,
+     "Withdrawal of Consent & Rectification"
+    ],
+    [
+     4,
+     "Information of Children"
+    ],
+    [
+     4,
+     "advertisers/ third party links to the platform"
+    ],
+    [
+     4,
+     "Modifications"
+    ],
+    [
+     4,
+     "cookies"
+    ]
+   ],
+   "visual_headings": [
+    [
+     24,
+     "Table of contents"
+    ]
+   ],
+   "pseudo_content": [],
+   "mobile_only": [],
+   "media": [
+    [
+     "https://prosparity.in/static/media/logo_with_text.bffff105cfa1cea614dbcbb83289ce39.svg",
+     200,
+     "image/svg+xml"
+    ]
+   ],
+   "verify": {
+    "md_words": 3312,
+    "rendered_words": 3320,
+    "ratio": 0.99879,
+    "diffs": [
+     {
+      "op": "insert",
+      "markdown": "",
+      "rendered": "our products why us about us our investors"
+     }
+    ]
+   },
+   "ids": {
+    "https://prosparity.in/privacy-policy": [
+     "root",
+     "overview",
+     "user-acceptance",
+     "collected-info",
+     "acceptance-of-terms",
+     "use-of-info",
+     "sharing-of-info",
+     "third-party-policies",
+     "security-practices",
+     "info-storage",
+     "restriction-of-use",
+     "standard-of-handling",
+     "withdrawal-of-consent",
+     "child-info",
+     "third-party",
+     "modifications",
+     "cookies"
+    ]
+   }
+  },
+  {
+   "slug": "refund-and-cancellation-policy",
+   "url": "https://prosparity.in/refund-and-cancellation-policy",
+   "status": 404,
+   "title": "Home | ProsParity",
+   "metas": {
+    "viewport": "width=device-width,initial-scale=1",
+    "og:title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:type": "website",
+    "og:url": "https://prosparity.in",
+    "og:image": "https://prosparity.in/og_image.jpeg",
+    "og:image:alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@prosparity",
+    "twitter:creator": "@prosparity",
+    "twitter:title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "twitter:description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "twitter:url": "https://prosparity.in",
+    "twitter:image": "https://prosparity.in/og_image.jpeg",
+    "twitter:image:alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "name": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "theme-color": "#000000",
+    "color-scheme": "light",
+    "keywords": "prosparity,ev",
+    "robots": "index,follow"
+   },
+   "canonical": "https://prosparity.in/",
+   "lang": "en",
+   "height": 1815,
+   "forms": 0,
+   "headings": [
+    [
+     1,
+     "Refund and Cancellation Policy"
+    ],
+    [
+     4,
+     "Applicability"
+    ],
+    [
+     4,
+     "Failed Transactions"
+    ],
+    [
+     4,
+     "Duplicate or Excess Payments"
+    ],
+    [
+     4,
+     "Refund Process"
+    ],
+    [
+     4,
+     "Limitation of Liability"
+    ],
+    [
+     4,
+     "Suspension of Online Payment Services"
+    ]
+   ],
+   "visual_headings": [],
+   "pseudo_content": [],
+   "mobile_only": [],
+   "media": [
+    [
+     "https://prosparity.in/static/media/logo_with_text.bffff105cfa1cea614dbcbb83289ce39.svg",
+     200,
+     "image/svg+xml"
+    ]
+   ],
+   "verify": {
+    "md_words": 473,
+    "rendered_words": 481,
+    "ratio": 0.99161,
+    "diffs": [
+     {
+      "op": "insert",
+      "markdown": "",
+      "rendered": "our products why us about us our investors"
+     }
+    ]
+   },
+   "ids": {
+    "https://prosparity.in/refund-and-cancellation-policy": [
+     "root"
+    ]
+   }
+  },
+  {
+   "slug": "terms-and-conditions",
+   "url": "https://prosparity.in/terms-and-conditions",
+   "status": 404,
+   "title": "Home | ProsParity",
+   "metas": {
+    "viewport": "width=device-width,initial-scale=1",
+    "og:title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:type": "website",
+    "og:url": "https://prosparity.in",
+    "og:image": "https://prosparity.in/og_image.jpeg",
+    "og:image:alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@prosparity",
+    "twitter:creator": "@prosparity",
+    "twitter:title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "twitter:description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "twitter:url": "https://prosparity.in",
+    "twitter:image": "https://prosparity.in/og_image.jpeg",
+    "twitter:image:alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "name": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "theme-color": "#000000",
+    "color-scheme": "light",
+    "keywords": "prosparity,ev",
+    "robots": "index,follow"
+   },
+   "canonical": "https://prosparity.in/",
+   "lang": "en",
+   "height": 10864,
+   "forms": 0,
+   "headings": [
+    [
+     1,
+     "Terms and Conditions"
+    ],
+    [
+     4,
+     "Overview"
+    ],
+    [
+     4,
+     "general"
+    ],
+    [
+     4,
+     "eligibility"
+    ],
+    [
+     4,
+     "acceptance of term and conditions"
+    ],
+    [
+     4,
+     "your account"
+    ],
+    [
+     4,
+     "privacy"
+    ],
+    [
+     4,
+     "license and access"
+    ],
+    [
+     4,
+     "monitoring of the platform an your account"
+    ],
+    [
+     4,
+     "service suspension"
+    ],
+    [
+     4,
+     "prohibited uses"
+    ],
+    [
+     4,
+     "limitation of liability and disclaimer of warranties"
+    ],
+    [
+     4,
+     "indemnity"
+    ],
+    [
+     4,
+     "advertisers/ third party links to the platform"
+    ],
+    [
+     4,
+     "user comments, feedback an other submissions"
+    ],
+    [
+     4,
+     "acknowledgements"
+    ],
+    [
+     4,
+     "applicable laws"
+    ]
+   ],
+   "visual_headings": [
+    [
+     24,
+     "Table of contents"
+    ]
+   ],
+   "pseudo_content": [],
+   "mobile_only": [],
+   "media": [
+    [
+     "https://prosparity.in/static/media/logo_with_text.bffff105cfa1cea614dbcbb83289ce39.svg",
+     200,
+     "image/svg+xml"
+    ]
+   ],
+   "verify": {
+    "md_words": 3891,
+    "rendered_words": 3899,
+    "ratio": 0.99897,
+    "diffs": [
+     {
+      "op": "insert",
+      "markdown": "",
+      "rendered": "our products why us about us our investors"
+     }
+    ]
+   },
+   "ids": {
+    "https://prosparity.in/terms-and-conditions": [
+     "root",
+     "overview",
+     "general",
+     "eligibility",
+     "acceptance",
+     "your-account",
+     "privacy",
+     "license-and-access",
+     "monitoring",
+     "suspension",
+     "prohibited-uses",
+     "limitations",
+     "indemnity",
+     "third-party",
+     "feedback",
+     "acknowledgements",
+     "applicable-laws"
+    ]
+   }
+  },
+  {
+   "slug": "grievance-redressal-and-disclosures-standalone",
+   "url": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+   "status": 200,
+   "title": "Grievance Redressal & Disclosures | ProsParity",
+   "metas": {
+    "viewport": "width=device-width, initial-scale=1.0",
+    "description": "Grievance redressal mechanism and regulatory disclosures for ProsParity (Etribe Finance Private Limited)."
+   },
+   "canonical": "",
+   "lang": "en",
+   "height": 5488,
+   "forms": 1,
+   "headings": [
+    [
+     1,
+     "We’re here to resolve it, fairly and on time."
+    ],
+    [
+     2,
+     "A structured framework for every complaint"
+    ],
+    [
+     3,
+     "Easy access"
+    ],
+    [
+     3,
+     "Customer protection"
+    ],
+    [
+     3,
+     "Transparency & defined timelines"
+    ],
+    [
+     3,
+     "A clear escalation path"
+    ],
+    [
+     3,
+     "Learning from feedback"
+    ],
+    [
+     2,
+     "Four steps, each with a guaranteed response time"
+    ],
+    [
+     3,
+     "Lodge your grievance"
+    ],
+    [
+     3,
+     "Chief Grievance Officer"
+    ],
+    [
+     3,
+     "Business Head"
+    ],
+    [
+     3,
+     "RBI Ombudsman"
+    ],
+    [
+     2,
+     "Lodge a complaint"
+    ],
+    [
+     4,
+     "Email us"
+    ],
+    [
+     4,
+     "Submit a complaint"
+    ],
+    [
+     2,
+     "Nodal Grievance Redressal Officer"
+    ],
+    [
+     2,
+     "RBI portals"
+    ],
+    [
+     4,
+     "Report unauthorised entities"
+    ],
+    [
+     4,
+     "Complaint Management System"
+    ],
+    [
+     2,
+     "Our lending partners"
+    ]
+   ],
+   "visual_headings": [],
+   "pseudo_content": [],
+   "mobile_only": [],
+   "media": [
+    [
+     "https://prosparity.in/assets/logos/vivriti.jpg",
+     200,
+     "image/jpeg"
+    ],
+    [
+     "https://prosparity.in/assets/logos/manba.svg",
+     200,
+     "image/svg+xml"
+    ],
+    [
+     "https://prosparity.in/assets/logos/dmi.svg",
+     200,
+     "image/svg+xml"
+    ],
+    [
+     "https://prosparity.in/assets/logos/namdev.webp",
+     200,
+     "image/webp"
+    ]
+   ],
+   "verify": {
+    "md_words": 893,
+    "rendered_words": 909,
+    "ratio": 0.99112,
+    "diffs": [
+     {
+      "op": "insert",
+      "markdown": "",
+      "rendered": "select a category loan / emi disbursement repayment & charges recovery conduct data & privacy other"
+     }
+    ]
+   },
+   "ids": {
+    "https://prosparity.in/grievance-redressal-and-disclosures.html": [
+     "top",
+     "policy",
+     "escalation",
+     "lodge",
+     "complaint-form",
+     "cf-name",
+     "cf-app",
+     "cf-email",
+     "cf-phone",
+     "cf-type",
+     "cf-ref",
+     "cf-msg",
+     "cf-success",
+     "officer",
+     "rbi",
+     "partners",
+     "yr"
+    ]
+   }
+  },
+  {
+   "slug": "not-found-404",
+   "url": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+   "status": 404,
+   "title": "Home | ProsParity",
+   "metas": {
+    "viewport": "width=device-width,initial-scale=1",
+    "og:title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:type": "website",
+    "og:url": "https://prosparity.in",
+    "og:image": "https://prosparity.in/og_image.jpeg",
+    "og:image:alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@prosparity",
+    "twitter:creator": "@prosparity",
+    "twitter:title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "twitter:description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "twitter:url": "https://prosparity.in",
+    "twitter:image": "https://prosparity.in/og_image.jpeg",
+    "twitter:image:alt": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "name": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "title": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "description": "Reimagining Distribution Of Credit In The Electric Mobility Sector",
+    "theme-color": "#000000",
+    "color-scheme": "light",
+    "keywords": "prosparity,ev",
+    "robots": "index,follow"
+   },
+   "canonical": "https://prosparity.in/",
+   "lang": "en",
+   "height": 1133,
+   "forms": 0,
+   "headings": [],
+   "visual_headings": [
+    [
+     64,
+     "We seem lost!"
+    ]
+   ],
+   "pseudo_content": [],
+   "mobile_only": [],
+   "media": [
+    [
+     "https://prosparity.in/static/media/logo_with_text.bffff105cfa1cea614dbcbb83289ce39.svg",
+     200,
+     "image/svg+xml"
+    ]
+   ],
+   "verify": {
+    "md_words": 59,
+    "rendered_words": 67,
+    "ratio": 0.93651,
+    "diffs": [
+     {
+      "op": "insert",
+      "markdown": "",
+      "rendered": "our products why us about us our investors"
+     }
+    ]
+   },
+   "ids": {
+    "https://prosparity.in/crawler-check-this-route-does-not-exist": [
+     "root"
+    ]
+   }
+  }
+ ],
+ "failures": [],
+ "discovery": {
+  "robots": "# https://www.robotstxt.org/robotstxt.html\nUser-agent: *\nDisallow:\n",
+  "sitemap_urls": [
+   "https://example.com/"
+  ],
+  "routes": [
+   "/",
+   "/dlg-disclosure",
+   "/grievance-redressal-and-disclosures",
+   "/privacy-policy",
+   "/refund-and-cancellation-policy",
+   "/terms-and-conditions"
+  ],
+  "static_refs": [
+   "/grievance-redressal-and-disclosures.html",
+   "/pdf/ProsParity_Grievance_Redressal_Policy.pdf"
+  ],
+  "probes": {
+   "/fair-practices-code": {
+    "status": 404,
+    "type": ""
+   },
+   "/fair-practices-code.html": {
+    "status": 404,
+    "type": ""
+   },
+   "/fair-practice-code.html": {
+    "status": 404,
+    "type": ""
+   },
+   "/pdf/ProsParity_Fair_Practices_Code.pdf": {
+    "status": 404,
+    "type": ""
+   },
+   "/pdf/Fair_Practices_Code.pdf": {
+    "status": 404,
+    "type": ""
+   },
+   "/lending-partners.html": {
+    "status": 404,
+    "type": ""
+   },
+   "/disclosures.html": {
+    "status": 404,
+    "type": ""
+   },
+   "/about": {
+    "status": 404,
+    "type": ""
+   },
+   "/contact": {
+    "status": 404,
+    "type": ""
+   },
+   "/careers": {
+    "status": 404,
+    "type": ""
+   },
+   "/blog": {
+    "status": 404,
+    "type": ""
+   },
+   "/.well-known/security.txt": {
+    "status": 404,
+    "type": ""
+   },
+   "/sitemap_index.xml": {
+    "status": 404,
+    "type": ""
+   }
+  },
+  "sitemap_raw": "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url>\n    <loc>https://example.com/</loc>\n    <lastmod>2023-08-01</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n</urlset>\n",
+  "js_path": "/static/js/main.108c9c08.js",
+  "css_path": "/static/css/main.79cdc351.css",
+  "js_sha256": "1f8bfca3897325c10fa75cda7e1c16d75b56a5d7dffc6364d472380fa546300e"
+ },
+ "browser": {
+  "binary": "/Users/aryan/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell",
+  "version": "141.0.7390.37"
+ },
+ "team": {
+  "Founding Team": [
+   {
+    "card": {
+     "spans": [
+      "Saurabh Khodke",
+      "Co-Founder and CEO"
+     ],
+     "img": "https://prosparity.in/static/media/saurabh.f263ac4e8104d9b20d49.png",
+     "alt": "Saurabh Khodke - team member of Prosparity"
+    },
+    "modal": {
+     "spans": [
+      "Saurabh Khodke",
+      "Co-Founder and CEO",
+      "Saurabh boasts over 12 years of expertise in origination, credit, and debt capital markets. During his tenure at Northern Arc Capital, he was instrumental in establishing the consumer lending asset class and leading the vehicle finance asset class. At ProsParity, Saurabh leads fundraising, finance, strategy, risk management, and overall organizational development, skillfully blending technology, consumer credit, and asset financing. He holds an MBA from IIFM-Bhopal."
+     ],
+     "links": [
+      "https://www.linkedin.com/in/saurabh-khodke-80694240/?originalSubdomain=in"
+     ],
+     "img": "https://prosparity.in/static/media/saurabh.f263ac4e8104d9b20d49.png",
+     "alt": "Saurabh Khodke",
+     "text": "Saurabh Khodke\nCo-Founder and CEO\nclick to move to next slide\nSaurabh boasts over 12 years of expertise in origination, credit, and debt capital markets. During his tenure at Northern Arc Capital, he was instrumental in establishing the consumer lending asset class and leading the vehicle finance asset class. At ProsParity, Saurabh leads fundraising, finance, strategy, risk management, and overall organizational development, skillfully blending technology, consumer credit, and asset financing. He holds an MBA from IIFM-Bhopal.\nclick to move to prev slide\nclick to move to next slide"
+    }
+   },
+   {
+    "card": {
+     "spans": [
+      "Anirudh Dhakar",
+      "Co-Founder and COO"
+     ],
+     "img": "https://prosparity.in/static/media/anni.7855806fc6354895be74.png",
+     "alt": "Anirudh Dhakar - team member of Prosparity"
+    },
+    "modal": {
+     "spans": [
+      "Anirudh Dhakar",
+      "Co-Founder and COO",
+      "Anirudh brings over a decade of experience to the table, having worked with SBI, Northern Arc Capital, and more. His expertise lies in crafting and scaling lending platforms harmonizing multiple stakeholders seamlessly, and maintaining high standards in processes, credit quality, and compliance. Known for his successful collaborations with various fintech lending firms, he excels in driving sales, credit, technology, and product strategies with finesse. Anirudh is focused on leading ProsParity towards becoming a top-tier lending platform in asset financing. Anirudh holds an MBA from IIFM-Bhopal."
+     ],
+     "links": [
+      "https://www.linkedin.com/in/anirudh-dhakar-78979a4b/"
+     ],
+     "img": "https://prosparity.in/static/media/anni.7855806fc6354895be74.png",
+     "alt": "Anirudh Dhakar",
+     "text": "Anirudh Dhakar\nCo-Founder and COO\nclick to move to next slide\nAnirudh brings over a decade of experience to the table, having worked with SBI, Northern Arc Capital, and more. His expertise lies in crafting and scaling lending platforms harmonizing multiple stakeholders seamlessly, and maintaining high standards in processes, credit quality, and compliance. Known for his successful collaborations with various fintech lending firms, he excels in driving sales, credit, technology, and product strategies with finesse. Anirudh is focused on leading ProsParity towards becoming a top-tier lending platform in asset financing. Anirudh holds an MBA from IIFM-Bhopal.\nclick to move to prev slide\nclick to move to next slide"
+    }
+   },
+   {
+    "card": {
+     "spans": [
+      "Hakam Singh Dhakar",
+      "Co-Founder and Business Head"
+     ],
+     "img": "https://prosparity.in/static/media/Hakam%20Dhakar.2368252f57a034245580.png",
+     "alt": "Hakam Singh Dhakar - team member of Prosparity"
+    },
+    "modal": {
+     "spans": [
+      "Hakam Singh Dhakar",
+      "Co-Founder and Business Head",
+      "Hakam brings over 23 years of experience in sales, credit, and managerial roles across various financial institutions such as Mahindra, Sonalika, L&T Finance and Sundaram Finance. He was instrumental in setting up the Tractor & Agri-equipment financing vertical for Sundaram Finance in Chhattisgarh. At ProsParity, Hakam heads the 3-wheeler segment, managing the field team end-to-end from sourcing and underwriting to collections."
+     ],
+     "links": [
+      "https://www.linkedin.com/in/hakam-singh-dhakar-935bb9317/"
+     ],
+     "img": "https://prosparity.in/static/media/Hakam%20Dhakar.2368252f57a034245580.png",
+     "alt": "Hakam Singh Dhakar",
+     "text": "Hakam Singh Dhakar\nCo-Founder and Business Head\nclick to move to next slide\nHakam brings over 23 years of experience in sales, credit, and managerial roles across various financial institutions such as Mahindra, Sonalika, L&T Finance and Sundaram Finance. He was instrumental in setting up the Tractor & Agri-equipment financing vertical for Sundaram Finance in Chhattisgarh. At ProsParity, Hakam heads the 3-wheeler segment, managing the field team end-to-end from sourcing and underwriting to collections.\nclick to move to prev slide\nclick to move to next slide"
+    }
+   },
+   {
+    "card": {
+     "spans": [
+      "Jitendra Sharma",
+      "Co-Founder and Business Head"
+     ],
+     "img": "https://prosparity.in/static/media/Jitendra%20Sharma.76290fd3c46ed15ea091.png",
+     "alt": "Jitendra Sharma  - team member of Prosparity"
+    },
+    "modal": {
+     "spans": [
+      "Jitendra Sharma ",
+      "Co-Founder and Business Head",
+      "Jitendra brings over 18 years of experience from the credit & lending space where he oversaw sales and collections of various assets such as tractors, cars, SUVs, and LCVs during his time at firms such as Sundaram Finance, HDFC and Kotak Mahindra. He was instrumental in growing Sundaram Finance’s footprint in the commercial vehicle financing space in Madhya Pradesh from its early days. At ProsParity, Jitendra heads the 2-wheeler segment, managing the field team end-to-end from sourcing and underwriting to collections."
+     ],
+     "links": [
+      "https://www.linkedin.com/in/jitendra-sharma-256008318/"
+     ],
+     "img": "https://prosparity.in/static/media/Jitendra%20Sharma.76290fd3c46ed15ea091.png",
+     "alt": "Jitendra Sharma ",
+     "text": "Jitendra Sharma\nCo-Founder and Business Head\nclick to move to next slide\nJitendra brings over 18 years of experience from the credit & lending space where he oversaw sales and collections of various assets such as tractors, cars, SUVs, and LCVs during his time at firms such as Sundaram Finance, HDFC and Kotak Mahindra. He was instrumental in growing Sundaram Finance’s footprint in the commercial vehicle financing space in Madhya Pradesh from its early days. At ProsParity, Jitendra heads the 2-wheeler segment, managing the field team end-to-end from sourcing and underwriting to collections.\nclick to move to prev slide\nclick to move to next slide"
+    }
+   },
+   {
+    "card": {
+     "spans": [
+      "Kanishk Agarwal",
+      "Founding Member"
+     ],
+     "img": "https://prosparity.in/static/media/kanishk.f0f3b11c6ad4c55b27b2.png",
+     "alt": "Kanishk Agarwal - team member of Prosparity"
+    },
+    "modal": {
+     "spans": [
+      "Kanishk Agarwal",
+      "Founding Member",
+      "Kanishk brings over 5 years of extensive experience in the financial services and consulting industry, having contributed significantly at TresVista Analytics, Stashfin, and Alstonia Impact. Throughout his career, he has worked closely with founders on key topics such as Investor Relations, Fund Raising, and M&A opportunities. As the first employee and a founding member of ProsParity, Kanishk plays a pivotal role in driving the company’s 0 to 1 journey, focusing on product development, strategic planning, fundraising, and operational execution."
+     ],
+     "links": [
+      "https://www.linkedin.com/in/kanishk-agarwal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+     ],
+     "img": "https://prosparity.in/static/media/kanishk.f0f3b11c6ad4c55b27b2.png",
+     "alt": "Kanishk Agarwal",
+     "text": "Kanishk Agarwal\nFounding Member\nclick to move to next slide\nKanishk brings over 5 years of extensive experience in the financial services and consulting industry, having contributed significantly at TresVista Analytics, Stashfin, and Alstonia Impact. Throughout his career, he has worked closely with founders on key topics such as Investor Relations, Fund Raising, and M&A opportunities. As the first employee and a founding member of ProsParity, Kanishk plays a pivotal role in driving the company’s 0 to 1 journey, focusing on product development, strategic planning, fundraising, and operational execution.\nclick to move to prev slide\nclick to move to next slide"
+    }
+   }
+  ],
+  "Team": [
+   {
+    "card": {
+     "spans": [
+      "Sunil Dubey",
+      "State Head"
+     ],
+     "img": "https://prosparity.in/static/media/Sunil%20Dubey.1cf8d27a032528637952.png",
+     "alt": "Sunil Dubey - team member of Prosparity"
+    },
+    "modal": {
+     "spans": [
+      "Sunil Dubey",
+      "State Head",
+      "Sunil brings over 20 years of experience in sales, business development, and managerial roles across various financial institutions such as Mahindra, Sundaram Finance, Chola and Hinduja Leyland Finance. Over the course of his career, he worked on various initiatives such as team building & management, business development, collections & recovery, etc. At ProsParity, Sunil is an area head and looks at business development."
+     ],
+     "links": [
+      "https://www.linkedin.com/in/sunil-dubey-aa121931a/"
+     ],
+     "img": "https://prosparity.in/static/media/Sunil%20Dubey.1cf8d27a032528637952.png",
+     "alt": "Sunil Dubey",
+     "text": "Sunil Dubey\nState Head\nclick to move to next slide\nSunil brings over 20 years of experience in sales, business development, and managerial roles across various financial institutions such as Mahindra, Sundaram Finance, Chola and Hinduja Leyland Finance. Over the course of his career, he worked on various initiatives such as team building & management, business development, collections & recovery, etc. At ProsParity, Sunil is an area head and looks at business development.\nclick to move to prev slide\nclick to move to next slide"
+    }
+   },
+   {
+    "card": {
+     "spans": [
+      "Rahul Pandey",
+      "Lead, Credit Ops"
+     ],
+     "img": "https://prosparity.in/static/media/rahulPandey.39f22f227c7ded06d97b.png",
+     "alt": "Rahul Pandey - team member of Prosparity"
+    },
+    "modal": {
+     "spans": [
+      "Rahul Pandey",
+      "Lead, Credit Ops",
+      "Rahul is a core team member of ProsParity. He brings deep expertise in credit and business operations, with a strong background in fintech and lending. Prior to joining ProsParity, he played a key role in co-lending operations at Stashfin, ensuring efficient execution and seamless partnerships. Before that, at BharatPe, he contributed to building and scaling lending finance, optimizing processes, and driving operational excellence.  As part of the Credit Ops team at ProsParity, Rahul is instrumental in driving the company's zero-to-one journey. He focuses on building and streamlining credit and business operations, ensuring compliance, efficiency, and innovation to create a scalable and robust financial ecosystem."
+     ],
+     "links": [
+      "https://www.linkedin.com/in/rahul-pandey-871013194/"
+     ],
+     "img": "https://prosparity.in/static/media/rahulPandey.39f22f227c7ded06d97b.png",
+     "alt": "Rahul Pandey",
+     "text": "Rahul Pandey\nLead, Credit Ops\nclick to move to next slide\nRahul is a core team member of ProsParity. He brings deep expertise in credit and business operations, with a strong background in fintech and lending. Prior to joining ProsParity, he played a key role in co-lending operations at Stashfin, ensuring efficient execution and seamless partnerships. Before that, at BharatPe, he contributed to building and scaling lending finance, optimizing processes, and driving operational excellence. As part of the Credit Ops team at ProsParity, Rahul is instrumental in driving the company's zero-to-one journey. He focuses on building and streamlining credit and business operations, ensuring compliance, efficiency, and innovation to create a scalable and robust financial ecosystem.\nclick to move to prev slide\nclick to move to next slide"
+    }
+   }
+  ]
+ },
+ "pdf": {
+  "path": "/pdf/ProsParity_Grievance_Redressal_Policy.pdf",
+  "slug": "grievance-redressal-policy-pdf",
+  "status": 200,
+  "bytes": 117219,
+  "file": "ProsParity_Grievance_Redressal_Policy.pdf",
+  "sha256": "037cb155412eb143af7546092f953b53b0df8c820122fe1797bd44aab5a41112",
+  "pdfinfo": "Author:          Russell Fernandez\nCreator:         Writer\nProducer:        LibreOffice 24.2\nCreationDate:    Tue Jun 30 17:56:17 2026 IST\nCustom Metadata: no\nMetadata Stream: no\nTagged:          yes\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           4\nEncrypted:       no\nPage size:       595.304 x 841.89 pts (A4)\nPage rot:        0\nFile size:       117219 bytes\nOptimized:       no\nPDF version:     1.7\n"
+ },
+ "asset_errors": [],
+ "links": {
+  "all": [
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#contact",
+    "abs": "https://prosparity.in/#contact",
+    "text": "Contact us",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "#contact",
+    "abs": "https://prosparity.in/#contact",
+    "text": "Contact us",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "https://www.beenext.com/",
+    "abs": "https://www.beenext.com/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "https://www.sparrowvc.com/",
+    "abs": "https://www.sparrowvc.com/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "https://allincapital.vc/",
+    "abs": "https://allincapital.vc/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "https://www.devc.com/",
+    "abs": "https://www.devc.com/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "https://www.huddleventures.vc/",
+    "abs": "https://www.huddleventures.vc/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "mailto:hello@prosparity.in",
+    "abs": "mailto:hello@prosparity.in",
+    "text": "hello@prosparity.in",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "abs": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "abs": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/privacy-policy",
+    "abs": "https://prosparity.in/privacy-policy",
+    "text": "Privacy Policy",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/terms-and-conditions",
+    "abs": "https://prosparity.in/terms-and-conditions",
+    "text": "Terms & Conditions",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/dlg-disclosure",
+    "abs": "https://prosparity.in/dlg-disclosure",
+    "text": "DLG Disclosure",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/refund-and-cancellation-policy",
+    "abs": "https://prosparity.in/refund-and-cancellation-policy",
+    "text": "Refund and Cancellation Policy",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/grievance-redressal-and-disclosures",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "text": "Grievance Redressal & Disclosures",
+    "target": "",
+    "frame": "https://prosparity.in/",
+    "download": null,
+    "page": "home"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#contact",
+    "abs": "https://prosparity.in/#contact",
+    "text": "Contact us",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "abs": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "abs": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/privacy-policy",
+    "abs": "https://prosparity.in/privacy-policy",
+    "text": "Privacy Policy",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/terms-and-conditions",
+    "abs": "https://prosparity.in/terms-and-conditions",
+    "text": "Terms & Conditions",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/dlg-disclosure",
+    "abs": "https://prosparity.in/dlg-disclosure",
+    "text": "DLG Disclosure",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/refund-and-cancellation-policy",
+    "abs": "https://prosparity.in/refund-and-cancellation-policy",
+    "text": "Refund and Cancellation Policy",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/grievance-redressal-and-disclosures",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "text": "Grievance Redressal & Disclosures",
+    "target": "",
+    "frame": "https://prosparity.in/dlg-disclosure",
+    "download": null,
+    "page": "dlg-disclosure"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#contact",
+    "abs": "https://prosparity.in/#contact",
+    "text": "Contact us",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "abs": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "abs": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/privacy-policy",
+    "abs": "https://prosparity.in/privacy-policy",
+    "text": "Privacy Policy",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/terms-and-conditions",
+    "abs": "https://prosparity.in/terms-and-conditions",
+    "text": "Terms & Conditions",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/dlg-disclosure",
+    "abs": "https://prosparity.in/dlg-disclosure",
+    "text": "DLG Disclosure",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/refund-and-cancellation-policy",
+    "abs": "https://prosparity.in/refund-and-cancellation-policy",
+    "text": "Refund and Cancellation Policy",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/grievance-redressal-and-disclosures",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "text": "Grievance Redressal & Disclosures",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "#policy",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#policy",
+    "text": "Policy",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "#escalation",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#escalation",
+    "text": "Escalation",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "#lodge",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#lodge",
+    "text": "Lodge a complaint",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "#officer",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#officer",
+    "text": "Officer details",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "#rbi",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#rbi",
+    "text": "RBI portals",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "#partners",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#partners",
+    "text": "Lending partners",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "#lodge",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#lodge",
+    "text": "Raise a grievance",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/pdf/ProsParity_Grievance_Redressal_Policy.pdf",
+    "abs": "https://prosparity.in/pdf/ProsParity_Grievance_Redressal_Policy.pdf",
+    "text": "Download full policy (PDF)",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": "ProsParity_Grievance_Redressal_Policy.pdf",
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "mailto:help@prosparity.in",
+    "abs": "mailto:help@prosparity.in",
+    "text": "help@prosparity.in",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "mailto:kanishk@prosparity.in",
+    "abs": "mailto:kanishk@prosparity.in",
+    "text": "kanishk@prosparity.in",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "mailto:jitendra@prosparity.in",
+    "abs": "mailto:jitendra@prosparity.in",
+    "text": "jitendra@prosparity.in",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "abs": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "text": "Go to RBI CMS portal →",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "mailto:help@prosparity.in",
+    "abs": "mailto:help@prosparity.in",
+    "text": "help@prosparity.in",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "mailto:help@prosparity.in",
+    "abs": "mailto:help@prosparity.in",
+    "text": "help@prosparity.in",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "tel:+919582078336",
+    "abs": "tel:+919582078336",
+    "text": "+91 95820 78336",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "mailto:kanishk@prosparity.in",
+    "abs": "mailto:kanishk@prosparity.in",
+    "text": "kanishk@prosparity.in",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "https://sachet.rbi.org.in/",
+    "abs": "https://sachet.rbi.org.in/",
+    "text": "RBI Sachet Report unauthorised entities Lodge complaints and access information about entities that collect deposits or operate without authorisation. sachet.rbi.org.in",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "abs": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "text": "RBI CMS Complaint Management System File a complaint with the RBI Ombudsman after exhausting all internal escalation levels. cms.rbi.org.in",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "abs": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "text": "cms.rbi.org.in",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "https://www.vivriticapital.com/assets/files/privacy-policy/PRIVACY_POLICY.pdf",
+    "abs": "https://www.vivriticapital.com/assets/files/privacy-policy/PRIVACY_POLICY.pdf",
+    "text": "Privacy",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "https://www.vivriticapital.com/assets/files/term-condition/Terms%20and%20Conditions%20-%20VCL%20Website%201.pdf",
+    "abs": "https://www.vivriticapital.com/assets/files/term-condition/Terms%20and%20Conditions%20-%20VCL%20Website%201.pdf",
+    "text": "Terms",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "https://www.dmifinance.in/privacy-and-security/",
+    "abs": "https://www.dmifinance.in/privacy-and-security/",
+    "text": "Privacy",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "https://www.dmifinance.in/wp-content/uploads/2025/01/General-Terms-Conditions-020125.pdf",
+    "abs": "https://www.dmifinance.in/wp-content/uploads/2025/01/General-Terms-Conditions-020125.pdf",
+    "text": "Terms",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "https://www.manbafinance.com/policies/",
+    "abs": "https://www.manbafinance.com/policies/",
+    "text": "Privacy",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "https://www.manbafinance.com/terms-conditions/",
+    "abs": "https://www.manbafinance.com/terms-conditions/",
+    "text": "Terms",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "https://www.namfin.in/investor/codes-policies",
+    "abs": "https://www.namfin.in/investor/codes-policies",
+    "text": "Privacy",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "https://admin.namfin.in/storage/app/public/files/media_file/6a3907857b0411782122373.pdf",
+    "abs": "https://admin.namfin.in/storage/app/public/files/media_file/6a3907857b0411782122373.pdf",
+    "text": "Terms",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#contact",
+    "abs": "https://prosparity.in/#contact",
+    "text": "Contact us",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "abs": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "abs": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/privacy-policy",
+    "abs": "https://prosparity.in/privacy-policy",
+    "text": "Privacy Policy",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/terms-and-conditions",
+    "abs": "https://prosparity.in/terms-and-conditions",
+    "text": "Terms & Conditions",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/dlg-disclosure",
+    "abs": "https://prosparity.in/dlg-disclosure",
+    "text": "DLG Disclosure",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/refund-and-cancellation-policy",
+    "abs": "https://prosparity.in/refund-and-cancellation-policy",
+    "text": "Refund and Cancellation Policy",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/grievance-redressal-and-disclosures",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "text": "Grievance Redressal & Disclosures",
+    "target": "",
+    "frame": "https://prosparity.in/privacy-policy",
+    "download": null,
+    "page": "privacy-policy"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#contact",
+    "abs": "https://prosparity.in/#contact",
+    "text": "Contact us",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "abs": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "abs": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/privacy-policy",
+    "abs": "https://prosparity.in/privacy-policy",
+    "text": "Privacy Policy",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/terms-and-conditions",
+    "abs": "https://prosparity.in/terms-and-conditions",
+    "text": "Terms & Conditions",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/dlg-disclosure",
+    "abs": "https://prosparity.in/dlg-disclosure",
+    "text": "DLG Disclosure",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/refund-and-cancellation-policy",
+    "abs": "https://prosparity.in/refund-and-cancellation-policy",
+    "text": "Refund and Cancellation Policy",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/grievance-redressal-and-disclosures",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "text": "Grievance Redressal & Disclosures",
+    "target": "",
+    "frame": "https://prosparity.in/refund-and-cancellation-policy",
+    "download": null,
+    "page": "refund-and-cancellation-policy"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/#contact",
+    "abs": "https://prosparity.in/#contact",
+    "text": "Contact us",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "https://www.prosparity.in/privacy-policy",
+    "abs": "https://www.prosparity.in/privacy-policy",
+    "text": "https://www.prosparity.in/privacy-policy",
+    "target": "_blank",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "abs": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "abs": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/privacy-policy",
+    "abs": "https://prosparity.in/privacy-policy",
+    "text": "Privacy Policy",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/terms-and-conditions",
+    "abs": "https://prosparity.in/terms-and-conditions",
+    "text": "Terms & Conditions",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/dlg-disclosure",
+    "abs": "https://prosparity.in/dlg-disclosure",
+    "text": "DLG Disclosure",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/refund-and-cancellation-policy",
+    "abs": "https://prosparity.in/refund-and-cancellation-policy",
+    "text": "Refund and Cancellation Policy",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/grievance-redressal-and-disclosures",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "text": "Grievance Redressal & Disclosures",
+    "target": "",
+    "frame": "https://prosparity.in/terms-and-conditions",
+    "download": null,
+    "page": "terms-and-conditions"
+   },
+   {
+    "href": "/",
+    "abs": "https://prosparity.in/",
+    "text": "ProsParity",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "#policy",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#policy",
+    "text": "Policy",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "#escalation",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#escalation",
+    "text": "Escalation",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "#lodge",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#lodge",
+    "text": "Lodge a complaint",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "#officer",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#officer",
+    "text": "Officer details",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "#rbi",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#rbi",
+    "text": "RBI portals",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "#partners",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#partners",
+    "text": "Lending partners",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "#lodge",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#lodge",
+    "text": "Raise a grievance",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "/pdf/ProsParity_Grievance_Redressal_Policy.pdf",
+    "abs": "https://prosparity.in/pdf/ProsParity_Grievance_Redressal_Policy.pdf",
+    "text": "Download full policy (PDF)",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": "ProsParity_Grievance_Redressal_Policy.pdf",
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "mailto:help@prosparity.in",
+    "abs": "mailto:help@prosparity.in",
+    "text": "help@prosparity.in",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "mailto:kanishk@prosparity.in",
+    "abs": "mailto:kanishk@prosparity.in",
+    "text": "kanishk@prosparity.in",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "mailto:jitendra@prosparity.in",
+    "abs": "mailto:jitendra@prosparity.in",
+    "text": "jitendra@prosparity.in",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "abs": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "text": "Go to RBI CMS portal →",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "mailto:help@prosparity.in",
+    "abs": "mailto:help@prosparity.in",
+    "text": "help@prosparity.in",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "mailto:help@prosparity.in",
+    "abs": "mailto:help@prosparity.in",
+    "text": "help@prosparity.in",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "tel:+919582078336",
+    "abs": "tel:+919582078336",
+    "text": "+91 95820 78336",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "mailto:kanishk@prosparity.in",
+    "abs": "mailto:kanishk@prosparity.in",
+    "text": "kanishk@prosparity.in",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "https://sachet.rbi.org.in/",
+    "abs": "https://sachet.rbi.org.in/",
+    "text": "RBI Sachet Report unauthorised entities Lodge complaints and access information about entities that collect deposits or operate without authorisation. sachet.rbi.org.in",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "abs": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "text": "RBI CMS Complaint Management System File a complaint with the RBI Ombudsman after exhausting all internal escalation levels. cms.rbi.org.in",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "abs": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "text": "cms.rbi.org.in",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "https://www.vivriticapital.com/assets/files/privacy-policy/PRIVACY_POLICY.pdf",
+    "abs": "https://www.vivriticapital.com/assets/files/privacy-policy/PRIVACY_POLICY.pdf",
+    "text": "Privacy",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "https://www.vivriticapital.com/assets/files/term-condition/Terms%20and%20Conditions%20-%20VCL%20Website%201.pdf",
+    "abs": "https://www.vivriticapital.com/assets/files/term-condition/Terms%20and%20Conditions%20-%20VCL%20Website%201.pdf",
+    "text": "Terms",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "https://www.dmifinance.in/privacy-and-security/",
+    "abs": "https://www.dmifinance.in/privacy-and-security/",
+    "text": "Privacy",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "https://www.dmifinance.in/wp-content/uploads/2025/01/General-Terms-Conditions-020125.pdf",
+    "abs": "https://www.dmifinance.in/wp-content/uploads/2025/01/General-Terms-Conditions-020125.pdf",
+    "text": "Terms",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "https://www.manbafinance.com/policies/",
+    "abs": "https://www.manbafinance.com/policies/",
+    "text": "Privacy",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "https://www.manbafinance.com/terms-conditions/",
+    "abs": "https://www.manbafinance.com/terms-conditions/",
+    "text": "Terms",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "https://www.namfin.in/investor/codes-policies",
+    "abs": "https://www.namfin.in/investor/codes-policies",
+    "text": "Privacy",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "https://admin.namfin.in/storage/app/public/files/media_file/6a3907857b0411782122373.pdf",
+    "abs": "https://admin.namfin.in/storage/app/public/files/media_file/6a3907857b0411782122373.pdf",
+    "text": "Terms",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "#escalation",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#escalation",
+    "text": "Escalation matrix",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "#lodge",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#lodge",
+    "text": "Lodge a complaint",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "#officer",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures.html#officer",
+    "text": "Nodal Officer",
+    "target": "",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "abs": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "text": "RBI Ombudsman (CMS)",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "https://sachet.rbi.org.in/",
+    "abs": "https://sachet.rbi.org.in/",
+    "text": "RBI Sachet",
+    "target": "_blank",
+    "frame": "https://prosparity.in/grievance-redressal-and-disclosures.html",
+    "download": null,
+    "page": "grievance-redressal-and-disclosures-standalone"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/#contact",
+    "abs": "https://prosparity.in/#contact",
+    "text": "Contact us",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/",
+    "abs": "https://prosparity.in/",
+    "text": "Return to homepage",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/#hero",
+    "abs": "https://prosparity.in/#hero",
+    "text": "",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "abs": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/#products",
+    "abs": "https://prosparity.in/#products",
+    "text": "Our products",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/#why-us",
+    "abs": "https://prosparity.in/#why-us",
+    "text": "Why us",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/#teams",
+    "abs": "https://prosparity.in/#teams",
+    "text": "About us",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/#investors",
+    "abs": "https://prosparity.in/#investors",
+    "text": "Our Investors",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "abs": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "text": "",
+    "target": "_blank",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/privacy-policy",
+    "abs": "https://prosparity.in/privacy-policy",
+    "text": "Privacy Policy",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/terms-and-conditions",
+    "abs": "https://prosparity.in/terms-and-conditions",
+    "text": "Terms & Conditions",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/dlg-disclosure",
+    "abs": "https://prosparity.in/dlg-disclosure",
+    "text": "DLG Disclosure",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/refund-and-cancellation-policy",
+    "abs": "https://prosparity.in/refund-and-cancellation-policy",
+    "text": "Refund and Cancellation Policy",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   },
+   {
+    "href": "/grievance-redressal-and-disclosures",
+    "abs": "https://prosparity.in/grievance-redressal-and-disclosures",
+    "text": "Grievance Redressal & Disclosures",
+    "target": "",
+    "frame": "https://prosparity.in/crawler-check-this-route-does-not-exist",
+    "download": null,
+    "page": "not-found-404"
+   }
+  ],
+  "external": [
+   {
+    "url": "https://admin.namfin.in/storage/app/public/files/media_file/6a3907857b0411782122373.pdf",
+    "status": 200,
+    "final": "https://admin.namfin.in/storage/app/public/files/media_file/6a3907857b0411782122373.pdf",
+    "pages": [
+     "grievance-redressal-and-disclosures",
+     "grievance-redressal-and-disclosures-standalone"
+    ]
+   },
+   {
+    "url": "https://allincapital.vc/",
+    "status": 200,
+    "final": "https://www.allincapital.vc/",
+    "pages": [
+     "home"
+    ]
+   },
+   {
+    "url": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "status": 200,
+    "final": "https://cms.rbi.org.in/cms/indexpage.html#eng",
+    "pages": [
+     "grievance-redressal-and-disclosures",
+     "grievance-redressal-and-disclosures-standalone"
+    ]
+   },
+   {
+    "url": "https://sachet.rbi.org.in/",
+    "status": 206,
+    "final": "https://sachet.rbi.org.in/",
+    "pages": [
+     "grievance-redressal-and-disclosures",
+     "grievance-redressal-and-disclosures-standalone"
+    ]
+   },
+   {
+    "url": "https://www.beenext.com/",
+    "status": 200,
+    "final": "https://www.beenext.com/",
+    "pages": [
+     "home"
+    ]
+   },
+   {
+    "url": "https://www.devc.com/",
+    "status": 200,
+    "final": "https://www.devc.com/",
+    "pages": [
+     "home"
+    ]
+   },
+   {
+    "url": "https://www.dmifinance.in/privacy-and-security/",
+    "status": "error: TimeoutError('The read operation timed out')",
+    "final": "",
+    "pages": [
+     "grievance-redressal-and-disclosures",
+     "grievance-redressal-and-disclosures-standalone"
+    ]
+   },
+   {
+    "url": "https://www.dmifinance.in/wp-content/uploads/2025/01/General-Terms-Conditions-020125.pdf",
+    "status": "error: TimeoutError('The read operation timed out')",
+    "final": "",
+    "pages": [
+     "grievance-redressal-and-disclosures",
+     "grievance-redressal-and-disclosures-standalone"
+    ]
+   },
+   {
+    "url": "https://www.huddleventures.vc/",
+    "status": 200,
+    "final": "https://www.huddleventures.vc/",
+    "pages": [
+     "home"
+    ]
+   },
+   {
+    "url": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/thrive-trail-private-limited/",
+    "pages": [
+     "dlg-disclosure",
+     "grievance-redressal-and-disclosures",
+     "home",
+     "not-found-404",
+     "privacy-policy",
+     "refund-and-cancellation-policy",
+     "terms-and-conditions"
+    ]
+   },
+   {
+    "url": "https://www.manbafinance.com/policies/",
+    "status": 200,
+    "final": "https://www.manbafinance.com/policies/",
+    "pages": [
+     "grievance-redressal-and-disclosures",
+     "grievance-redressal-and-disclosures-standalone"
+    ]
+   },
+   {
+    "url": "https://www.manbafinance.com/terms-conditions/",
+    "status": 200,
+    "final": "https://www.manbafinance.com/terms-conditions/",
+    "pages": [
+     "grievance-redressal-and-disclosures",
+     "grievance-redressal-and-disclosures-standalone"
+    ]
+   },
+   {
+    "url": "https://www.namfin.in/investor/codes-policies",
+    "status": 200,
+    "final": "https://www.namfin.in/investor/codes-policies",
+    "pages": [
+     "grievance-redressal-and-disclosures",
+     "grievance-redressal-and-disclosures-standalone"
+    ]
+   },
+   {
+    "url": "https://www.sparrowvc.com/",
+    "status": 200,
+    "final": "https://sparrowvc.com/",
+    "pages": [
+     "home"
+    ]
+   },
+   {
+    "url": "https://www.vivriticapital.com/assets/files/privacy-policy/PRIVACY_POLICY.pdf",
+    "status": 200,
+    "final": "https://www.vivriticapital.com/assets/files/privacy-policy/PRIVACY_POLICY.pdf",
+    "pages": [
+     "grievance-redressal-and-disclosures",
+     "grievance-redressal-and-disclosures-standalone"
+    ]
+   },
+   {
+    "url": "https://www.vivriticapital.com/assets/files/term-condition/Terms%20and%20Conditions%20-%20VCL%20Website%201.pdf",
+    "status": 200,
+    "final": "https://www.vivriticapital.com/assets/files/term-condition/Terms%20and%20Conditions%20-%20VCL%20Website%201.pdf",
+    "pages": [
+     "grievance-redressal-and-disclosures",
+     "grievance-redressal-and-disclosures-standalone"
+    ]
+   }
+  ],
+  "anchor_problems": []
+ }
+}

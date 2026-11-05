@@ -1,0 +1,42 @@
+# Strings in the JS bundle not seen in any captured page
+
+Automatically extracted from /static/js/main.108c9c08.js. Includes third-party library strings and text that only appears after interaction, such as form validation messages. Review before relying on any line.
+
+- Async refinement encountered during synchronous parse operation. Use .parseAsync instead.
+- Asynchronous transform encountered during synchronous parse operation. Use .parseAsync instead.
+- Could not submit the form
+- Derived constructors may only return object or undefined
+- Did you forget to passthrough the `ref` to the actual DOM node?
+- Element not found:
+- Email is required.
+- Failed to submit the form.
+- First Name can not be more than 30 characters.
+- First Name is required.
+- Form submitted succesfully!
+- Generator is already running
+- Input not instance of
+- Internal ZodObject error: invalid unknownKeys value.
+- Invalid email address.
+- Invalid property
+- Last Name can not be more than 30 characters.
+- Last Name is required.
+- Missing Focus.First, Focus.Previous, Focus.Next or Focus.Last
+- Phone number should be of 10 digits.
+- Please gsap.registerPlugin(Observer)
+- Please gsap.registerPlugin(ScrollTrigger)
+- React Router caught the following error during render
+- Requires GSAP 3.11.0 or later
+- Synchronous parse encountered promise.
+- Too Many Requests
+- Unavailable For Headless Browser
+- Validation failed but no issues detected.
+- You have to provide an `open` and an `onClose` prop to the `Dialog` component.
+- You must pass an array of schemas to z.tuple([ ... ])
+- You provided an `onClose` prop to the `Dialog`, but forgot an `open` prop.
+- You provided an `open` prop to the `Dialog`, but forgot an `onClose` prop.
+- diagram showing the prosparity logo
+- forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+- left divider
+- logo for prosparity
+- logo of invesor in the Prosparity
+- right divider

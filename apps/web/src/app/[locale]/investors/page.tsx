@@ -36,7 +36,7 @@ export default async function InvestorsPage({ params }: PageParams) {
           <p className="t-small mt-6 text-mint">{home("asOf", { date: formatDate(metrics.aum.asOf, locale), source: s("company") })}</p>
         </div>
       </section>
-      <section className="section container-site">
+      <section className="band-white"><div className="section container-site">
         <h2 className="t-heading text-forest">{t("backersTitle")}</h2>
         <ul className="mt-6 grid grid-cols-2 border-l border-t border-hairline md:grid-cols-3 lg:grid-cols-5">
           {backers.map((logo) => (
@@ -47,8 +47,8 @@ export default async function InvestorsPage({ params }: PageParams) {
             </li>
           ))}
         </ul>
-      </section>
-      <section className="container-site pb-(--section)">
+      </div></section>
+      <section className="section container-site">
         <h2 className="t-heading text-forest">{t("leadersTitle")}</h2>
         <ul className="mt-6">
           {leaders.slice(0, 2).map((p) => (
@@ -61,7 +61,7 @@ export default async function InvestorsPage({ params }: PageParams) {
             </li>
           ))}
         </ul>
-        <Link href="/about" className="text-link mt-4">{t("leadersLink")}</Link>
+        <Link href="/team" className="text-link mt-4">{t("leadersLink")}</Link>
       </section>
       <FormSplit title={t("formTitle")} text={t("formText")} type="investor" />
     </>

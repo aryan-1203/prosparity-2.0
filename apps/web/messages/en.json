@@ -5,14 +5,31 @@
     "homeDescription": "End-to-end financing and lifecycle services for electric two- and three-wheelers in Tier 2 and Tier 3 cities across India."
   },
   "nav": {
-    "dealers": "Dealers",
-    "investors": "Investors",
-    "lenders": "Lenders",
-    "lending": "Lending",
-    "battron": "Battron",
-    "about": "About",
+    "products": "Products",
+    "allProducts": "All products",
+    "platform": "Platform",
+    "howItWorks": "How it works",
+    "howItWorksNote": "From lender capital to collection",
+    "technology": "Technology",
+    "technologyNote": "The systems we built ourselves",
+    "network": "Network",
+    "networkNote": "Where we lend today",
+    "impact": "Impact",
+    "impactNote": "Livelihoods and cleaner cities",
+    "company": "Company",
+    "about": "About us",
+    "aboutNote": "Our mission and journey",
+    "team": "Team",
+    "teamNote": "The people behind ProsParity",
+    "partners": "Partners & Lenders",
+    "partnersNote": "Lend, sell or build with us",
+    "newsroom": "Newsroom",
+    "newsroomNote": "Company news and EV finance updates",
     "careers": "Careers",
-    "contact": "Contact",
+    "careersNote": "Work with us",
+    "investors": "Investors",
+    "support": "Support",
+    "battronAria": "Battron, opens battron.in in a new tab",
     "callback": "Get a loan callback",
     "menu": "Menu",
     "close": "Close",
@@ -30,7 +47,7 @@
   "sources": {
     "company": "Company data",
     "managementEstimate": "Management estimate",
-    "vahanFy26": "VAHAN via Autocar Pro and Reporter, FY26"
+    "autocarFy26": "Autocar Professional, FY2026"
   },
   "metrics": {
     "disbursed": "disbursed since 2024",
@@ -45,107 +62,6 @@
     "daysToResale": "average from repossession to resale, Apr to Aug 2026",
     "e3wElectricShare": "of three-wheelers sold in India in FY26 were electric"
   },
-  "home": {
-    "hero": {
-      "title": "The battery decides the credit risk.",
-      "lead": "End-to-end financing and lifecycle services for electric two- and three-wheelers in Tier 2 and Tier 3 cities.",
-      "primary": "Become a dealer partner",
-      "secondary": "See how it works"
-    },
-    "lifecycle": {
-      "label": "The life of one vehicle",
-      "stageOf": "Stage {n} of 5",
-      "owner": {
-        "prosparity": "ProsParity",
-        "battron": "Battron"
-      },
-      "stages": {
-        "finance": {
-          "name": "Finance",
-          "text": "A dealer brings the loan. ProsParity underwrites it, collects it and services it.",
-          "gauge": "Loan on file"
-        },
-        "service": {
-          "name": "Service",
-          "text": "When a battery fault comes up, Battron, an authorised service centre, diagnoses and repairs it.",
-          "gauge": "Service history added"
-        },
-        "custody": {
-          "name": "Custody",
-          "text": "When a lender repossesses an EV, Battron takes custody, charges it and tests the battery.",
-          "gauge": "Battery tested"
-        },
-        "resale": {
-          "name": "Resale",
-          "text": "The vehicle is sold to its next owner with a certified battery grade.",
-          "gauge": "Grade certified"
-        },
-        "refinance": {
-          "name": "Refinance",
-          "text": "About 3 in 4 Battron buyers take a ProsParity loan.",
-          "gauge": "Grade goes with the vehicle"
-        }
-      },
-      "close": "The next owner's loan starts the loop again."
-    },
-    "problem": {
-      "title": "Without a battery grade, a repossessed EV sells near scrap.",
-      "body": "The battery drives both the chance of default and the loss when one happens. It has no common grade, so buyers can't trust the price and lenders recover little. Grading it gives buyers a reason to pay more, and lenders recover more on every default.",
-      "chartTitle": "Recovered on resale, as a share of the amount due",
-      "battron": "With Battron",
-      "industry": "Across the industry",
-      "note": "Battron figure: Apr to Aug 2026. Industry figure: management estimate.",
-      "tableMethod": "Method",
-      "tableShare": "Share recovered"
-    },
-    "businesses": {
-      "title": "Two businesses, one vehicle",
-      "lending": {
-        "name": "Lending",
-        "text": "We source loans through dealers, underwrite them, and collect and service them. Loans are funded by our lending partners and our own NBFC.",
-        "link": "See our loans"
-      },
-      "battron": {
-        "name": "Battron",
-        "text": "The resale platform for used EVs, starting with repossessed vehicles from any lender. Custody, battery grading, certified resale and authorised service.",
-        "link": "Explore Battron"
-      }
-    },
-    "proof": {
-      "title": "Where we stand today",
-      "asOf": "As of {date}. Source: {source}.",
-      "citiesAcross": "Tier 2 and Tier 3 cities across {states} states"
-    },
-    "paths": {
-      "title": "Find your way in",
-      "dealers": {
-        "name": "Dealers and OEMs",
-        "text": "Faster approvals, and a service partner for the batteries you sell."
-      },
-      "investors": {
-        "name": "Investors",
-        "text": "The story, our traction and the people behind it."
-      },
-      "lenders": {
-        "name": "Lending partners",
-        "text": "Co-lending, and custody and resale for any lender."
-      },
-      "borrowers": {
-        "name": "EV owners and drivers",
-        "text": "Loans for your vehicle, through a dealer near you."
-      }
-    },
-    "partners": {
-      "title": "Who we work with",
-      "lenders": "Lending partners",
-      "backers": "Backed by"
-    },
-    "cta": {
-      "title": "Sell EVs in Uttar Pradesh, Madhya Pradesh or Chhattisgarh? Let's talk.",
-      "primary": "Become a dealer partner",
-      "secondary": "Get a loan callback"
-    }
-  },
   "footer": {
     "company": "Company",
     "forYou": "Work with us",
@@ -154,172 +70,10 @@
     "terms": "Terms and conditions",
     "grievance": "Grievance redressal",
     "tagline": "EV finance, service and resale.",
-    "rights": "© {year} ProsParity"
+    "rights": "© {year} ProsParity",
+    "allLegal": "All legal documents"
   },
   "pages": {
-    "lending": {
-      "metaTitle": "EV loans",
-      "metaDescription": "Loans for electric three-wheelers, cargo vehicles, two-wheelers and batteries, through dealers in Uttar Pradesh, Madhya Pradesh and Chhattisgarh.",
-      "title": "Loans for the EV that earns your living.",
-      "lead": "We finance electric two- and three-wheelers through dealers in Tier 2 and Tier 3 cities.",
-      "productsTitle": "What we finance",
-      "productsIntro": "Ask your dealer which loan fits your vehicle, or request a call from us.",
-      "products": [
-        {
-          "name": "Electric three-wheelers",
-          "text": "Loans for efficient, eco-friendly vehicles for last-mile transport."
-        },
-        {
-          "name": "E-autos and cargo (L5)",
-          "text": "Finance for passenger e-autos and L5 cargo vehicles that carry your business."
-        },
-        {
-          "name": "Electric two-wheelers",
-          "text": "Loans for reliable, convenient two-wheelers for urban and rural commuting."
-        },
-        {
-          "name": "Battery loans",
-          "text": "Finance for the battery, the part of an EV that matters most."
-        },
-        {
-          "name": "Dealer financing",
-          "text": "Competitive rates and a selective assessment, so dealers can grow their business with us."
-        }
-      ],
-      "howTitle": "How it works",
-      "how": [
-        {
-          "name": "Choose your vehicle at a dealer",
-          "text": "Visit a dealer near you, or ask us to call you."
-        },
-        {
-          "name": "Apply through the dealer",
-          "text": "The dealer helps you with your application."
-        },
-        {
-          "name": "We review your loan",
-          "text": "We assess the application and tell you the outcome."
-        },
-        {
-          "name": "Drive, and pay your EMI",
-          "text": "We service your loan, and you pay a fixed EMI every month."
-        }
-      ],
-      "emiTitle": "What is an EMI?",
-      "emiText": "An EMI is the fixed amount you pay each month until the loan is finished. Each payment covers part of the loan and part of the interest. Your EMI depends on how much you borrow, the interest rate and how long you take to repay.",
-      "formTitle": "Get a loan callback",
-      "formText": "Leave your number and we'll call you in the language you prefer."
-    },
-    "battron": {
-      "metaTitle": "Battron: EV custody, grading and resale",
-      "metaDescription": "Battron is the resale platform for used EVs, starting with repossessed vehicles from any lender.",
-      "title": "Battron gives a used EV a price people can trust.",
-      "lead": "The resale platform for used EVs, starting with repossessed vehicles from any lender.",
-      "gauge": "Graded, certified and ready for its next owner",
-      "servicesTitle": "What Battron does",
-      "services": [
-        {
-          "name": "Custody and grading",
-          "text": "The lender hands over the repossessed EV. Battron charges it, stores it under cover and tests the battery to set an anchor price. The vehicle stays on the lender's books until it is sold."
-        },
-        {
-          "name": "Certified resale",
-          "text": "The vehicle is sold to a new owner with a certified grade. ProsParity can finance the buyer, and the lender receives the proceeds."
-        },
-        {
-          "name": "Authorised service centre",
-          "text": "For any EV owner. Battron diagnoses the battery fault and repairs it, or replaces it with the supplier's parts, and the vehicle returns to the road."
-        }
-      ],
-      "buyersLabel": "Battron buyers take a ProsParity loan",
-      "buyersValue": "About 3 in 4",
-      "forTitle": "Who it's for",
-      "forLenders": "Lenders",
-      "forLendersText": "Custody, grading and resale for any lender.",
-      "forMakers": "Battery makers",
-      "forMakersText": "An authorised service centre for warranty work.",
-      "forBuyers": "Buyers",
-      "forBuyersText": "A used EV with a certified grade, and a loan to buy it.",
-      "formTitle": "Talk to Battron",
-      "formText": "For battery makers and service enquiries. Tell us what you need and we'll get back to you."
-    },
-    "dealers": {
-      "metaTitle": "For dealers and OEMs",
-      "metaDescription": "Offer EV loans to your customers and get faster approvals with ProsParity, across Uttar Pradesh, Madhya Pradesh and Chhattisgarh.",
-      "title": "Sell more EVs. We'll handle the loan.",
-      "lead": "Partner with ProsParity to offer finance on electric two- and three-wheelers, with faster approvals and a service partner behind you.",
-      "whyTitle": "Why dealers work with us",
-      "why": [
-        {
-          "name": "Faster approvals",
-          "text": "Your customers get a decision sooner, so a sale doesn't wait on the loan."
-        },
-        {
-          "name": "Loans across your range",
-          "text": "Electric three-wheelers, e-autos and cargo (L5), two-wheelers and battery loans."
-        },
-        {
-          "name": "Dealer financing",
-          "text": "Competitive rates and a selective assessment, to help you grow your business."
-        },
-        {
-          "name": "We stay with the loan",
-          "text": "We underwrite, collect and service every loan we source through you."
-        }
-      ],
-      "stepsTitle": "How to get started",
-      "steps": [
-        {
-          "name": "Tell us about your business",
-          "text": "Fill in the form below with your city, brands and monthly EV sales."
-        },
-        {
-          "name": "We get in touch",
-          "text": "Our team reviews your details and contacts you."
-        },
-        {
-          "name": "Start offering loans",
-          "text": "Once you're onboarded, your customers can apply through you."
-        }
-      ],
-      "battronTitle": "Battron, your authorised service centre",
-      "battronText": "When a battery fault comes up, Battron diagnoses and repairs it, or replaces it with the supplier's parts. Your customers get back on the road.",
-      "battronLink": "Explore Battron",
-      "formTitle": "Become a dealer partner",
-      "formText": "Tell us about your dealership or OEM business and we'll be in touch."
-    },
-    "lenders": {
-      "metaTitle": "For lending partners",
-      "metaDescription": "Co-lend with ProsParity on electric two- and three-wheelers, and use Battron for custody and resale.",
-      "title": "Lend to EVs with the asset protected.",
-      "lead": "We source, underwrite, collect and service. Battron protects the asset. You lend with a clearer view of the risk.",
-      "coTitle": "How we co-lend",
-      "coIntro": "Most loans sit on our lending partners' balance sheets. The rest sit with our own NBFC.",
-      "flowLabel": "How a loan flows from dealer to lending partner",
-      "flow": [
-        "Dealer",
-        "ProsParity",
-        "Lending partner"
-      ],
-      "co": [
-        {
-          "name": "We source through dealers",
-          "text": "Loans come from our dealer network in Tier 2 and Tier 3 cities."
-        },
-        {
-          "name": "We underwrite, collect and service",
-          "text": "We run the loan from application to closure."
-        },
-        {
-          "name": "First-loss cover",
-          "text": "We place first-loss cover on partner-funded loans, so our interests stay aligned with yours."
-        }
-      ],
-      "battronTitle": "Battron works for any lender",
-      "battronText": "Hand over a repossessed EV and Battron takes custody, grades the battery and resells it with a certified grade. The vehicle stays on your books until it is sold, and you receive the proceeds.",
-      "formTitle": "Lend with us",
-      "formText": "Tell us about your institution and we'll be in touch."
-    },
     "investors": {
       "metaTitle": "For investors",
       "metaDescription": "The ProsParity story, our traction, backers and leadership.",
@@ -339,9 +93,9 @@
     },
     "about": {
       "metaTitle": "About us",
-      "metaDescription": "Our mission, our journey from Bhopal, and the people behind ProsParity.",
+      "metaDescription": "Our mission, our journey from Bhopal, and what we believe.",
       "title": "Reimagining the distribution of credit in electric mobility.",
-      "lead": "We're building a full-stack financing platform that moves credit from lenders to individuals, fleet operators, dealers and OEMs, so that more electric vehicles reach Bharat.",
+      "lead": "We're building a full-stack digital financing platform that moves credit from lenders to individuals, fleet operators, dealers and OEMs, driving wider adoption of electric vehicles across Bharat for a sustainable future.",
       "timelineTitle": "Our journey",
       "timeline": [
         {
@@ -369,26 +123,134 @@
           "text": "Three-wheelers, e-autos and cargo, and two-wheelers all live."
         }
       ],
-      "leadershipTitle": "Leadership"
+      "leadershipTitle": "Leadership",
+      "blocks": [
+        {
+          "type": "prose",
+          "title": "What we do",
+          "paras": [
+            "ProsParity finances, services, resells and refinances electric two- and three-wheelers across their whole life, in Tier 2 and Tier 3 cities.",
+            "We run two businesses that feed each other. Lending sources, underwrites, collects and services loans. Battron takes custody of repossessed EVs, grades the battery, resells the vehicle and acts as an authorised service centre."
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "Two halves of lending, one rail",
+          "items": [
+            {
+              "name": "Digital-only can't see",
+              "text": "Algorithms can't assess thin-file borrowers.",
+              "icon": "Monitor"
+            },
+            {
+              "name": "Physical-only can't scale",
+              "text": "Branches and paper don't stretch across Bharat.",
+              "icon": "Footprints"
+            }
+          ]
+        },
+        {
+          "type": "rail",
+          "title": "What we run on",
+          "items": [
+            {
+              "name": "Field-first",
+              "text": "We learn the borrower on the ground, then build the software.",
+              "icon": "Footprints"
+            },
+            {
+              "name": "Own the full life",
+              "text": "Origination to collection, with no hand-offs and no excuses.",
+              "icon": "Repeat"
+            },
+            {
+              "name": "Impact compounding",
+              "text": "Every loan is a livelihood, and a petrol vehicle off the road.",
+              "icon": "Leaf"
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "title": "Where the team built lending before",
+          "paras": [
+            "Our founders and leaders have worked across vehicle finance and lending at Northern Arc Capital, SBI, Sundaram Finance, L&T Finance, HDFC, Kotak Mahindra, Mahindra and Sonalika, and now they're rebuilding how credit reaches EV riders."
+          ]
+        }
+      ],
+      "backersTitle": "Backed by investors who back founders building for Bharat",
+      "ctaTitle": "Lend through us, sell through us, or build with us.",
+      "ctaText": "Meet the people behind ProsParity.",
+      "ctaPrimary": "Meet the team",
+      "ctaSecondary": "Join us"
     },
     "careers": {
       "metaTitle": "Careers",
       "metaDescription": "Work with ProsParity.",
-      "title": "Work on credit that moves EVs.",
-      "lead": "We're a small team, working close to the dealers and drivers we serve.",
+      "title": "Build EV credit for Bharat.",
+      "lead": "Field-first people, putting Bharat on electric wheels. We work from dealer counters in small towns to the code that underwrites them.",
       "rolesTitle": "Open roles",
-      "empty": "We have no roles listed right now. If you'd like to work with us, write to"
-    },
-    "contact": {
-      "metaTitle": "Contact us",
-      "metaDescription": "Get in touch with ProsParity.",
-      "title": "Talk to us.",
-      "lead": "Tell us how we can help. For a loan, the fastest way is a callback.",
-      "emailLabel": "Email",
-      "grievanceLabel": "Have a complaint?",
-      "grievanceLink": "Grievance redressal",
-      "officeLabel": "Registered office",
-      "officePlaceholder": "To be confirmed by the company before launch."
+      "empty": "We have no roles listed right now. If you'd like to work with us, write to",
+      "blocks": [
+        {
+          "type": "rail",
+          "title": "How we work",
+          "items": [
+            {
+              "name": "Field-first",
+              "text": "We learn the borrower on the ground, then build the software.",
+              "icon": "Footprints"
+            },
+            {
+              "name": "Own the full life",
+              "text": "Origination to collection, with no hand-offs and no excuses.",
+              "icon": "Repeat"
+            },
+            {
+              "name": "Impact compounding",
+              "text": "Every loan is a livelihood, and a petrol vehicle off the road.",
+              "icon": "Leaf"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "The teams we build",
+          "items": [
+            {
+              "name": "Credit",
+              "text": "Field officers and analysts who understand thin-file borrowers.",
+              "icon": "Gauge"
+            },
+            {
+              "name": "Sales",
+              "text": "Relationship managers who work closely with dealers.",
+              "icon": "Users"
+            },
+            {
+              "name": "Collections",
+              "text": "Tele-calling and field teams who solve problems early.",
+              "icon": "IndianRupee"
+            },
+            {
+              "name": "Technology and product",
+              "text": "People who build the systems all of this runs on.",
+              "icon": "Code"
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "title": "Open roles",
+          "paras": [
+            "We don't have any roles listed right now. If you'd like to work with us, send your CV and a line on what you'd build to help@prosparity.in."
+          ]
+        }
+      ],
+      "ctaTitle": "Don't see your role? Say hi anyway.",
+      "ctaText": "Write to help@prosparity.in with your CV.",
+      "ctaPrimary": "Meet the team",
+      "ctaSecondary": "Our story"
     },
     "legal": {
       "metaTitle": "Legal and regulatory",
@@ -407,7 +269,8 @@
         },
         "grievance-redressal": {
           "name": "Grievance redressal",
-          "text": "How to raise a complaint, and who to contact."
+          "text": "How to raise a complaint, and who to contact.",
+          "icon": "MessageSquare"
         },
         "dlg-disclosure": {
           "name": "DLG disclosure",
@@ -441,16 +304,639 @@
       "title": "We can't find that page.",
       "home": "Go to the home page",
       "callback": "Get a loan callback"
+    },
+    "products": {
+      "metaTitle": "EV loans and dealer finance",
+      "metaDescription": "Loans for electric two-wheelers, three-wheelers and cargo loaders, battery loans, and finance for the dealers who sell them.",
+      "title": "Finance for every kind of electric ride",
+      "lead": "Loans for electric two-wheelers, three-wheelers, cargo loaders and batteries, and for the dealers who sell them.",
+      "listTitle": "What we finance",
+      "batteryName": "Battery loans",
+      "batteryText": "Finance for the battery, the part of an EV that matters most. Ask for a callback to find out more.",
+      "blocks": [
+        {
+          "type": "grid",
+          "title": "Who it's for",
+          "intro": "The people who keep India moving.",
+          "items": [
+            {
+              "name": "Delivery riders and gig workers",
+              "text": "Electric two-wheelers that cut the cost of every kilometre.",
+              "icon": "Package"
+            },
+            {
+              "name": "Daily commuters",
+              "text": "A reliable ride for urban and rural travel.",
+              "icon": "Route"
+            },
+            {
+              "name": "E-rickshaw owner-drivers",
+              "text": "Own your vehicle and keep what it earns.",
+              "icon": "UserCheck"
+            },
+            {
+              "name": "Fleet operators",
+              "text": "Grow a passenger or cargo fleet.",
+              "icon": "Truck"
+            },
+            {
+              "name": "Logistics and kirana suppliers",
+              "text": "L5 cargo loaders for last-mile work.",
+              "icon": "Store"
+            },
+            {
+              "name": "EV dealerships and OEM partners",
+              "text": "Inventory and working capital finance.",
+              "icon": "Store"
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "title": "How getting a loan works",
+          "items": [
+            {
+              "name": "Visit a partner dealer, or ask us to call",
+              "text": "Tell us what you want to finance."
+            },
+            {
+              "name": "Share your details",
+              "text": "KYC is captured on our dealer app, with no paper forms."
+            },
+            {
+              "name": "Meet our field officer",
+              "text": "An officer may visit to understand your work and income."
+            },
+            {
+              "name": "Get on the road",
+              "text": "The loan is sanctioned by a regulated lender and disbursed."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "title": "Common questions",
+          "items": [
+            {
+              "q": "Who actually lends the money?",
+              "a": "All loans are approved and sanctioned by RBI-registered NBFCs and banks, which are disclosed upfront during your application."
+            },
+            {
+              "q": "What will my interest rate be?",
+              "a": "It depends on the product, your profile and the lending partner. You'll see the full cost in your Key Fact Statement before you agree to anything."
+            },
+            {
+              "q": "Do I need a salary slip?",
+              "a": "Not always. Our field officers can verify your work and income in person, so self-employed borrowers can qualify."
+            }
+          ]
+        }
+      ],
+      "ctaTitle": "Not sure which loan fits?",
+      "ctaText": "Leave your number and we'll help you work it out.",
+      "ctaPrimary": "Get a loan callback",
+      "ctaSecondary": "See how it works"
+    },
+    "productLabels": {
+      "overview": "Overview",
+      "why": "Why it works",
+      "who": "Who it's for",
+      "journey": "From showroom to road",
+      "documents": "What you'll need",
+      "documentsIntro": "Your dealer or our team will confirm exactly what's needed.",
+      "others": "Other products",
+      "applyCta": "Apply now",
+      "dealerCta": "Become a dealer partner",
+      "emiCta": "Calculate your EMI",
+      "allProducts": "All products",
+      "batteryName": "Battery loans",
+      "batteryText": "Finance for the battery, the part of an EV that matters most."
+    },
+    "apply": {
+      "metaTitle": "Apply for finance",
+      "metaDescription": "Request a callback for an EV loan. No documents needed before we speak.",
+      "title": "Tell us what you drive. We'll call you.",
+      "lead": "Leave a few details and a member of our team will call you, in Hindi or English.",
+      "points": [
+        "No documents needed yet.",
+        "We'll explain your options in plain words.",
+        "You don't commit to anything by asking."
+      ],
+      "formTitle": "Get a loan callback",
+      "blocks": [
+        {
+          "type": "steps",
+          "title": "What happens next",
+          "items": [
+            {
+              "name": "We call you",
+              "text": "Someone from our team rings you during working hours."
+            },
+            {
+              "name": "We find the right loan",
+              "text": "We talk through your work, the vehicle and what fits."
+            },
+            {
+              "name": "You visit a partner dealer",
+              "text": "The dealer helps you choose a vehicle and complete your application."
+            },
+            {
+              "name": "You get on the road",
+              "text": "After verification and approval, the loan is disbursed."
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "Keep these ready",
+          "intro": "You don't need them for the call, but you will for your application.",
+          "items": [
+            {
+              "name": "KYC",
+              "text": "Aadhaar and PAN.",
+              "icon": "IdCard"
+            },
+            {
+              "name": "Address proof",
+              "text": "Any valid proof of address.",
+              "icon": "Home"
+            },
+            {
+              "name": "Bank statement",
+              "text": "Your recent months.",
+              "icon": "Landmark"
+            },
+            {
+              "name": "Income",
+              "text": "A field officer can verify this in person.",
+              "icon": "Wallet"
+            }
+          ]
+        },
+        {
+          "type": "links",
+          "title": "Not sure yet?",
+          "items": [
+            {
+              "name": "Compare products",
+              "text": "See what we finance and who each loan is for.",
+              "href": "/products"
+            },
+            {
+              "name": "How it works",
+              "text": "Follow a loan from start to finish.",
+              "href": "/how-it-works"
+            },
+            {
+              "name": "Support",
+              "text": "Answers to common questions.",
+              "href": "/support"
+            }
+          ]
+        }
+      ]
+    },
+    "howItWorks": {
+      "metaTitle": "How it works",
+      "metaDescription": "Seven stages from lender capital to collection, on our app and on the ground.",
+      "title": "Digital alone can't see. Physical alone can't scale.",
+      "lead": "Seven stages take a loan from lender capital to collection. Some happen on our app, some happen on the ground, and we run all of them ourselves.",
+      "blocks": [
+        {
+          "type": "steps",
+          "title": "Follow one rupee of credit",
+          "intro": "From the lender to the road, and back.",
+          "items": [
+            {
+              "name": "Lending partner to ProsParity",
+              "text": "Partner lenders and NBFCs supply capital through origination, co-lending and term-debt structures. We originate, underwrite and service each loan for its full life."
+            },
+            {
+              "name": "Walk-in at the dealership",
+              "text": "Most loans start when a customer visits a partner dealership. The dealer is part of the credit decision."
+            },
+            {
+              "name": "Dealer-facing app",
+              "text": "Sourcing runs on our own app, operated by our sales team or dealers. No paper forms."
+            },
+            {
+              "name": "Digital underwriting",
+              "text": "Bureau, KYC and verification run while the customer is still at the dealership."
+            },
+            {
+              "name": "Field assessment",
+              "text": "A field officer visits home or workplace. This is how we see thin-file borrowers that bureaus can't."
+            },
+            {
+              "name": "Loan disbursed",
+              "text": "Documentation is completed digitally, and the repayment mandate is set up before funds are released."
+            },
+            {
+              "name": "Collection",
+              "text": "Our own tele-calling and field teams work on a platform we built, from allocation to legal. It's never outsourced."
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "title": "After the loan",
+          "paras": [
+            "Our job doesn't end at disbursal. A battery fault can take a vehicle off the road and put an EMI at risk, so Battron, an authorised service centre, can diagnose and repair it.",
+            "If a loan does go wrong and a lender repossesses the vehicle, Battron takes custody, tests the battery and resells the vehicle with a certified grade. About 3 in 4 Battron buyers take a ProsParity loan, and the next owner's loan starts the loop again."
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "Why both halves matter",
+          "items": [
+            {
+              "name": "What digital does well",
+              "text": "Speed, consistency, clean records and no paper forms.",
+              "icon": "Monitor"
+            },
+            {
+              "name": "What digital misses",
+              "text": "Borrowers with a thin file, and work that leaves no paper trail.",
+              "icon": "Monitor"
+            },
+            {
+              "name": "What the field does well",
+              "text": "Seeing how someone really works and earns.",
+              "icon": "Footprints"
+            },
+            {
+              "name": "What the field can't do alone",
+              "text": "Branches and paper don't stretch across Bharat.",
+              "icon": "Footprints"
+            }
+          ]
+        }
+      ],
+      "ctaTitle": "Ready to start?",
+      "ctaText": "Apply through a dealer, or ask us to call you.",
+      "ctaPrimary": "Get a loan callback",
+      "ctaSecondary": "See the technology"
+    },
+    "technology": {
+      "metaTitle": "Technology",
+      "metaDescription": "How we built our own sourcing, credit and collections systems for EV lending.",
+      "title": "Built in-house, not licensed.",
+      "lead": "Collecting on an e-rickshaw loan isn't like collecting on a credit card. Off-the-shelf systems aren't made for that, so we built our own, and rule changes don't wait in a vendor's queue.",
+      "blocks": [
+        {
+          "type": "rail",
+          "title": "Three systems, one stack",
+          "items": [
+            {
+              "name": "Sourcing",
+              "text": "A dealer-facing app takes a lead through to sanction for relationship managers and dealer staff: OTP, KYC, product selection and offer. It's built for patchy connectivity.",
+              "icon": "Smartphone"
+            },
+            {
+              "name": "Credit",
+              "text": "Two scoring models. One scores customers on bureau data plus field-collected signals. The other scores dealers and OEMs before onboarding, because dealer quality matters so much to the quality of a loan book.",
+              "icon": "Gauge"
+            },
+            {
+              "name": "Core",
+              "text": "Origination and loan management, connected to bureau, KYC, e-sign, e-NACH and payments. Partner-wise books report each lending structure separately.",
+              "icon": "Layers"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "Inside our collections platform",
+          "intro": "Nine modules, one account timeline.",
+          "items": [
+            {
+              "name": "Borrower 360",
+              "text": "Customer, vehicle, loan and interaction history on one screen.",
+              "icon": "User"
+            },
+            {
+              "name": "Allocation engine",
+              "text": "Rules-based assignment to tele-callers, field agents and legal.",
+              "icon": "ListChecks"
+            },
+            {
+              "name": "Field agent app",
+              "text": "Geo-tagged visits, offline capture, receipts and route view.",
+              "icon": "MapPin"
+            },
+            {
+              "name": "Digital collections",
+              "text": "UPI collect, payment links, and e-NACH presentation and re-presentation.",
+              "icon": "IndianRupee"
+            },
+            {
+              "name": "Multi-channel campaigns",
+              "text": "WhatsApp, SMS, IVR and voice-bot sequences with reply handling.",
+              "icon": "MessageSquare"
+            },
+            {
+              "name": "Promise-to-pay",
+              "text": "Capture promises, send reminders and track what was kept.",
+              "icon": "Clock"
+            },
+            {
+              "name": "Legal and recovery",
+              "text": "Notices, case tracking, settlement and repossession trails.",
+              "icon": "Gavel"
+            },
+            {
+              "name": "Telematics",
+              "text": "Vehicle location and health signals for financed EVs.",
+              "icon": "Satellite"
+            },
+            {
+              "name": "Audit and controls",
+              "text": "Role-based access, logs and RBI-aligned process trails.",
+              "icon": "ShieldCheck"
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "title": "Why it matters to our partners",
+          "paras": [
+            "For lenders, it means every loan sits on a clear record, with books reported partner by partner. For dealers, it means applications are captured at the counter without paperwork. For borrowers, it means reminders before a due date and several easy ways to pay."
+          ]
+        }
+      ],
+      "ctaTitle": "Plug your capital into our stack.",
+      "ctaText": "Talk to us about lending through ProsParity.",
+      "ctaPrimary": "Partner with us",
+      "ctaSecondary": "How it works"
+    },
+    "network": {
+      "metaTitle": "Network",
+      "metaDescription": "Where ProsParity lends: Tier 2 and Tier 3 cities across Uttar Pradesh, Madhya Pradesh and Chhattisgarh.",
+      "title": "Lending where EVs are already earning.",
+      "lead": "We work dealer by dealer across Tier 2 and Tier 3 cities in Uttar Pradesh, Madhya Pradesh and Chhattisgarh.",
+      "blocks": [
+        {
+          "type": "prose",
+          "title": "Why Tier 2 and Tier 3 cities",
+          "paras": [
+            "Electric three-wheelers are already everywhere in these cities, carrying passengers and goods. But credit hasn't kept up. Many buyers are first-time borrowers with thin credit files, and most lenders can't assess them from a distance.",
+            "That's why we work through dealers and with people on the ground. A dealer network lets us reach a town, and a field team lets us understand the borrower once we're there."
+          ]
+        }
+      ],
+      "ctaTitle": "Bring financing to your showroom.",
+      "ctaText": "Join the dealer network and close more EV sales.",
+      "ctaPrimary": "Become a partner",
+      "ctaSecondary": "See products",
+      "mapTitle": "Where we lend"
+    },
+    "impact": {
+      "metaTitle": "Impact",
+      "metaDescription": "How EV finance supports livelihoods and cleaner cities across Bharat.",
+      "title": "Empowering sustainable mobility by doing our bit.",
+      "lead": "Sustainability is our guiding principle. We champion inclusive economic growth by supporting EVs for livelihood generation.",
+      "blocks": [
+        {
+          "type": "rail",
+          "title": "Credit that reaches further",
+          "items": [
+            {
+              "name": "Thin-file borrowers",
+              "text": "Bureau data plus field-collected signals, so a thin file is not a closed door.",
+              "icon": "Eye"
+            },
+            {
+              "name": "First-time borrowers",
+              "text": "Formal credit for riders and drivers taking their first loan.",
+              "icon": "Sprout"
+            },
+            {
+              "name": "Livelihoods",
+              "text": "EVs that earn, from L3 passenger vehicles to L5 cargo for last-mile logistics.",
+              "icon": "HeartHandshake"
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "title": "Every mile counts",
+          "paras": [
+            "By bridging transportation gaps, reducing pollution and improving the lives of drivers, EV finance can drive meaningful change.",
+            "An electric vehicle has no tailpipe, so the air in busy city streets benefits directly. For the driver, lower running costs can mean more of each day's earnings stay at home."
+          ]
+        },
+        {
+          "type": "prose",
+          "title": "A longer life for every EV",
+          "paras": [
+            "Sustainability doesn't end with the first owner. Through Battron, a used EV gets a tested battery, a certified grade and a new owner, instead of being sold near scrap. Keeping a good vehicle on the road for longer is better for the driver, the lender and the environment."
+          ]
+        }
+      ],
+      "ctaTitle": "Your next mile can be electric.",
+      "ctaText": "Quick, convenient EV loans, through a dealer near you.",
+      "ctaPrimary": "Apply for a loan",
+      "ctaSecondary": "Explore products"
+    },
+    "partners": {
+      "metaTitle": "Partners and lenders",
+      "metaDescription": "Lenders, dealers, OEMs and battery makers on one full-service EV finance platform.",
+      "title": "One platform for everyone who finances and sells EVs.",
+      "lead": "Lenders, dealers and OEMs work with us on a full-service platform, from sourcing a loan to servicing it, and from repossession to resale.",
+      "blocks": [
+        {
+          "type": "rail",
+          "title": "Who we work with",
+          "items": [
+            {
+              "name": "Lenders",
+              "text": "Build a high-quality secured portfolio in an impact-oriented new asset class, electric mobility, through our full-service platform.",
+              "icon": "Landmark"
+            },
+            {
+              "name": "Dealers",
+              "text": "A one-stop, quick and convenient financing solution for your business.",
+              "icon": "Store"
+            },
+            {
+              "name": "OEMs",
+              "text": "An omni-channel financing partner for electric products across wide geographies.",
+              "icon": "Factory"
+            },
+            {
+              "name": "Battery makers",
+              "text": "An authorised service centre for warranty work, through Battron.",
+              "icon": "BatteryCharging"
+            }
+          ]
+        },
+        {
+          "type": "rail",
+          "title": "How your capital can flow",
+          "intro": "Most loans sit on our lending partners' balance sheets. The rest sit with our own NBFC.",
+          "items": [
+            {
+              "name": "Origination",
+              "text": "Partner capital, with ProsParity handling origination, underwriting and servicing end to end.",
+              "icon": "FileCheck"
+            },
+            {
+              "name": "Co-lending",
+              "text": "A shared balance sheet, aligned incentives and partner-wise book reporting.",
+              "icon": "Handshake"
+            },
+            {
+              "name": "Term debt",
+              "text": "Debt capital to help scale a secured, impact-oriented EV portfolio.",
+              "icon": "IndianRupee"
+            },
+            {
+              "name": "First-loss cover",
+              "text": "We place first-loss cover on partner-funded loans, so our interests stay aligned with yours.",
+              "icon": "ShieldCheck"
+            }
+          ]
+        }
+      ],
+      "battronTitle": "Battron works for any lender",
+      "battronText": "Hand over a repossessed EV and Battron takes custody, grades the battery and resells it with a certified grade. The vehicle stays on your books until it is sold, and you receive the proceeds.",
+      "battronLink": "Visit battron.in",
+      "lendersTitle": "Lending partners",
+      "lendersText": "Loans are sanctioned by RBI-registered NBFCs and banks.",
+      "backersTitle": "Backed by",
+      "formTitle": "Let's work together",
+      "formText": "Tell us who you are and we'll route you to the right team.",
+      "formTabs": "Choose your enquiry",
+      "tabDealer": "Dealer or OEM",
+      "tabLender": "Lender",
+      "tabBattery": "Battery maker"
+    },
+    "team": {
+      "metaTitle": "Team",
+      "metaDescription": "The people behind ProsParity.",
+      "title": "Operators who've financed Bharat.",
+      "lead": "Long experience in vehicle finance on the ground, rebuilt for electric vehicles.",
+      "leadershipTitle": "Leadership",
+      "coreTitle": "Core team and advisor",
+      "ctaTitle": "Build EV credit with us.",
+      "ctaText": "Field, credit, sales and technology people, across the places we work.",
+      "ctaPrimary": "See careers",
+      "ctaSecondary": "Our story"
+    },
+    "news": {
+      "metaTitle": "Newsroom",
+      "metaDescription": "Company news, insights, regulation and industry updates from the world of EV finance.",
+      "title": "Newsroom",
+      "lead": "Company news, plain-language insights, and the regulation and industry moves that matter to EV finance.",
+      "filterLabel": "Filter news by category",
+      "subscribeTitle": "Get the news by email",
+      "subscribeText": "The EV finance stories worth your time. No spam.",
+      "pressTitle": "Writing about EV credit?",
+      "pressText": "For interviews and comment, write to",
+      "listTitle": "All stories"
+    },
+    "support": {
+      "metaTitle": "Support",
+      "metaDescription": "Help with your account, EMI or application, and how to raise a grievance.",
+      "title": "How can we help?",
+      "lead": "Need help with your account, EMI or application? Reach out and we'll get back to you.",
+      "ticketCta": "Raise a ticket",
+      "blocks": [
+        {
+          "type": "grid",
+          "title": "What do you need?",
+          "items": [
+            {
+              "name": "Pay your EMI",
+              "text": "Use e-NACH auto-debit, any UPI app, or a payment link sent to your registered mobile.",
+              "icon": "IndianRupee"
+            },
+            {
+              "name": "Check your loan status",
+              "text": "Share your registered mobile and application reference, and we'll tell you where it stands.",
+              "icon": "Search"
+            },
+            {
+              "name": "Update your details",
+              "text": "Review, correct or delete your information, or withdraw consent. Just ask.",
+              "icon": "FileText"
+            },
+            {
+              "name": "Raise a grievance",
+              "text": "Not happy with how something was handled? The steps are below.",
+              "icon": "MessageSquare"
+            }
+          ]
+        }
+      ],
+      "faqTitle": "Common questions",
+      "faq": [
+        {
+          "q": "Do I need a salary slip to apply?",
+          "a": "Not always. Our field officers can verify your work and income in person, so thin-file and self-employed borrowers can qualify."
+        },
+        {
+          "q": "How long does approval take?",
+          "a": "It depends on your application and the lending partner. Your dealer or our team will keep you informed."
+        },
+        {
+          "q": "Who actually lends the money?",
+          "a": "All loans are approved and sanctioned by RBI-registered NBFCs and banks, disclosed upfront during your application."
+        },
+        {
+          "q": "How do I pay my EMI?",
+          "a": "Through e-NACH auto-debit set up at disbursal, UPI, or a payment link."
+        },
+        {
+          "q": "I paid twice by mistake. What now?",
+          "a": "Excess amounts can be adjusted against future EMIs or refunded electronically within one month of your claim being accepted. See our refund policy for details."
+        },
+        {
+          "q": "How do I update my details or withdraw consent?",
+          "a": "Write to help@prosparity.in. You can review, correct or request deletion of your information."
+        },
+        {
+          "q": "How do I become a partner dealer?",
+          "a": "Fill in the form on our Partners page. We assess dealers before onboarding."
+        }
+      ],
+      "ticketTitle": "Raise a ticket",
+      "ticketText": "Your loan account or application number helps us move faster.",
+      "officeLabel": "Registered office",
+      "officePlaceholder": "To be confirmed by the company before launch.",
+      "grievanceTitle": "Grievance redressal",
+      "grievanceText": "Start at Level 1. If your concern isn't resolved, escalate to the next level. You can approach the RBI Ombudsman after exhausting all internal levels.",
+      "grievanceLink": "Read the full grievance policy",
+      "rbiLink": "Go to the RBI CMS portal",
+      "grievanceSteps": [
+        {
+          "name": "Customer support",
+          "text": "Write to help@prosparity.in. Acknowledged in 48 hours, and resolved in 5 working days."
+        },
+        {
+          "name": "Chief Grievance Officer",
+          "text": "Mr Kanishk Agarwal, kanishk@prosparity.in. Resolved in 5 working days of escalation.",
+          "icon": "MessageSquare"
+        },
+        {
+          "name": "Business Head",
+          "text": "Mr Jitendra Sharma, jitendra@prosparity.in. Resolved in 5 working days of escalation."
+        },
+        {
+          "name": "RBI Ombudsman",
+          "text": "If your grievance remains unresolved, you may approach the RBI Ombudsman through the CMS portal."
+        }
+      ]
     }
   },
   "team": {
     "saurabh": {
       "role": "Cofounder and CEO",
-      "bio": "Worked on vehicle finance credit risk and built a fintech lending book at Northern Arc Capital, then raised debt at Stashfin. Engineer and MBA. Leads fundraising and risk."
+      "bio": "Worked on vehicle finance credit risk and built a fintech lending book at Northern Arc Capital, then raised debt at Stashfin. Engineer and MBA from IIFM Bhopal. Leads fundraising and risk."
     },
     "anirudh": {
       "role": "Cofounder and COO",
-      "bio": "MSME and agri lending at SBI, built a co-lending platform at Northern Arc, and led operations at Stashfin. Leads deployment, product, technology and credit."
+      "bio": "MSME and agri lending at SBI, built a co-lending platform at Northern Arc, and led operations at Stashfin. MBA from IIFM Bhopal. Leads deployment, product, technology and credit."
     },
     "anuj": {
       "role": "Head, Battron",
@@ -458,7 +944,7 @@
     },
     "kanishk": {
       "role": "Head, Product and Strategy",
-      "bio": "Previously in strategy at TresVista and Stashfin. At ProsParity since day one."
+      "bio": "Previously in strategy at TresVista and Stashfin, and at Alstonia Impact. At ProsParity since day one."
     },
     "harry": {
       "role": "Head of Technology",
@@ -466,15 +952,23 @@
     },
     "hakam": {
       "role": "Head, Commercial EV",
-      "bio": "Vehicle finance at Mahindra and Sundaram."
+      "bio": "Vehicle finance at Mahindra and Sundaram, with earlier roles at Sonalika and L&T Finance."
     },
     "jitendra": {
       "role": "Head, Two Wheelers",
-      "bio": "Vehicle finance, including at Sundaram across Madhya Pradesh and Chhattisgarh."
+      "bio": "Vehicle finance, including at Sundaram across Madhya Pradesh and Chhattisgarh, with earlier roles at HDFC and Kotak Mahindra."
     },
     "girish": {
       "role": "Advisor",
       "bio": "Background across Kotak, HDFC and Bizloan."
+    },
+    "sunil": {
+      "role": "State Head",
+      "bio": "Sales, business development and collections across Mahindra, Sundaram Finance, Chola and Hinduja Leyland Finance."
+    },
+    "rahul": {
+      "role": "Lead, Credit Ops",
+      "bio": "Co-lending operations at Stashfin and lending scale-up at BharatPe. Builds credit and business operations for scale and compliance."
     }
   },
   "forms": {
@@ -493,7 +987,8 @@
       "institutionType": "Type of institution",
       "firm": "Firm",
       "vehicleType": "Vehicle type",
-      "preferredLanguage": "Preferred language"
+      "preferredLanguage": "Preferred language",
+      "topic": "What's this about?"
     },
     "options": {
       "state": {
@@ -518,6 +1013,14 @@
       "preferredLanguage": {
         "hi": "Hindi",
         "en": "English"
+      },
+      "topic": {
+        "loanStatus": "Loan status",
+        "payEmi": "Pay EMI",
+        "updateDetails": "Update details",
+        "grievance": "Grievance",
+        "dealer": "Dealer partnership",
+        "other": "Something else"
       }
     },
     "errors": {
@@ -538,12 +1041,647 @@
       "lender": "Send enquiry",
       "investor": "Send enquiry",
       "callback": "Request a callback",
-      "contact": "Send message"
+      "contact": "Raise a ticket",
+      "newsletter": "Subscribe"
     },
     "sending": "Sending…",
     "summary": "Please fix the following:",
     "successTitle": "Thank you. We've got your details.",
     "successText": "Our team will get in touch with you soon.",
-    "failure": "We couldn't send this. Your details are still here, so please try again, or write to hello@prosparity.in."
+    "failure": "We couldn't send this. Your details are still here, so please try again, or write to help@prosparity.in."
+  },
+  "products": {
+    "electric-2-wheeler": {
+      "name": "Electric 2 Wheeler",
+      "nav": "Commuters and delivery riders",
+      "lead": "Reliable, convenient electric two-wheelers for urban and rural commuting.",
+      "cta": "Get your electric two-wheeler on the road.",
+      "about": [
+        "A two-wheeler is how many people get to work, and how delivery riders earn. Going electric cuts the cost of every kilometre, but the upfront price can be a stretch.",
+        "We finance electric two-wheelers through dealers in Tier 2 and Tier 3 cities, so you can buy the vehicle at the showroom and pay for it month by month."
+      ],
+      "why": [
+        {
+          "name": "Apply at the dealer",
+          "text": "Your application starts at the showroom, with the dealer helping you.",
+          "icon": "Smartphone"
+        },
+        {
+          "name": "Built for first-time borrowers",
+          "text": "A thin credit file isn't a closed door. A field officer can verify your work and income in person.",
+          "icon": "Sprout"
+        },
+        {
+          "name": "Service support",
+          "text": "Battron's authorised service centre can diagnose and repair battery faults, so you stay on the road.",
+          "icon": "Wrench"
+        }
+      ],
+      "who": [
+        {
+          "name": "Delivery riders",
+          "text": "For food, parcel and courier work.",
+          "icon": "Package"
+        },
+        {
+          "name": "Daily commuters",
+          "text": "For the ride to work and back.",
+          "icon": "Route"
+        },
+        {
+          "name": "Gig workers",
+          "text": "For anyone whose vehicle is their income.",
+          "icon": "Smartphone"
+        }
+      ],
+      "journey": [
+        {
+          "name": "Visit a partner dealer",
+          "text": "Choose your vehicle at a dealership near you."
+        },
+        {
+          "name": "Apply on the dealer app",
+          "text": "Your details and KYC are captured at the counter, with no paper forms."
+        },
+        {
+          "name": "Meet our field officer",
+          "text": "An officer may visit your home or workplace to understand your work and income."
+        },
+        {
+          "name": "Ride out",
+          "text": "Once the loan is approved and the paperwork is done, the vehicle is yours to ride."
+        }
+      ],
+      "documents": [
+        {
+          "name": "KYC",
+          "text": "Aadhaar and PAN.",
+          "icon": "IdCard"
+        },
+        {
+          "name": "Address proof",
+          "text": "Any valid proof of address.",
+          "icon": "Home"
+        },
+        {
+          "name": "Bank statement",
+          "text": "Your recent months.",
+          "icon": "Landmark"
+        },
+        {
+          "name": "Income",
+          "text": "A field officer can verify this in person, so you may not need a salary slip.",
+          "icon": "Wallet"
+        }
+      ]
+    },
+    "electric-3-wheeler": {
+      "name": "Electric 3 Wheeler",
+      "nav": "E-rickshaw owners and fleets",
+      "lead": "Efficient, eco-friendly vehicles for last-mile passenger transport.",
+      "cta": "Get your electric three-wheeler on the road.",
+      "about": [
+        "Electric three-wheelers carry a huge share of India's last-mile passengers, and this is where ProsParity began: our first loans, in Bhopal, were for e-rickshaws.",
+        "Today we finance electric three-wheelers and e-autos for owner-drivers and fleet operators. The vehicle has to earn its EMI every month, so we look at the driver's real work, not only a credit score."
+      ],
+      "why": [
+        {
+          "name": "Field-verified, not paperwork-blocked",
+          "text": "An officer meets you and sees your work, so a thin file doesn't stop you.",
+          "icon": "Footprints"
+        },
+        {
+          "name": "Built for first-time borrowers",
+          "text": "For many drivers this is a first formal loan. We explain it in plain words.",
+          "icon": "Sprout"
+        },
+        {
+          "name": "One point of contact for fleets",
+          "text": "Fleet operators work with one relationship manager.",
+          "icon": "Truck"
+        },
+        {
+          "name": "L3 and L5 passenger models",
+          "text": "Finance across e-rickshaws and e-autos.",
+          "icon": "Zap"
+        }
+      ],
+      "who": [
+        {
+          "name": "E-rickshaw owner-drivers",
+          "text": "Own your vehicle instead of renting one.",
+          "icon": "UserCheck"
+        },
+        {
+          "name": "Fleet operators",
+          "text": "Grow your fleet with electric vehicles.",
+          "icon": "Truck"
+        }
+      ],
+      "journey": [
+        {
+          "name": "Visit a partner dealer",
+          "text": "Choose your vehicle at a dealership near you."
+        },
+        {
+          "name": "Apply on the dealer app",
+          "text": "Your details and KYC are captured at the counter, with no paper forms."
+        },
+        {
+          "name": "Meet our field officer",
+          "text": "An officer visits your home or workplace to understand your work and income."
+        },
+        {
+          "name": "Drive out",
+          "text": "Once the loan is approved and the paperwork is done, you can start earning."
+        }
+      ],
+      "documents": [
+        {
+          "name": "KYC",
+          "text": "Aadhaar and PAN.",
+          "icon": "IdCard"
+        },
+        {
+          "name": "Address proof",
+          "text": "Any valid proof of address.",
+          "icon": "Home"
+        },
+        {
+          "name": "Bank statement",
+          "text": "Your recent months.",
+          "icon": "Landmark"
+        },
+        {
+          "name": "Income",
+          "text": "A field officer verifies this in person, so you don't need a salary slip.",
+          "icon": "Wallet"
+        }
+      ]
+    },
+    "l5-cargo": {
+      "name": "L5 Cargo Loader",
+      "nav": "Logistics and small businesses",
+      "lead": "Electric cargo financing for last-mile logistics and small businesses.",
+      "cta": "Get your cargo loader on the road.",
+      "about": [
+        "Every kirana shelf and doorstep delivery depends on someone moving goods the last few kilometres. An L5 electric cargo loader does that work at a low running cost.",
+        "We finance cargo loaders for logistics operators, suppliers and small businesses, and we structure loans with fleet buyers in mind."
+      ],
+      "why": [
+        {
+          "name": "Sized for commercial vehicles",
+          "text": "Loans that fit the higher price of a cargo vehicle.",
+          "icon": "Truck"
+        },
+        {
+          "name": "Fleet-friendly structuring",
+          "text": "Works for one vehicle or a growing fleet.",
+          "icon": "Layers"
+        },
+        {
+          "name": "Fast repeat loans",
+          "text": "Once you've repaid well with us, adding a vehicle is simpler.",
+          "icon": "Repeat"
+        }
+      ],
+      "who": [
+        {
+          "name": "Logistics operators",
+          "text": "For last-mile delivery fleets.",
+          "icon": "Truck"
+        },
+        {
+          "name": "Kirana suppliers",
+          "text": "For daily stock runs.",
+          "icon": "Store"
+        },
+        {
+          "name": "Small businesses",
+          "text": "For anyone who moves their own goods.",
+          "icon": "Store"
+        }
+      ],
+      "journey": [
+        {
+          "name": "Visit a partner dealer",
+          "text": "Choose your cargo loader at a dealership near you."
+        },
+        {
+          "name": "Apply on the dealer app",
+          "text": "Your details and KYC are captured at the counter, with no paper forms."
+        },
+        {
+          "name": "Meet our field officer",
+          "text": "An officer visits your business to understand how it runs."
+        },
+        {
+          "name": "Start delivering",
+          "text": "Once the loan is approved and the paperwork is done, the vehicle goes to work."
+        }
+      ],
+      "documents": [
+        {
+          "name": "KYC",
+          "text": "Aadhaar and PAN.",
+          "icon": "IdCard"
+        },
+        {
+          "name": "Address proof",
+          "text": "Any valid proof of address.",
+          "icon": "Home"
+        },
+        {
+          "name": "Bank statement",
+          "text": "Your recent months.",
+          "icon": "Landmark"
+        },
+        {
+          "name": "Business income",
+          "text": "A field officer verifies this in person.",
+          "icon": "Wallet"
+        }
+      ]
+    },
+    "dealer-financing": {
+      "name": "Dealer Financing",
+      "nav": "EV dealers and OEM channel partners",
+      "lead": "Competitive rates and selective assessment criteria that help dealers grow.",
+      "cta": "Bring financing to your showroom.",
+      "about": [
+        "Dealers sit at the centre of how we lend. Most of our loans start when a customer walks into a partner dealership, and we see the dealer as part of the credit decision.",
+        "That's why we offer dealers more than customer loans. Dealer financing supports your inventory and working capital, so you can keep stock on the floor and grow your business with us."
+      ],
+      "why": [
+        {
+          "name": "Inventory and working capital",
+          "text": "Finance that keeps stock on your showroom floor.",
+          "icon": "Warehouse"
+        },
+        {
+          "name": "Customer loans at the counter",
+          "text": "Our dealer app helps you offer finance while the customer is with you.",
+          "icon": "CreditCard"
+        },
+        {
+          "name": "A partnership that works both ways",
+          "text": "We assess dealers carefully and stay with every loan sourced through them.",
+          "icon": "Handshake"
+        },
+        {
+          "name": "Battery service",
+          "text": "Battron's authorised service centre supports your customers when a fault comes up.",
+          "icon": "Wrench"
+        }
+      ],
+      "who": [
+        {
+          "name": "EV dealerships",
+          "text": "Showrooms selling electric two- and three-wheelers.",
+          "icon": "Store"
+        },
+        {
+          "name": "OEM channel partners",
+          "text": "Partners selling for electric vehicle makers.",
+          "icon": "Factory"
+        }
+      ],
+      "journey": [
+        {
+          "name": "Tell us about your showroom",
+          "text": "Share your city, brands and monthly EV sales."
+        },
+        {
+          "name": "Onboard on our dealer app",
+          "text": "We set your team up and show them how it works."
+        },
+        {
+          "name": "We visit your business",
+          "text": "Our team meets you and assesses your dealership."
+        },
+        {
+          "name": "Credit goes live",
+          "text": "You start offering loans and using your dealer finance."
+        }
+      ],
+      "documents": [
+        {
+          "name": "KYC",
+          "text": "Aadhaar and PAN of the owners.",
+          "icon": "IdCard"
+        },
+        {
+          "name": "Address proof",
+          "text": "Any valid proof of address.",
+          "icon": "Home"
+        },
+        {
+          "name": "Bank statement",
+          "text": "Your recent months.",
+          "icon": "Landmark"
+        },
+        {
+          "name": "Business details",
+          "text": "A field officer verifies these during the visit.",
+          "icon": "FileText"
+        }
+      ]
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "The battery decides the credit risk.",
+      "lead": "ProsParity finances, services, resells and refinances electric two- and three-wheelers across their whole life, in Tier 2 and Tier 3 cities.",
+      "primary": "Explore our loans",
+      "secondary": "See how it works"
+    },
+    "lifecycle": {
+      "label": "The life of one vehicle",
+      "stageOf": "Stage {n} of 5",
+      "owner": {
+        "prosparity": "ProsParity",
+        "battron": "Battron"
+      },
+      "stages": {
+        "finance": {
+          "name": "Finance",
+          "text": "A dealer brings the loan. ProsParity underwrites it, collects it and services it.",
+          "detail": "Most loans start at a dealership. We check the customer and the dealer, and a field officer can meet the borrower where they live or work, so a thin credit file isn't a closed door.",
+          "gauge": "Loan on file"
+        },
+        "service": {
+          "name": "Service",
+          "text": "When a battery fault comes up, Battron, an authorised service centre, diagnoses and repairs it.",
+          "detail": "A battery that isn't serviced takes the vehicle off the road, and a missed EMI usually follows. Fixing the fault keeps the driver earning and the loan healthy.",
+          "gauge": "Service history added"
+        },
+        "custody": {
+          "name": "Custody",
+          "text": "When a lender repossesses an EV, Battron takes custody, charges it and tests the battery.",
+          "detail": "The vehicle is stored under cover and stays on the lender's books until it is sold. Testing the battery sets an anchor price, so nobody has to guess what the EV is worth.",
+          "gauge": "Battery tested"
+        },
+        "resale": {
+          "name": "Resale",
+          "text": "The vehicle is sold to its next owner with a certified battery grade.",
+          "detail": "A grade gives the buyer a reason to trust the price. Graded vehicles sell faster and for more, and the lender receives the proceeds.",
+          "gauge": "Grade certified"
+        },
+        "refinance": {
+          "name": "Refinance",
+          "text": "About 3 in 4 Battron buyers take a ProsParity loan.",
+          "detail": "Every loan, service job and resale adds to what we know about what an EV is worth by model, age and battery health. That knowledge shapes the next loan.",
+          "gauge": "Grade goes with the vehicle"
+        }
+      },
+      "close": "The next owner's loan starts the loop again."
+    },
+    "problem": {
+      "title": "Without a battery grade, a repossessed EV sells near scrap.",
+      "body": "The battery drives both the chance of default and the loss when one happens. It has no common grade, so buyers can't trust the price and lenders recover little. Grading it gives buyers a reason to pay more, and lenders recover more on every default.",
+      "chainTitle": "How an unserviced battery becomes a loss",
+      "chain": [
+        "The battery is not serviced.",
+        "The vehicle goes off the road.",
+        "An EMI is missed, before any bureau signal.",
+        "The loan defaults and the vehicle is repossessed.",
+        "The vehicle sells near scrap, with no battery grade."
+      ],
+      "chartTitle": "Recovered on resale, as a share of the amount due",
+      "battron": "With Battron",
+      "industry": "Across the industry",
+      "note": "Battron figure: Apr to Aug 2026. Industry figure: management estimate.",
+      "tableMethod": "Method",
+      "tableShare": "Share recovered"
+    },
+    "businesses": {
+      "title": "Two businesses, one vehicle",
+      "intro": "Lending is the foundation. Battron is what protects it, and it works for any lender.",
+      "lending": {
+        "name": "Lending",
+        "text": "We source loans through dealers, underwrite them, and collect and service them. Loans are funded by our lending partners and our own NBFC.",
+        "points": [
+          "Electric three-wheelers, e-autos and cargo (L5)",
+          "Electric two-wheelers and battery loans",
+          "Dealer financing"
+        ],
+        "link": "See our loans"
+      },
+      "battron": {
+        "name": "Battron",
+        "text": "The resale platform for used EVs, starting with repossessed vehicles from any lender.",
+        "points": [
+          "Custody and battery grading",
+          "Certified resale",
+          "Authorised service centre"
+        ],
+        "link": "Visit battron.in"
+      }
+    },
+    "products": {
+      "title": "Finance for every kind of electric ride",
+      "intro": "Whether you drive for a living, carry goods or run a dealership, there's a loan built around how you work.",
+      "link": "All products",
+      "battery": "Battery loans",
+      "batteryText": "Finance for the battery, the part of an EV that matters most."
+    },
+    "thesis": {
+      "title": "Digital alone can't see. Physical alone can't scale.",
+      "text": "Algorithms struggle to assess a borrower with a thin credit file. Branches and paper don't stretch across Bharat. So we do both: our own app at the dealer counter, and our own people in the field.",
+      "digital": "On our app",
+      "digitalPoints": [
+        "Dealer-side sourcing with no paper forms",
+        "Bureau, KYC and verification",
+        "Digital documents and repayment mandates"
+      ],
+      "field": "On the ground",
+      "fieldPoints": [
+        "Dealers who are part of the credit decision",
+        "Field officers who visit home or workplace",
+        "Our own tele-calling and collections teams"
+      ],
+      "link": "Follow a loan through all seven stages"
+    },
+    "proof": {
+      "title": "Where we stand today",
+      "asOf": "As of {date}. Source: {source}.",
+      "citiesAcross": "Tier 2 and Tier 3 cities across {states} states"
+    },
+    "paths": {
+      "title": "Built for everyone who moves EVs",
+      "lenders": {
+        "name": "Lenders",
+        "text": "Build a secured portfolio in a new asset class, with a full-service partner."
+      },
+      "dealers": {
+        "name": "Dealers",
+        "text": "One quick, convenient finance partner for your showroom."
+      },
+      "oems": {
+        "name": "OEMs",
+        "text": "A financing partner for electric products across wide geographies."
+      },
+      "riders": {
+        "name": "Riders and drivers",
+        "text": "Loans for your vehicle, through a dealer near you."
+      }
+    },
+    "more": {
+      "techTitle": "Built in-house, not licensed",
+      "techText": "Collecting on an e-rickshaw loan isn't like collecting on a credit card, so we built our own sourcing, credit and collections systems.",
+      "techLink": "See the technology",
+      "impactTitle": "Every loan is a livelihood",
+      "impactText": "An electric vehicle earns its owner a living, and takes a petrol or diesel vehicle's work off city streets.",
+      "impactLink": "See our impact"
+    },
+    "news": {
+      "title": "Latest from the newsroom",
+      "link": "All news"
+    },
+    "partners": {
+      "title": "Who we work with",
+      "lenders": "Lending partners",
+      "backers": "Backed by"
+    },
+    "cta": {
+      "title": "Ready for your electric ride?",
+      "text": "Tell us what you drive. We'll call you in the language you prefer.",
+      "primary": "Get a loan callback",
+      "secondary": "Partner with us"
+    },
+    "network": {
+      "title": "Where we lend today",
+      "link": "Explore the network"
+    }
+  },
+  "emi": {
+    "title": "Work out your EMI",
+    "text": "Type in a loan amount, an interest rate and a tenure to see what the monthly payment would be. Your actual rate and terms are set by the lending partner.",
+    "amount": "Loan amount (₹)",
+    "rate": "Interest rate (% a year)",
+    "months": "Tenure (months)",
+    "emi": "EMI a month",
+    "interest": "Total interest",
+    "total": "Total payable",
+    "empty": "Fill in all three boxes to see your EMI.",
+    "note": "For illustration only. This is not a loan offer."
+  },
+  "news": {
+    "categories": {
+      "all": "All",
+      "company": "Company",
+      "insight": "Insight",
+      "regulation": "Regulation",
+      "industry": "Industry"
+    },
+    "readMore": "Read the story",
+    "back": "All news",
+    "byline": "By the ProsParity team",
+    "references": "Sources",
+    "keepReading": "Keep reading",
+    "via": "Reported by {source}",
+    "items": {
+      "collections": {
+        "title": "Why collections matter as much as approvals in EV lending",
+        "summary": "Getting a loan approved is only the start. What decides whether EV credit keeps growing is what happens every month after that.",
+        "body": [
+          "When people talk about financing electric vehicles, they usually talk about approvals: who qualifies, how fast, and at what rate. Those questions matter. But a lender decides whether to keep funding a segment by watching what happens after disbursal.",
+          "Collecting an EMI from an e-rickshaw driver isn't like collecting on a credit card. Income arrives daily, often in cash. A missed payment may have nothing to do with willingness to pay. The vehicle might be off the road because of a battery fault.",
+          "That's why the repayment mandate is set up before funds are released, and why reminders go out before the due date, not after it. A NACH mandate lets a payment be collected automatically from the borrower's bank account, and UPI and payment links give the borrower other ways to pay.",
+          "It's also why people still matter. When a payment is missed, our own tele-calling and field teams can find out why. If the problem is the vehicle, the answer may be a service job, not a collection call.",
+          "Good collections aren't about pressure. They're about knowing the borrower and the vehicle well enough to keep both on the road."
+        ]
+      },
+      "batteryRisk": {
+        "title": "Why the battery decides the credit risk",
+        "summary": "In an EV, one component drives both the chance of default and the loss when one happens.",
+        "body": [
+          "In a petrol or diesel vehicle, a lender can look up a rough resale value. An electric vehicle is different. Its value depends heavily on the battery, and until now that battery has had no common grade.",
+          "The trouble often starts quietly. A battery isn't serviced. The vehicle goes off the road. The driver stops earning and misses an EMI, usually before any credit bureau signal appears. The loan defaults, and the vehicle is repossessed.",
+          "Then comes the second problem. With no grade, a buyer can't tell a healthy battery from a worn one, so the vehicle sells near scrap. Lenders see that and either stay away or add a buffer to their pricing. They set that buffer without a battery grade, so no lender knows whether it covers the risk.",
+          "Grading changes this. When a buyer can trust the battery, they'll pay more and buy sooner. Lenders recover more on every default, and that makes it easier to lend in the first place.",
+          "Every loan, service job and resale also adds to what is known about how an EV holds its value by model, age and battery health. The more vehicles go through the loop, the better the next loan can be priced."
+        ]
+      },
+      "evSalesSept": {
+        "title": "September was the strongest month of 2026 so far for EV sales",
+        "summary": "Vahan data tracked by EVreporter shows EV sales in India reached their highest monthly level of the year in September."
+      },
+      "productsLive": {
+        "title": "All our vehicle lending lines are now live",
+        "summary": "Three-wheelers, e-autos and cargo (L5), and two-wheelers are all in market as of September 2026."
+      },
+      "e2wSubsidy": {
+        "title": "PM E-DRIVE support for electric two-wheelers extended",
+        "summary": "Autocar Professional reports that the government has extended the subsidy for electric two-wheelers to the end of FY28 and raised its allocation."
+      },
+      "batteryLoans": {
+        "title": "We've started offering battery loans",
+        "summary": "Battery loans joined our product range in May 2026, for the part of an EV that matters most."
+      },
+      "battronLaunch": {
+        "title": "Battron launches to give used EVs a trusted price",
+        "summary": "Our resale platform takes custody of repossessed EVs, grades the battery and resells the vehicle with a certified grade.",
+        "body": [
+          "In April 2026 we launched Battron, a resale platform for used EVs, starting with repossessed vehicles from any lender.",
+          "Lenders hand over a repossessed EV. Battron charges it, stores it under cover and tests the battery to set an anchor price. The vehicle stays on the lender's books until it is sold.",
+          "Battron then sells the vehicle to its next owner with a certified grade. ProsParity can finance the buyer, and the lender receives the proceeds. Battron also acts as an authorised service centre, diagnosing and repairing battery faults for EV owners.",
+          "It matters because a repossessed EV has often sold for far less than it should. A grade gives buyers a reason to trust the price, which helps vehicles sell faster and for more."
+        ],
+        "references": [
+          {
+            "label": "Battron",
+            "url": "https://battron.in"
+          }
+        ]
+      },
+      "e3wShare": {
+        "title": "Electric models were 61% of three-wheelers sold in FY26",
+        "summary": "Autocar Professional's analysis shows electric three-wheelers reached a new high share of the market, ahead of CNG."
+      },
+      "nbfc": {
+        "title": "Our own NBFC is licensed",
+        "summary": "The licence came in February 2026, and our NBFC began lending in March, alongside our lending partners."
+      },
+      "rbiDirections": {
+        "title": "RBI tightens disclosure norms for digital lending",
+        "summary": "The Digital Lending Directions, 2025 bring earlier rules together. For borrowers, the main change is seeing the full cost of a loan before agreeing to it.",
+        "body": [
+          "On 8 May 2025 the Reserve Bank of India issued the Digital Lending Directions, 2025. They replace the 2022 guidelines on digital lending and the 2023 guidelines on default loss guarantees with a single set of rules.",
+          "For a borrower, the most useful part is the Key Fact Statement. Before a loan is finalised, you should receive this short document in a standard format. It sets out the terms of the loan, including the annual percentage rate and other charges, so you can compare offers and see the real cost.",
+          "Our advice is simple. Read the Key Fact Statement before you agree to anything. If a number isn't clear, ask. And if you ever have a complaint, every regulated lender must give you a way to raise it, with the RBI Ombudsman available after that.",
+          "This article is a plain-language summary, not legal advice. Please read the RBI's directions for the exact wording."
+        ],
+        "references": [
+          {
+            "label": "Reserve Bank of India (Digital Lending) Directions, 2025",
+            "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=12848"
+          }
+        ]
+      },
+      "preSeed": {
+        "title": "BEENEXT leads our pre-seed round",
+        "summary": "Sparrow Capital, All In Capital, DeVC and Huddle Ventures joined the round to back EV financing for Bharat."
+      }
+    }
+  },
+  "map": {
+    "alt": "Map of India with Madhya Pradesh, Uttar Pradesh and Chhattisgarh highlighted",
+    "hint": "Hover over or tap a state to see it on the map.",
+    "pin": "The pin marks Bhopal, where our first loans were made.",
+    "states": {
+      "mp": {
+        "name": "Madhya Pradesh",
+        "text": "Where it began. Our first loans were made in Bhopal, in 2024."
+      },
+      "up": {
+        "name": "Uttar Pradesh",
+        "text": "One of India's biggest markets for electric three-wheelers."
+      },
+      "cg": {
+        "name": "Chhattisgarh",
+        "text": "Extending EV credit to more dealers and drivers."
+      }
+    }
   }
 }

@@ -14,7 +14,7 @@ export default async function NotFound() {
       <h1 className="t-title mt-8 text-forest">{t("title")}</h1>
       <div className="mt-6 flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
         <Link href="/" className="btn btn-primary">{t("home")}</Link>
-        <Link href="/lending#callback" className="text-link">{t("callback")}</Link>
+        <Link href="/apply" className="text-link">{t("callback")}</Link>
       </div>
     </section>
   );

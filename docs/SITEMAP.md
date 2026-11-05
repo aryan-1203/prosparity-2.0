@@ -4,16 +4,22 @@ All routes exist under `/en` and `/hi`.
 
 | Route | Sections | Copy comes from |
 | --- | --- | --- |
-| `/` | Hero and lifecycle, battery problem, two businesses, proof band, audience paths, partners and backers, CTA | Brief, company context, `content/metrics.ts` |
-| `/dealers` | Intro, why partner, onboarding steps, Battron service, enquiry | Brief, prosparity.in (dealer financing). Steps drafted |
-| `/investors` | Story, traction, backers, leadership, enquiry | Company context, `content/metrics.ts`, prosparity.in logos |
-| `/lending-partners` | Intro, co-lending, Battron for any lender, enquiry | Company context |
-| `/lending` | Intro, products, how it works, EMI basics, callback | prosparity.in, company context. Steps and EMI drafted |
-| `/battron` | Intro, services, proof, who it's for, enquiry | Company context, `content/metrics.ts` |
-| `/about` | Mission, timeline, leadership | prosparity.in (mission), company context |
-| `/careers` | Intro, empty state | Drafted. The openings on the previous redesign were not carried over |
-| `/contact` | Form, email, grievance link, registered office placeholder | prosparity.in |
+| `/` | Hero and lifecycle, battery problem, two businesses, products, digital and field, proof band, India map, audience paths, technology and impact, latest news, partners and backers, CTA | Brief, company context, `content/metrics.ts` |
+| `/products` | Product grid, who it's for, how it works, FAQ, EMI calculator | prosparity.in, previous redesign, company context |
+| `/products/electric-2-wheeler`, `/electric-3-wheeler`, `/l5-cargo`, `/dealer-financing` | Overview, why it works, who it's for, journey, documents, EMI calculator, other products | Same |
+| `/apply` | Callback form, what happens next, what to keep ready | Previous redesign, simplified |
+| `/how-it-works` | Seven stages, after the loan, why both halves matter | Previous redesign, company context |
+| `/technology` | Three systems, nine modules, why it matters | Previous redesign, without its figures |
+| `/network` | Figures, India map, why Tier 2 and Tier 3 | Company context, `content/metrics.ts` |
+| `/impact` | Credit reach, every mile counts, longer EV life | prosparity.in, previous redesign, without its figures |
+| `/about` | What we do, thesis, timeline, values, backers | prosparity.in, company context |
+| `/team` | Leadership, core team, advisor | Company context, prosparity.in |
+| `/partners` | Who we work with, capital structures, Battron, lenders, backers, three enquiry forms | Previous redesign, company context |
+| `/news`, `/news/<slug>` | Filterable feed, subscribe, press, four articles | Written for this site, with sources linked |
+| `/careers` | How we work, teams, open applications | Previous redesign, without its job list |
+| `/support` | Quick actions, FAQ, ticket form, grievance steps | prosparity.in, previous redesign |
+| `/investors` | Story, traction, backers, leadership, enquiry. Footer only | Company context, `content/metrics.ts` |
 | `/legal` and 8 documents | Privacy, Terms, Grievance, DLG, Refund, Lending partners, NBFC details, Fair Practices Code | prosparity.in, verbatim. Gaps are marked placeholders |
 | Any other path | 404 | Drafted |
 
-Dropped from the previous redesign: Technology, Network, Impact, Newsroom, Support and the separate Apply and How it works pages. They are either off-strategy or merged into the pages above.
+Old routes redirect: `/dealers` to dealer financing, `/lending` to products, `/lending-partners` to partners, `/contact` to support, and `/battron` to battron.in.

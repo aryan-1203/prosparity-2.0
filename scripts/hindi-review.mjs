@@ -10,7 +10,7 @@ const flat = (value, path = "", out = {}) => {
 const en = flat(load("en"));
 const hi = flat(load("hi"));
 const cell = (s) => s.replaceAll("|", "\\|").replaceAll("\n", " ");
-const rows = Object.keys(en).filter((k) => en[k] && hi[k]);
+const rows = Object.keys(en).filter((k) => en[k] && hi[k] && !/\.(icon|href|url|type)$/.test(k));
 const body = rows.map((k) => `| \`${k}\` | ${cell(en[k])} | ${cell(hi[k])} |  |`).join("\n");
 writeFileSync(
   "docs/HINDI_REVIEW.md",

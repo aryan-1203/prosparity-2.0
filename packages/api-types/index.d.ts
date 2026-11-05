@@ -115,7 +115,7 @@ export interface components {
          * LeadType
          * @enum {string}
          */
-        LeadType: "dealer" | "battery" | "lender" | "investor" | "callback" | "contact";
+        LeadType: "dealer" | "battery" | "lender" | "investor" | "callback" | "contact" | "newsletter";
         /** ValidationError */
         ValidationError: {
             /** Location */

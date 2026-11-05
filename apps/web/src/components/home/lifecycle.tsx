@@ -1,5 +1,6 @@
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
+import { MetricValue } from "../ui/metric";
 import { Reveal } from "../ui/reveal";
 import { EvDefs, inks, PackCells, PROPS, Scene, STAGES } from "./ev-art";
 import { GaugeCells } from "./gauge";
@@ -41,6 +42,7 @@ function Stage({ labels }: { labels: string[] }) {
 
 export async function Lifecycle() {
   const t = await getTranslations("home");
+  const m = await getTranslations("metrics");
 
   return (
     <section id="lifecycle" aria-labelledby="hero-title" className="lc-root">
@@ -52,9 +54,17 @@ export async function Lifecycle() {
           <h1 id="hero-title" className="t-display text-forest">{t("hero.title")}</h1>
           <p className="t-lead mt-6">{t("hero.lead")}</p>
           <div className="mt-8 flex flex-wrap items-center gap-x-6 gap-y-2">
-            <Link href="/dealers" prefetch={false} className="btn btn-primary">{t("hero.primary")}</Link>
+            <Link href="/products" prefetch={false} className="btn btn-primary">{t("hero.primary")}</Link>
             <a href="#how-it-works" className="text-link">{t("hero.secondary")}</a>
           </div>
+          <dl className="lc-hero-figs mt-8 grid max-w-xl grid-cols-3 gap-x-4">
+            {(["disbursed", "dealers", "cities"] as const).map((id) => (
+              <div key={id} className="flex flex-col gap-0.5 border-t-2 border-forest pt-2">
+                <dt className="t-small text-slate">{m(id)}</dt>
+                <dd className="t-subhead order-first m-0 text-forest"><MetricValue id={id} /></dd>
+              </div>
+            ))}
+          </dl>
           <div className="lc-hero-vehicle lc-road-bleed mt-10 overflow-x-clip">
             <svg viewBox="0 30 640 330" className="mx-auto h-auto w-full max-w-[560px] overflow-visible px-4" aria-hidden="true" focusable="false" style={inks.prosparity}>
               <line x1="-1600" y1="357" x2="2240" y2="357" stroke="var(--color-forest)" strokeWidth="3" />
@@ -81,7 +91,8 @@ export async function Lifecycle() {
                       {t("lifecycle.stageOf", { n: i + 1 })}, {t(`lifecycle.owner.${stage.owner}`)}
                     </p>
                     <h3 className={`t-heading mt-1 ${ink}`}>{name}</h3>
-                    <p className="mt-3">{t(`lifecycle.stages.${stage.key}.text`)}</p>
+                    <p className="t-lead mt-3">{t(`lifecycle.stages.${stage.key}.text`)}</p>
+                    <p className="mt-3 text-slate">{t(`lifecycle.stages.${stage.key}.detail`)}</p>
                     {i === 4 && <p className="t-subhead mt-5 text-forest">{t("lifecycle.close")}</p>}
                   </div>
                 </Reveal>

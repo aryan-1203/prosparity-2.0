@@ -77,7 +77,12 @@ class ContactLead(Payload):
     name: Text
     email: EmailStr
     phone: Phone | Literal[""] = ""
+    topic: Literal["loanStatus", "payEmi", "updateDetails", "grievance", "dealer", "other"]
     message: Annotated[str, StringConstraints(strip_whitespace=True, min_length=1, max_length=2000)]
+
+
+class NewsletterLead(Payload):
+    email: EmailStr
 
 
 PAYLOADS: dict[LeadType, type[Payload]] = {
@@ -87,6 +92,7 @@ PAYLOADS: dict[LeadType, type[Payload]] = {
     LeadType.investor: InvestorLead,
     LeadType.callback: CallbackLead,
     LeadType.contact: ContactLead,
+    LeadType.newsletter: NewsletterLead,
 }
 
 

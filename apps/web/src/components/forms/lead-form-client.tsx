@@ -32,11 +32,13 @@ interface Props {
 
 const API = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000";
 const TURNSTILE = process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY;
+const PRODUCT_TO_VEHICLE: Record<string, string> = { "electric-2-wheeler": "e2w", "electric-3-wheeler": "e3w", "l5-cargo": "cargo" };
 const control = "mt-1 block min-h-12 w-full rounded-control border border-control bg-white px-3 text-base text-deep";
 
 export function LeadFormClient({ type, formFields, labels, privacyHref, locale, battron = false }: Props) {
   const id = useId();
   const pathname = usePathname();
+  const formRef = useRef<HTMLFormElement>(null);
   const summaryRef = useRef<HTMLDivElement>(null);
   const successRef = useRef<HTMLDivElement>(null);
   const [errors, setErrors] = useState<Record<string, string>>({});
@@ -49,6 +51,13 @@ export function LeadFormClient({ type, formFields, labels, privacyHref, locale, 
     script.async = true;
     document.head.append(script);
     return () => script.remove();
+  }, []);
+
+  useEffect(() => {
+    const product = new URLSearchParams(window.location.search).get("product");
+    const value = product && PRODUCT_TO_VEHICLE[product];
+    const select = formRef.current?.elements.namedItem("vehicleType");
+    if (value && select instanceof HTMLSelectElement) select.value = value;
   }, []);
 
   useEffect(() => {
@@ -110,7 +119,7 @@ export function LeadFormClient({ type, formFields, labels, privacyHref, locale, 
   const fieldId = (name: string) => `${id}-${name}`;
 
   return (
-    <form noValidate onSubmit={onSubmit} className="space-y-5">
+    <form ref={formRef} noValidate onSubmit={onSubmit} className="space-y-5">
       {errorKeys.length > 0 && (
         <div ref={summaryRef} tabIndex={-1} role="alert" className="rounded-control border border-error p-4 outline-none">
           <p className="font-[540] text-error">{labels.summary}</p>

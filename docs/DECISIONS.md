@@ -28,3 +28,18 @@ The user chose to build without a formal Checkpoint 1 review, on 5 Nov 2026.
 | Roles follow company material where it differs from prosparity.in | It is newer, and the brief lists those names |
 | ProsParity wordmark recoloured to forest on light backgrounds | Signal green on white fails contrast and is banned by the brief |
 | Tests run on SQLite with the same models and migration | Postgres and Docker are not installed on the build machine |
+
+## Round two, from user feedback on 5 Nov 2026
+
+| Decision | Reason |
+| --- | --- |
+| Navigation follows the previous redesign: Products, Platform, Company, Support, plus Battron linking to battron.in | Requested by the user. This replaces the audience-first order in the brief |
+| Page background is light green, with white and mint bands | Requested by the user. This overrides the brief's white or off-white rule. New pairings pass the contrast check |
+| Section spacing was tightened and copy expanded | The user found too much empty space |
+| Every previous-redesign claim was checked against the allowlist | Its numbers contradict company figures. See "Left out" in `OPEN_ITEMS.md` |
+| The EMI calculator takes all three inputs from the visitor | Shows real arithmetic without publishing rates nobody has confirmed |
+| Newsroom stories are real, or written by us, with sources linked and no invented bylines | The previous newsroom held placeholder text |
+| Funding news shows no amount | The brief bans funding figures |
+| Icons use `lucide-react` (ISC licence) and render on the server | Adds no client JavaScript |
+| Map highlighting uses an opacity overlay, not a fill change | The brief allows animating only transform and opacity |
+

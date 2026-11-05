@@ -14,7 +14,7 @@ export interface Metric {
   /** ISO date, month, or Indian fiscal year. */
   readonly asOf: string;
   /** Message key under `sources`. */
-  readonly source: "company" | "managementEstimate" | "vahanFy26";
+  readonly source: "company" | "managementEstimate" | "autocarFy26";
 }
 
 export const metrics = {
@@ -28,7 +28,7 @@ export const metrics = {
   battronRecovery: { value: "65%", asOf: "2026-08-31", source: "company" },
   industryRecovery: { value: "20–25%", asOf: "2026-10", source: "managementEstimate" },
   daysToResale: { value: "34", unit: "days", asOf: "2026-08-31", source: "company" },
-  e3wElectricShare: { value: "61%", asOf: "FY26", source: "vahanFy26" },
+  e3wElectricShare: { value: "61%", asOf: "FY26", source: "autocarFy26" },
 } as const satisfies Record<string, Metric>;
 
 export type MetricId = keyof typeof metrics;

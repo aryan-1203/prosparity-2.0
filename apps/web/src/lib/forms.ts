@@ -1,4 +1,4 @@
-export const leadTypes = ["dealer", "battery", "lender", "investor", "callback", "contact"] as const;
+export const leadTypes = ["dealer", "battery", "lender", "investor", "callback", "contact", "newsletter"] as const;
 export type LeadType = (typeof leadTypes)[number];
 
 export interface Field {
@@ -53,5 +53,12 @@ export const fields: Record<LeadType, readonly Field[]> = {
     { name: "vehicleType", kind: "select", required: true, options: ["e3w", "cargo", "e2w", "battery", "notSure"] },
     { name: "preferredLanguage", kind: "select", required: true, options: ["hi", "en"] },
   ],
-  contact: [name, email, phoneOptional, message],
+  contact: [
+    name,
+    email,
+    phoneOptional,
+    { name: "topic", kind: "select", required: true, options: ["loanStatus", "payEmi", "updateDetails", "grievance", "dealer", "other"] },
+    message,
+  ],
+  newsletter: [email],
 };

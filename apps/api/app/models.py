@@ -19,6 +19,7 @@ class LeadType(enum.StrEnum):
     investor = "investor"
     callback = "callback"
     contact = "contact"
+    newsletter = "newsletter"
 
 
 def now() -> datetime:

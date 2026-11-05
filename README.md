@@ -8,6 +8,7 @@ Next.js web app, FastAPI lead API and Postgres, in English and Hindi.
 | `apps/web/content/metrics.ts` | Every number on the site |
 | `apps/web/messages/` | All copy, in `en.json` and `hi.json` |
 | `apps/web/content/legal/` | Legal text from prosparity.in |
+| `apps/web/content/news.ts` | Newsroom feed. Text is in the message files |
 | `apps/api` | FastAPI, SQLAlchemy, Alembic |
 | `packages/api-types` | TypeScript types generated from the API's OpenAPI schema |
 | `docs/` | Design system, decisions, sitemap, open items, Hindi review |

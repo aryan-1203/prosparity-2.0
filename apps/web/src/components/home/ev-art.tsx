@@ -11,7 +11,7 @@ export const STAGES = [
 ] as const satisfies readonly { key: string; owner: Owner }[];
 
 export const inks: Record<Owner, CSSProperties> = {
-  prosparity: { "--v-ink": "#004737", "--v-tint": "#F1F6F3" } as CSSProperties,
+  prosparity: { "--v-ink": "#004737", "--v-tint": "#CFF0DB" } as CSSProperties,
   battron: { "--v-ink": "#00706F", "--v-tint": "#C7E9E9" } as CSSProperties,
 };
 

@@ -18,7 +18,8 @@ VALID = {
     "lender": {"institution": "Bank", "institutionType": "bank", "name": "A", "phone": PHONE, "email": "a@example.com"},
     "investor": {"name": "A", "firm": "Fund", "email": "a@example.com"},
     "callback": {"name": "A", "phone": PHONE, "city": "Indore", "vehicleType": "e3w", "preferredLanguage": "hi"},
-    "contact": {"name": "A", "email": "a@example.com", "message": "Hello"},
+    "contact": {"name": "A", "email": "a@example.com", "topic": "other", "message": "Hello"},
+    "newsletter": {"email": "a@example.com"},
 }
 
 

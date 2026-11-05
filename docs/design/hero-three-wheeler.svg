@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 30 640 328.5" fill="none" role="img" aria-labelledby="ev-title">
+  <title id="ev-title">Line drawing of an electric three-wheeler, seen from the side, with its battery pack under the rear bench</title>
+  <!-- Colours come from CSS variables, so one drawing serves Lending (forest) and Battron (teal).
+       v-ink: line colour. v-tint: panel fill. v-paper: fill behind seats and wheels.
+       v-cell-lending and v-cell-battron: each cell keeps the colour of the business
+       that filled it, so a stage change only ever animates opacity. -->
+  <g stroke="var(--v-ink, #004737)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <line id="road" x1="24" y1="357" x2="616" y2="357"/>
+
+    <g id="far-wheel" opacity="0.45">
+      <circle cx="200" cy="321" r="35" fill="var(--v-paper, #fff)" stroke-width="2.5"/>
+    </g>
+
+    <g id="steering">
+      <path d="M494 236 L458 182"/>
+      <path stroke-width="5" d="M458 182 L440 176"/>
+      <path d="M490 250 L508 321"/>
+    </g>
+
+    <path id="tub" fill="var(--v-tint, #F1F6F3)" d="M72 214 C66 240 66 276 76 300 L120 300 A48 48 0 0 1 216 300 L460 300 C461 280 472 264 492 258 C516 252 544 262 556 292 C572 282 582 262 578 244 C574 226 552 212 530 204 C504 208 470 232 458 288 L216 288 L204 214 Z"/>
+
+    <path id="canopy" fill="var(--v-tint, #F1F6F3)" d="M492 64 C430 46 330 40 244 44 C172 48 114 60 92 92 C76 118 70 170 72 214 L204 214 L196 100 C300 86 400 84 484 90 C498 90 504 70 492 64 Z"/>
+
+    <path id="rear-window" stroke-width="2" fill="var(--v-paper, #fff)" d="M106 116 C118 104 150 104 176 104 L182 196 L96 196 C94 164 98 132 106 116 Z"/>
+
+    <g id="pillars">
+      <path d="M484 90 L530 204"/>
+      <path d="M346 86 L346 288"/>
+      <path stroke-width="2" d="M207 208 L346 208"/>
+    </g>
+
+    <path id="curtain" transform="translate(0 6)" stroke-width="2" fill="var(--v-paper, #fff)" d="M214 100 C260 94 300 92 334 91 C340 91 340 101 334 101 C300 102 260 104 215 110 C209 111 208 101 214 100 Z"/>
+
+    <g id="mirror" stroke-width="2">
+      <path d="M506 144 L520 124"/>
+      <ellipse cx="525" cy="115" rx="8" ry="10" transform="rotate(20 525 115)" fill="var(--v-paper, #fff)"/>
+    </g>
+
+    <g id="seats" fill="var(--v-paper, #fff)">
+      <path d="M222 150 C218 148 214 152 215 156 L226 232 C227 240 232 244 240 244 L326 244 C334 244 334 232 326 232 L240 232 Z"/>
+      <path d="M366 168 C362 166 358 170 359 174 L368 226 C369 234 374 238 382 238 L428 238 C436 238 436 226 428 226 L382 226 Z"/>
+    </g>
+
+    <g id="details" stroke-width="2">
+      <circle id="headlamp" cx="566" cy="244" r="9" fill="var(--v-paper, #fff)"/>
+      <circle id="charge-port" cx="104" cy="256" r="8" fill="var(--v-paper, #fff)"/>
+      <circle cx="104" cy="256" r="2.5" fill="var(--v-ink, #004737)" stroke="none"/>
+      <path id="tail-lamp" d="M70 236 L70 262"/>
+    </g>
+
+    <g id="battery">
+      <rect x="222" y="252" width="112" height="30" rx="4" fill="var(--v-paper, #fff)"/>
+      <g id="cell-slots" stroke-width="1.5">
+        <rect x="228" y="258" width="16" height="18" rx="2"/>
+        <rect x="248" y="258" width="16" height="18" rx="2"/>
+        <rect x="268" y="258" width="16" height="18" rx="2"/>
+        <rect x="288" y="258" width="16" height="18" rx="2"/>
+        <rect x="308" y="258" width="16" height="18" rx="2"/>
+      </g>
+      <g id="cells" stroke="none">
+        <rect id="cell-1" fill="var(--v-cell-lending, #004737)" x="228" y="258" width="16" height="18" rx="2"/>
+        <rect id="cell-2" fill="var(--v-cell-battron, #009B9E)" x="248" y="258" width="16" height="18" rx="2"/>
+        <rect id="cell-3" fill="var(--v-cell-battron, #009B9E)" x="268" y="258" width="16" height="18" rx="2"/>
+        <rect id="cell-4" fill="var(--v-cell-battron, #009B9E)" x="288" y="258" width="16" height="18" rx="2"/>
+        <rect id="cell-5" fill="var(--v-cell-lending, #004737)" x="308" y="258" width="16" height="18" rx="2"/>
+      </g>
+    </g>
+
+    <g id="wheels" fill="var(--v-paper, #fff)">
+      <circle cx="168" cy="321" r="35"/>
+      <circle cx="168" cy="321" r="14" stroke-width="2"/>
+      <circle cx="508" cy="321" r="35"/>
+      <circle cx="508" cy="321" r="14" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

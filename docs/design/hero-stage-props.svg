@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 440" fill="none">
+  <title>Lifecycle stage props, drawn in a 960 by 440 panel. The vehicle sits at translate(160 40). Show one group per stage.</title>
+  <!-- No text in this file: every label is an HTML string, so it can be translated. -->
+  <g stroke="var(--v-ink, #004737)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+    <g id="prop-finance">
+      <path d="M786 397 V186 H946 V397"/>
+      <path d="M772 186 L792 142 H946 V186"/>
+      <path d="M772 186 C772 200 800 200 800 186 C800 200 828 200 828 186 C828 200 856 200 856 186 C856 200 884 200 884 186 C884 200 912 200 912 186 C912 200 946 200 946 186"/>
+      <rect x="808" y="232" width="56" height="165"/>
+      <rect x="880" y="232" width="48" height="72"/>
+      <path d="M892 256 H916 M892 272 H916"/>
+      <g id="prop-finance-sheet">
+        <rect x="38" y="214" width="84" height="112" rx="4" fill="var(--v-paper, #fff)"/>
+        <path d="M54 240 H106 M54 258 H106 M54 276 H88"/>
+        <path d="M54 302 L66 312 L86 292" stroke-width="3"/>
+      </g>
+    </g>
+
+    <g id="prop-service">
+      <path d="M116 397 V52 H872 V397"/>
+      <path d="M116 84 H872" opacity="0.5"/>
+      <rect x="28" y="232" width="62" height="165" rx="6" fill="var(--v-paper, #fff)"/>
+      <rect x="40" y="248" width="38" height="28" rx="3"/>
+      <path d="M90 300 C150 372 214 356 256 300"/>
+    </g>
+
+    <g id="prop-custody" opacity="0.5">
+      <path d="M0 214 H960 M0 270 H960"/>
+      <path d="M30 397 V176 L44 158 L58 176 V397 M270 397 V176 L284 158 L298 176 V397 M510 397 V176 L524 158 L538 176 V397 M750 397 V176 L764 158 L778 176 V397"/>
+    </g>
+
+    <g id="prop-resale">
+      <path d="M690 130 C730 96 770 96 800 116"/>
+      <rect x="780" y="116" width="150" height="104" rx="10" fill="var(--v-paper, #fff)"/>
+      <circle cx="804" cy="140" r="6"/>
+      <g stroke="none" fill="var(--v-cell-battron, #009B9E)">
+        <rect x="798" y="168" width="20" height="30" rx="2"/>
+        <rect x="822" y="168" width="20" height="30" rx="2"/>
+        <rect x="846" y="168" width="20" height="30" rx="2"/>
+        <rect x="870" y="168" width="20" height="30" rx="2"/>
+        <rect x="894" y="168" width="20" height="30" rx="2"/>
+      </g>
+      <path d="M866 142 L878 152 L900 130" stroke-width="3"/>
+    </g>
+
+    <g id="prop-refinance">
+      <path stroke-dasharray="2 10" stroke-width="3" d="M880 380 C950 200 800 26 480 22 C200 20 30 170 66 372"/>
+      <path stroke-width="3" d="M52 356 L68 382 L88 360"/>
+    </g>
+  </g>
+</svg>

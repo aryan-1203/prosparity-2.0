@@ -1,0 +1,34 @@
+# Confidential: deck extracts, page renders, and the build brief (quotes denylisted figures)
+.private/
+research/deck/
+*.pdf
+
+# Dependencies and build output
+node_modules/
+.next/
+out/
+dist/
+coverage/
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+
+# Public source material, not the deck
+!research/current-site/assets/*.pdf
+
+# Public policy PDF served by the site
+!apps/web/public/pdf/*.pdf
+
+# Local API database
+apps/api/dev.db

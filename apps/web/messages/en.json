@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "siteName": "ProsParity",
+    "homeTitle": "ProsParity: EV finance, service and resale",
+    "homeDescription": "End-to-end financing and lifecycle services for electric two- and three-wheelers in Tier 2 and Tier 3 cities across India."
+  },
+  "nav": {
+    "dealers": "Dealers",
+    "investors": "Investors",
+    "lenders": "Lenders",
+    "lending": "Lending",
+    "battron": "Battron",
+    "about": "About",
+    "careers": "Careers",
+    "contact": "Contact",
+    "callback": "Get a loan callback",
+    "menu": "Menu",
+    "close": "Close",
+    "primary": "Main",
+    "skip": "Skip to content",
+    "home": "ProsParity home",
+    "language": "Language"
+  },
+  "units": {
+    "cr": "Cr",
+    "crSpoken": "crore",
+    "days": "days",
+    "lakh": "lakh"
+  },
+  "sources": {
+    "company": "Company data",
+    "managementEstimate": "Management estimate",
+    "vahanFy26": "VAHAN via Autocar Pro and Reporter, FY26"
+  },
+  "metrics": {
+    "disbursed": "disbursed since 2024",
+    "loans": "loans since 2024",
+    "aum": "assets under management, including loans held by lending partners",
+    "lendingPartners": "lending partners",
+    "dealers": "dealers",
+    "cities": "Tier 2 and Tier 3 cities",
+    "states": "states: Uttar Pradesh, Madhya Pradesh and Chhattisgarh",
+    "battronRecovery": "of the amount due recovered on resale with Battron",
+    "industryRecovery": "of the amount due recovered across the industry (management estimate)",
+    "daysToResale": "average from repossession to resale, Apr to Aug 2026",
+    "e3wElectricShare": "of three-wheelers sold in India in FY26 were electric"
+  },
+  "home": {
+    "hero": {
+      "title": "The battery decides the credit risk.",
+      "lead": "End-to-end financing and lifecycle services for electric two- and three-wheelers in Tier 2 and Tier 3 cities.",
+      "primary": "Become a dealer partner",
+      "secondary": "See how it works"
+    },
+    "lifecycle": {
+      "label": "The life of one vehicle",
+      "stageOf": "Stage {n} of 5",
+      "owner": {
+        "prosparity": "ProsParity",
+        "battron": "Battron"
+      },
+      "stages": {
+        "finance": {
+          "name": "Finance",
+          "text": "A dealer brings the loan. ProsParity underwrites it, collects it and services it.",
+          "gauge": "Loan on file"
+        },
+        "service": {
+          "name": "Service",
+          "text": "When a battery fault comes up, Battron, an authorised service centre, diagnoses and repairs it.",
+          "gauge": "Service history added"
+        },
+        "custody": {
+          "name": "Custody",
+          "text": "When a lender repossesses an EV, Battron takes custody, charges it and tests the battery.",
+          "gauge": "Battery tested"
+        },
+        "resale": {
+          "name": "Resale",
+          "text": "The vehicle is sold to its next owner with a certified battery grade.",
+          "gauge": "Grade certified"
+        },
+        "refinance": {
+          "name": "Refinance",
+          "text": "About 3 in 4 Battron buyers take a ProsParity loan.",
+          "gauge": "Grade goes with the vehicle"
+        }
+      },
+      "close": "The next owner's loan starts the loop again."
+    },
+    "problem": {
+      "title": "Without a battery grade, a repossessed EV sells near scrap.",
+      "body": "The battery drives both the chance of default and the loss when one happens. It has no common grade, so buyers can't trust the price and lenders recover little. Grading it gives buyers a reason to pay more, and lenders recover more on every default.",
+      "chartTitle": "Recovered on resale, as a share of the amount due",
+      "battron": "With Battron",
+      "industry": "Across the industry",
+      "note": "Battron figure: Apr to Aug 2026. Industry figure: management estimate.",
+      "tableMethod": "Method",
+      "tableShare": "Share recovered"
+    },
+    "businesses": {
+      "title": "Two businesses, one vehicle",
+      "lending": {
+        "name": "Lending",
+        "text": "We source loans through dealers, underwrite them, and collect and service them. Loans are funded by our lending partners and our own NBFC.",
+        "link": "See our loans"
+      },
+      "battron": {
+        "name": "Battron",
+        "text": "The resale platform for used EVs, starting with repossessed vehicles from any lender. Custody, battery grading, certified resale and authorised service.",
+        "link": "Explore Battron"
+      }
+    },
+    "proof": {
+      "title": "Where we stand today",
+      "asOf": "As of {date}. Source: {source}.",
+      "citiesAcross": "Tier 2 and Tier 3 cities across {states} states"
+    },
+    "paths": {
+      "title": "Find your way in",
+      "dealers": {
+        "name": "Dealers and OEMs",
+        "text": "Faster approvals, and a service partner for the batteries you sell."
+      },
+      "investors": {
+        "name": "Investors",
+        "text": "The story, our traction and the people behind it."
+      },
+      "lenders": {
+        "name": "Lending partners",
+        "text": "Co-lending, and custody and resale for any lender."
+      },
+      "borrowers": {
+        "name": "EV owners and drivers",
+        "text": "Loans for your vehicle, through a dealer near you."
+      }
+    },
+    "partners": {
+      "title": "Who we work with",
+      "lenders": "Lending partners",
+      "backers": "Backed by"
+    },
+    "cta": {
+      "title": "Sell EVs in Uttar Pradesh, Madhya Pradesh or Chhattisgarh? Let's talk.",
+      "primary": "Become a dealer partner",
+      "secondary": "Get a loan callback"
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "forYou": "Work with us",
+    "legal": "Legal",
+    "privacy": "Privacy policy",
+    "terms": "Terms and conditions",
+    "grievance": "Grievance redressal",
+    "tagline": "EV finance, service and resale.",
+    "rights": "© {year} ProsParity"
+  },
+  "pages": {
+    "lending": {
+      "metaTitle": "EV loans",
+      "metaDescription": "Loans for electric three-wheelers, cargo vehicles, two-wheelers and batteries, through dealers in Uttar Pradesh, Madhya Pradesh and Chhattisgarh.",
+      "title": "Loans for the EV that earns your living.",
+      "lead": "We finance electric two- and three-wheelers through dealers in Tier 2 and Tier 3 cities.",
+      "productsTitle": "What we finance",
+      "productsIntro": "Ask your dealer which loan fits your vehicle, or request a call from us.",
+      "products": [
+        {
+          "name": "Electric three-wheelers",
+          "text": "Loans for efficient, eco-friendly vehicles for last-mile transport."
+        },
+        {
+          "name": "E-autos and cargo (L5)",
+          "text": "Finance for passenger e-autos and L5 cargo vehicles that carry your business."
+        },
+        {
+          "name": "Electric two-wheelers",
+          "text": "Loans for reliable, convenient two-wheelers for urban and rural commuting."
+        },
+        {
+          "name": "Battery loans",
+          "text": "Finance for the battery, the part of an EV that matters most."
+        },
+        {
+          "name": "Dealer financing",
+          "text": "Competitive rates and a selective assessment, so dealers can grow their business with us."
+        }
+      ],
+      "howTitle": "How it works",
+      "how": [
+        {
+          "name": "Choose your vehicle at a dealer",
+          "text": "Visit a dealer near you, or ask us to call you."
+        },
+        {
+          "name": "Apply through the dealer",
+          "text": "The dealer helps you with your application."
+        },
+        {
+          "name": "We review your loan",
+          "text": "We assess the application and tell you the outcome."
+        },
+        {
+          "name": "Drive, and pay your EMI",
+          "text": "We service your loan, and you pay a fixed EMI every month."
+        }
+      ],
+      "emiTitle": "What is an EMI?",
+      "emiText": "An EMI is the fixed amount you pay each month until the loan is finished. Each payment covers part of the loan and part of the interest. Your EMI depends on how much you borrow, the interest rate and how long you take to repay.",
+      "formTitle": "Get a loan callback",
+      "formText": "Leave your number and we'll call you in the language you prefer."
+    },
+    "battron": {
+      "metaTitle": "Battron: EV custody, grading and resale",
+      "metaDescription": "Battron is the resale platform for used EVs, starting with repossessed vehicles from any lender.",
+      "title": "Battron gives a used EV a price people can trust.",
+      "lead": "The resale platform for used EVs, starting with repossessed vehicles from any lender.",
+      "gauge": "Graded, certified and ready for its next owner",
+      "servicesTitle": "What Battron does",
+      "services": [
+        {
+          "name": "Custody and grading",
+          "text": "The lender hands over the repossessed EV. Battron charges it, stores it under cover and tests the battery to set an anchor price. The vehicle stays on the lender's books until it is sold."
+        },
+        {
+          "name": "Certified resale",
+          "text": "The vehicle is sold to a new owner with a certified grade. ProsParity can finance the buyer, and the lender receives the proceeds."
+        },
+        {
+          "name": "Authorised service centre",
+          "text": "For any EV owner. Battron diagnoses the battery fault and repairs it, or replaces it with the supplier's parts, and the vehicle returns to the road."
+        }
+      ],
+      "buyersLabel": "Battron buyers take a ProsParity loan",
+      "buyersValue": "About 3 in 4",
+      "forTitle": "Who it's for",
+      "forLenders": "Lenders",
+      "forLendersText": "Custody, grading and resale for any lender.",
+      "forMakers": "Battery makers",
+      "forMakersText": "An authorised service centre for warranty work.",
+      "forBuyers": "Buyers",
+      "forBuyersText": "A used EV with a certified grade, and a loan to buy it.",
+      "formTitle": "Talk to Battron",
+      "formText": "For battery makers and service enquiries. Tell us what you need and we'll get back to you."
+    },
+    "dealers": {
+      "metaTitle": "For dealers and OEMs",
+      "metaDescription": "Offer EV loans to your customers and get faster approvals with ProsParity, across Uttar Pradesh, Madhya Pradesh and Chhattisgarh.",
+      "title": "Sell more EVs. We'll handle the loan.",
+      "lead": "Partner with ProsParity to offer finance on electric two- and three-wheelers, with faster approvals and a service partner behind you.",
+      "whyTitle": "Why dealers work with us",
+      "why": [
+        {
+          "name": "Faster approvals",
+          "text": "Your customers get a decision sooner, so a sale doesn't wait on the loan."
+        },
+        {
+          "name": "Loans across your range",
+          "text": "Electric three-wheelers, e-autos and cargo (L5), two-wheelers and battery loans."
+        },
+        {
+          "name": "Dealer financing",
+          "text": "Competitive rates and a selective assessment, to help you grow your business."
+        },
+        {
+          "name": "We stay with the loan",
+          "text": "We underwrite, collect and service every loan we source through you."
+        }
+      ],
+      "stepsTitle": "How to get started",
+      "steps": [
+        {
+          "name": "Tell us about your business",
+          "text": "Fill in the form below with your city, brands and monthly EV sales."
+        },
+        {
+          "name": "We get in touch",
+          "text": "Our team reviews your details and contacts you."
+        },
+        {
+          "name": "Start offering loans",
+          "text": "Once you're onboarded, your customers can apply through you."
+        }
+      ],
+      "battronTitle": "Battron, your authorised service centre",
+      "battronText": "When a battery fault comes up, Battron diagnoses and repairs it, or replaces it with the supplier's parts. Your customers get back on the road.",
+      "battronLink": "Explore Battron",
+      "formTitle": "Become a dealer partner",
+      "formText": "Tell us about your dealership or OEM business and we'll be in touch."
+    },
+    "lenders": {
+      "metaTitle": "For lending partners",
+      "metaDescription": "Co-lend with ProsParity on electric two- and three-wheelers, and use Battron for custody and resale.",
+      "title": "Lend to EVs with the asset protected.",
+      "lead": "We source, underwrite, collect and service. Battron protects the asset. You lend with a clearer view of the risk.",
+      "coTitle": "How we co-lend",
+      "coIntro": "Most loans sit on our lending partners' balance sheets. The rest sit with our own NBFC.",
+      "flowLabel": "How a loan flows from dealer to lending partner",
+      "flow": [
+        "Dealer",
+        "ProsParity",
+        "Lending partner"
+      ],
+      "co": [
+        {
+          "name": "We source through dealers",
+          "text": "Loans come from our dealer network in Tier 2 and Tier 3 cities."
+        },
+        {
+          "name": "We underwrite, collect and service",
+          "text": "We run the loan from application to closure."
+        },
+        {
+          "name": "First-loss cover",
+          "text": "We place first-loss cover on partner-funded loans, so our interests stay aligned with yours."
+        }
+      ],
+      "battronTitle": "Battron works for any lender",
+      "battronText": "Hand over a repossessed EV and Battron takes custody, grades the battery and resells it with a certified grade. The vehicle stays on your books until it is sold, and you receive the proceeds.",
+      "formTitle": "Lend with us",
+      "formText": "Tell us about your institution and we'll be in touch."
+    },
+    "investors": {
+      "metaTitle": "For investors",
+      "metaDescription": "The ProsParity story, our traction, backers and leadership.",
+      "title": "Financing every life of an EV.",
+      "lead": "ProsParity finances, services, resells and refinances electric two- and three-wheelers across their whole life.",
+      "story": [
+        "The battery decides the credit risk. It drives both the chance of default and the loss when one happens, and until now it has had no common grade.",
+        "Lending is the foundation. We source through dealers, underwrite, collect and service loans funded by our lending partners and our own NBFC.",
+        "Battron is the growth. It takes custody of repossessed EVs from any lender, grades the battery and resells the vehicle with a certified grade. Every loan, service job and resale adds to what we know about what an EV is worth."
+      ],
+      "tractionTitle": "Traction",
+      "backersTitle": "Backed by",
+      "leadersTitle": "Leadership",
+      "leadersLink": "Meet the full team",
+      "formTitle": "Investor enquiries",
+      "formText": "Tell us who you are and what you'd like to discuss."
+    },
+    "about": {
+      "metaTitle": "About us",
+      "metaDescription": "Our mission, our journey from Bhopal, and the people behind ProsParity.",
+      "title": "Reimagining the distribution of credit in electric mobility.",
+      "lead": "We're building a full-stack financing platform that moves credit from lenders to individuals, fleet operators, dealers and OEMs, so that more electric vehicles reach Bharat.",
+      "timelineTitle": "Our journey",
+      "timeline": [
+        {
+          "date": "2024",
+          "text": "First loans, in Bhopal, with Vivriti Capital."
+        },
+        {
+          "date": "2025",
+          "text": "More lending partners join."
+        },
+        {
+          "date": "Feb 2026",
+          "text": "Our own NBFC is licensed, and lends from March."
+        },
+        {
+          "date": "Apr 2026",
+          "text": "Battron launches, and we finance its buyers."
+        },
+        {
+          "date": "May 2026",
+          "text": "Battery loans start."
+        },
+        {
+          "date": "Sep 2026",
+          "text": "Three-wheelers, e-autos and cargo, and two-wheelers all live."
+        }
+      ],
+      "leadershipTitle": "Leadership"
+    },
+    "careers": {
+      "metaTitle": "Careers",
+      "metaDescription": "Work with ProsParity.",
+      "title": "Work on credit that moves EVs.",
+      "lead": "We're a small team, working close to the dealers and drivers we serve.",
+      "rolesTitle": "Open roles",
+      "empty": "We have no roles listed right now. If you'd like to work with us, write to"
+    },
+    "contact": {
+      "metaTitle": "Contact us",
+      "metaDescription": "Get in touch with ProsParity.",
+      "title": "Talk to us.",
+      "lead": "Tell us how we can help. For a loan, the fastest way is a callback.",
+      "emailLabel": "Email",
+      "grievanceLabel": "Have a complaint?",
+      "grievanceLink": "Grievance redressal",
+      "officeLabel": "Registered office",
+      "officePlaceholder": "To be confirmed by the company before launch."
+    },
+    "legal": {
+      "metaTitle": "Legal and regulatory",
+      "metaDescription": "Policies, disclosures and regulatory information.",
+      "title": "Legal and regulatory",
+      "lead": "Our policies, disclosures and regulated-entity details.",
+      "back": "All legal documents",
+      "docs": {
+        "privacy-policy": {
+          "name": "Privacy policy",
+          "text": "How we collect and use your information."
+        },
+        "terms-and-conditions": {
+          "name": "Terms and conditions",
+          "text": "The terms for using this website."
+        },
+        "grievance-redressal": {
+          "name": "Grievance redressal",
+          "text": "How to raise a complaint, and who to contact."
+        },
+        "dlg-disclosure": {
+          "name": "DLG disclosure",
+          "text": "Our default loss guarantee disclosure."
+        },
+        "refund-and-cancellation-policy": {
+          "name": "Refund and cancellation",
+          "text": "How refunds and cancellations work."
+        },
+        "lending-partners": {
+          "name": "Lending partners",
+          "text": "Regulated lenders we work with.",
+          "placeholder": "To be confirmed by the company before launch: the full, current list of regulated entities."
+        },
+        "nbfc-details": {
+          "name": "NBFC details",
+          "text": "Details of our regulated entity.",
+          "placeholder": "To be confirmed by the company before launch: CIN, RBI certificate of registration number and category, and registered office."
+        },
+        "fair-practices-code": {
+          "name": "Fair Practices Code",
+          "text": "How we treat our customers.",
+          "placeholder": "To be supplied by the company before launch. This code is not published on the current site."
+        }
+      },
+      "englishOnly": "",
+      "partnersIntro": "Loans may be facilitated in partnership with the regulated lenders below.",
+      "nbfcIntro": "Etribe Finance Private Limited."
+    },
+    "notFound": {
+      "title": "We can't find that page.",
+      "home": "Go to the home page",
+      "callback": "Get a loan callback"
+    }
+  },
+  "team": {
+    "saurabh": {
+      "role": "Cofounder and CEO",
+      "bio": "Worked on vehicle finance credit risk and built a fintech lending book at Northern Arc Capital, then raised debt at Stashfin. Engineer and MBA. Leads fundraising and risk."
+    },
+    "anirudh": {
+      "role": "Cofounder and COO",
+      "bio": "MSME and agri lending at SBI, built a co-lending platform at Northern Arc, and led operations at Stashfin. Leads deployment, product, technology and credit."
+    },
+    "anuj": {
+      "role": "Head, Battron",
+      "bio": "Electric three-wheeler sales and after-sales, and has run dealerships."
+    },
+    "kanishk": {
+      "role": "Head, Product and Strategy",
+      "bio": "Previously in strategy at TresVista and Stashfin. At ProsParity since day one."
+    },
+    "harry": {
+      "role": "Head of Technology",
+      "bio": "Fintech background, and built Stashfin's technology stack."
+    },
+    "hakam": {
+      "role": "Head, Commercial EV",
+      "bio": "Vehicle finance at Mahindra and Sundaram."
+    },
+    "jitendra": {
+      "role": "Head, Two Wheelers",
+      "bio": "Vehicle finance, including at Sundaram across Madhya Pradesh and Chhattisgarh."
+    },
+    "girish": {
+      "role": "Advisor",
+      "bio": "Background across Kotak, HDFC and Bizloan."
+    }
+  },
+  "forms": {
+    "fields": {
+      "businessName": "Business name",
+      "city": "City",
+      "state": "State",
+      "brands": "Brands you sell",
+      "monthlyEvSales": "EVs sold per month",
+      "name": "Your name",
+      "phone": "Phone number",
+      "email": "Email",
+      "company": "Company",
+      "message": "How can we help?",
+      "institution": "Institution",
+      "institutionType": "Type of institution",
+      "firm": "Firm",
+      "vehicleType": "Vehicle type",
+      "preferredLanguage": "Preferred language"
+    },
+    "options": {
+      "state": {
+        "up": "Uttar Pradesh",
+        "mp": "Madhya Pradesh",
+        "cg": "Chhattisgarh",
+        "other": "Other"
+      },
+      "institutionType": {
+        "bank": "Bank",
+        "nbfc": "NBFC",
+        "fund": "Fund or AMC",
+        "other": "Other"
+      },
+      "vehicleType": {
+        "e3w": "Electric three-wheeler",
+        "cargo": "E-auto or cargo (L5)",
+        "e2w": "Electric two-wheeler",
+        "battery": "Battery",
+        "notSure": "Not sure yet"
+      },
+      "preferredLanguage": {
+        "hi": "Hindi",
+        "en": "English"
+      }
+    },
+    "errors": {
+      "required": "This field is required.",
+      "email": "Enter a valid email address.",
+      "phone": "Enter a 10-digit Indian mobile number.",
+      "number": "Enter a number.",
+      "consent": "Please agree so that we can contact you."
+    },
+    "optional": "(optional)",
+    "choose": "Choose one",
+    "consentBefore": "I agree that ProsParity may store these details and contact me about this enquiry, as described in the ",
+    "consentLink": "Privacy Policy",
+    "consentAfter": ".",
+    "submit": {
+      "dealer": "Send enquiry",
+      "battery": "Send enquiry",
+      "lender": "Send enquiry",
+      "investor": "Send enquiry",
+      "callback": "Request a callback",
+      "contact": "Send message"
+    },
+    "sending": "Sending…",
+    "summary": "Please fix the following:",
+    "successTitle": "Thank you. We've got your details.",
+    "successText": "Our team will get in touch with you soon.",
+    "failure": "We couldn't send this. Your details are still here, so please try again, or write to hello@prosparity.in."
+  }
+}

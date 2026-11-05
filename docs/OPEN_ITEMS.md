@@ -67,7 +67,7 @@ Used because it describes how the company works, but no other source confirms it
 | --- | --- |
 | Held metrics | Collection efficiency, gross NPA and PAR figures are not on the site and not in the repository. Add them to `content/metrics.ts` only after sign-off |
 | Battery share of EV cost | Allowlisted, but the brief requires a public source and none is named. Left off until one is supplied |
-| Hero headline | "The battery decides the credit risk." replaces the current tagline, which now sits on About |
+| Page headlines | Every page headline was rewritten in a friendlier voice, led by "Good batteries make good loans." The current tagline now sits in the About intro. Leadership should approve them |
 | Hero and stage copy | Drafted from the brief and company material |
 | Dealer onboarding steps and "faster approvals" | Steps are generic. Confirm they match how onboarding works |
 | Borrower "how it works" steps and EMI text | General wording. Confirm with the credit team |

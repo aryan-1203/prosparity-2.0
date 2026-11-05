@@ -44,7 +44,7 @@ export default async function ProductPage({ params }: Params) {
   return (
     <>
       <EvDefs />
-      <Intro title={t(`${slug}.name`)} lead={t(`${slug}.lead`)} aside={<div className="rounded-panel bg-mint p-6"><ProductArt slug={slug} /></div>}>
+      <Intro eyebrow={t(`${slug}.name`)} title={t(`${slug}.headline`)} lead={t(`${slug}.lead`)} aside={<div className="rounded-panel bg-mint p-6"><ProductArt slug={slug} /></div>}>
         <div className="mt-8 flex flex-wrap items-center gap-x-6 gap-y-2">
           <Link href={apply} prefetch={false} className="btn btn-primary">{dealer ? l("dealerCta") : l("applyCta")}</Link>
           {!dealer && <a href="#emi" className="text-link">{l("emiCta")}</a>}

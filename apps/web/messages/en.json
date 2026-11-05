@@ -77,7 +77,7 @@
     "investors": {
       "metaTitle": "For investors",
       "metaDescription": "The ProsParity story, our traction, backers and leadership.",
-      "title": "Financing every life of an EV.",
+      "title": "An EV has many lives. We're there for each one.",
       "lead": "ProsParity finances, services, resells and refinances electric two- and three-wheelers across their whole life.",
       "story": [
         "The battery decides the credit risk. It drives both the chance of default and the loss when one happens, and until now it has had no common grade.",
@@ -94,8 +94,8 @@
     "about": {
       "metaTitle": "About us",
       "metaDescription": "Our mission, our journey from Bhopal, and what we believe.",
-      "title": "Reimagining the distribution of credit in electric mobility.",
-      "lead": "We're building a full-stack digital financing platform that moves credit from lenders to individuals, fleet operators, dealers and OEMs, driving wider adoption of electric vehicles across Bharat for a sustainable future.",
+      "title": "We take credit the last mile.",
+      "lead": "We're reimagining the distribution of credit in electric mobility, with a full-stack digital platform that moves credit from lenders to individuals, fleet operators, dealers and OEMs, so more electric vehicles reach Bharat.",
       "timelineTitle": "Our journey",
       "timeline": [
         {
@@ -187,7 +187,7 @@
     "careers": {
       "metaTitle": "Careers",
       "metaDescription": "Work with ProsParity.",
-      "title": "Build EV credit for Bharat.",
+      "title": "Do work that moves Bharat.",
       "lead": "Field-first people, putting Bharat on electric wheels. We work from dealer counters in small towns to the code that underwrites them.",
       "rolesTitle": "Open roles",
       "empty": "We have no roles listed right now. If you'd like to work with us, write to",
@@ -255,7 +255,7 @@
     "legal": {
       "metaTitle": "Legal and regulatory",
       "metaDescription": "Policies, disclosures and regulatory information.",
-      "title": "Legal and regulatory",
+      "title": "The fine print, easy to find.",
       "lead": "Our policies, disclosures and regulated-entity details.",
       "back": "All legal documents",
       "docs": {
@@ -308,7 +308,7 @@
     "products": {
       "metaTitle": "EV loans and dealer finance",
       "metaDescription": "Loans for electric two-wheelers, three-wheelers and cargo loaders, battery loans, and finance for the dealers who sell them.",
-      "title": "Finance for every kind of electric ride",
+      "title": "Pick your ride. We'll sort the loan.",
       "lead": "Loans for electric two-wheelers, three-wheelers, cargo loaders and batteries, and for the dealers who sell them.",
       "listTitle": "What we finance",
       "batteryName": "Battery loans",
@@ -415,7 +415,7 @@
     "apply": {
       "metaTitle": "Apply for finance",
       "metaDescription": "Request a callback for an EV loan. No documents needed before we speak.",
-      "title": "Tell us what you drive. We'll call you.",
+      "title": "It all starts with one call.",
       "lead": "Leave a few details and a member of our team will call you, in Hindi or English.",
       "points": [
         "No documents needed yet.",
@@ -499,7 +499,7 @@
     "howItWorks": {
       "metaTitle": "How it works",
       "metaDescription": "Seven stages from lender capital to collection, on our app and on the ground.",
-      "title": "Digital alone can't see. Physical alone can't scale.",
+      "title": "Part app, part people. All on your side.",
       "lead": "Seven stages take a loan from lender capital to collection. Some happen on our app, some happen on the ground, and we run all of them ourselves.",
       "blocks": [
         {
@@ -580,7 +580,7 @@
     "technology": {
       "metaTitle": "Technology",
       "metaDescription": "How we built our own sourcing, credit and collections systems for EV lending.",
-      "title": "Built in-house, not licensed.",
+      "title": "Built for the way Bharat borrows.",
       "lead": "Collecting on an e-rickshaw loan isn't like collecting on a credit card. Off-the-shelf systems aren't made for that, so we built our own, and rule changes don't wait in a vendor's queue.",
       "blocks": [
         {
@@ -672,7 +672,7 @@
     "network": {
       "metaTitle": "Network",
       "metaDescription": "Where ProsParity lends: Tier 2 and Tier 3 cities across Uttar Pradesh, Madhya Pradesh and Chhattisgarh.",
-      "title": "Lending where EVs are already earning.",
+      "title": "Small towns. Big EV dreams.",
       "lead": "We work dealer by dealer across Tier 2 and Tier 3 cities in Uttar Pradesh, Madhya Pradesh and Chhattisgarh.",
       "blocks": [
         {
@@ -693,7 +693,7 @@
     "impact": {
       "metaTitle": "Impact",
       "metaDescription": "How EV finance supports livelihoods and cleaner cities across Bharat.",
-      "title": "Empowering sustainable mobility by doing our bit.",
+      "title": "Cleaner streets. Fuller pockets.",
       "lead": "Sustainability is our guiding principle. We champion inclusive economic growth by supporting EVs for livelihood generation.",
       "blocks": [
         {
@@ -741,7 +741,7 @@
     "partners": {
       "metaTitle": "Partners and lenders",
       "metaDescription": "Lenders, dealers, OEMs and battery makers on one full-service EV finance platform.",
-      "title": "One platform for everyone who finances and sells EVs.",
+      "title": "You bring the capital or the customers. We'll do the rest.",
       "lead": "Lenders, dealers and OEMs work with us on a full-service platform, from sourcing a loan to servicing it, and from repossession to resale.",
       "blocks": [
         {
@@ -814,7 +814,7 @@
     "team": {
       "metaTitle": "Team",
       "metaDescription": "The people behind ProsParity.",
-      "title": "Operators who've financed Bharat.",
+      "title": "We've spent years financing Bharat's wheels.",
       "lead": "Long experience in vehicle finance on the ground, rebuilt for electric vehicles.",
       "leadershipTitle": "Leadership",
       "coreTitle": "Core team and advisor",
@@ -826,7 +826,7 @@
     "news": {
       "metaTitle": "Newsroom",
       "metaDescription": "Company news, insights, regulation and industry updates from the world of EV finance.",
-      "title": "Newsroom",
+      "title": "What's new on the EV road.",
       "lead": "Company news, plain-language insights, and the regulation and industry moves that matter to EV finance.",
       "filterLabel": "Filter news by category",
       "subscribeTitle": "Get the news by email",
@@ -838,7 +838,7 @@
     "support": {
       "metaTitle": "Support",
       "metaDescription": "Help with your account, EMI or application, and how to raise a grievance.",
-      "title": "How can we help?",
+      "title": "Stuck? We've got you.",
       "lead": "Need help with your account, EMI or application? Reach out and we'll get back to you.",
       "ticketCta": "Raise a ticket",
       "blocks": [
@@ -1133,7 +1133,8 @@
           "text": "A field officer can verify this in person, so you may not need a salary slip.",
           "icon": "Wallet"
         }
-      ]
+      ],
+      "headline": "Ride more. Spend less."
     },
     "electric-3-wheeler": {
       "name": "Electric 3 Wheeler",
@@ -1217,7 +1218,8 @@
           "text": "A field officer verifies this in person, so you don't need a salary slip.",
           "icon": "Wallet"
         }
-      ]
+      ],
+      "headline": "Drive your own, not someone else's."
     },
     "l5-cargo": {
       "name": "L5 Cargo Loader",
@@ -1301,7 +1303,8 @@
           "text": "A field officer verifies this in person.",
           "icon": "Wallet"
         }
-      ]
+      ],
+      "headline": "Your goods move. Your business grows."
     },
     "dealer-financing": {
       "name": "Dealer Financing",
@@ -1385,13 +1388,14 @@
           "text": "A field officer verifies these during the visit.",
           "icon": "FileText"
         }
-      ]
+      ],
+      "headline": "More stock on the floor. More EVs out the door."
     }
   },
   "home": {
     "hero": {
-      "title": "The battery decides the credit risk.",
-      "lead": "ProsParity finances, services, resells and refinances electric two- and three-wheelers across their whole life, in Tier 2 and Tier 3 cities.",
+      "title": "Good batteries make good loans.",
+      "lead": "We finance, service, resell and refinance electric two- and three-wheelers in Tier 2 and Tier 3 cities, so every EV keeps earning, owner after owner.",
       "primary": "Explore our loans",
       "secondary": "See how it works"
     },

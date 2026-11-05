@@ -8,10 +8,11 @@ import { Icon, IconTile } from "./ui/icon";
 import { MetricValue } from "./ui/metric";
 import { Reveal } from "./ui/reveal";
 
-export function Intro({ title, lead, aside, ink = "text-forest", wide = false, children }: { title: string; lead?: string; aside?: ReactNode; ink?: string; wide?: boolean; children?: ReactNode }) {
+export function Intro({ eyebrow, title, lead, aside, ink = "text-forest", wide = false, children }: { eyebrow?: string; title: string; lead?: string; aside?: ReactNode; ink?: string; wide?: boolean; children?: ReactNode }) {
   return (
     <section className="container-site grid-site gap-y-10 pb-(--section-tight) pt-[clamp(32px,6vh,72px)]">
       <div className={`col-span-4 md:col-span-8 ${wide ? "lg:col-span-8" : "lg:col-span-7"}`}>
+        {eyebrow && <p className="t-subhead mb-2 text-teal-text">{eyebrow}</p>}
         <h1 className={`t-display ${ink}`}>{title}</h1>
         {lead && <p className="t-lead mt-6">{lead}</p>}
         {children}

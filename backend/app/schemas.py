@@ -1,4 +1,4 @@
-"""Mirrored by apps/web/src/lib/forms.ts. Change both together."""
+"""Mirrored by frontend/src/lib/forms.ts. Change both together."""
 import re
 from typing import Annotated, Literal
 

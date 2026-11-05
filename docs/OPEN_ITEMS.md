@@ -59,7 +59,7 @@ Used because it describes how the company works, but no other source confirms it
 | Two-wheeler subsidy story | July 2026 reports said this subsidy was ending, and August reports said it was extended. Check the notification before launch |
 | Dates | Shown by month. Dates for company stories come from company material, and those for external stories are approximate |
 | Company stories | NBFC licence, Battron launch and product dates are drawn from company material. Confirm each is public |
-| Keeping it current | Stories live in `apps/web/content/news.ts` and the message files. There is no admin screen, so each new story needs a code change |
+| Keeping it current | Stories live in `frontend/content/news.ts` and the message files. There is no admin screen, so each new story needs a code change |
 
 ## Sign-off: needs leadership
 

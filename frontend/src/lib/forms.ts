@@ -18,7 +18,7 @@ const city: Field = { name: "city", kind: "text", required: true, autoComplete: 
 const message: Field = { name: "message", kind: "textarea", required: true };
 const messageOptional: Field = { ...message, required: false };
 
-/** Mirrored by apps/api/app/schemas.py. Change both together. */
+/** Mirrored by backend/app/schemas.py. Change both together. */
 export const fields: Record<LeadType, readonly Field[]> = {
   dealer: [
     { name: "businessName", kind: "text", required: true, autoComplete: "organization" },

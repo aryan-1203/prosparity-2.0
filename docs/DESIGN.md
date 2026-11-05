@@ -260,7 +260,7 @@ Measured sizes:
 
 Optical sizing costs about 40 KB and is worth it. Section 6.4 asks for it, it gives the display sizes their engineered tightness, and opsz 14 visibly opens up small text on phones (`specimens/flex-optical-size.png`).
 
-Move `docs/design/fonts/*.woff2` to `apps/web/src/fonts/`, along with the OFL files, and use this configuration, which I tested in a real build:
+Move `docs/design/fonts/*.woff2` to `frontend/src/fonts/`, along with the OFL files, and use this configuration, which I tested in a real build:
 
 ```ts
 import localFont from 'next/font/local';

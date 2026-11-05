@@ -10,6 +10,8 @@ Decisions made without a checkpoint, with the reason for each. The user may over
 | `frontend-design` is read straight from its `SKILL.md` in the marketplace folder | The skill is on disk but not enabled in this session. The real text is used rather than a guess at its contents. |
 | npm for the monorepo (pnpm is not installed) | Avoids adding a tool. Can be revisited in Phase 2. |
 | Default deployment: web on Vercel, API on Render or Railway, Postgres on Neon | From the brief. The user may change this. |
+| Repo split into standalone `frontend/` and `backend/`, replacing `apps/` and the root npm workspace | Vercel could not detect the framework from the repo root. `frontend/` now has its own lockfile, so Vercel's root directory is `frontend`. |
+| Frontend uses TypeScript 6.0.3, not 7 | `typescript-eslint` does not support TS 7, and a standalone project cannot hold both versions (`ERESOLVE`). Move back to 7 once it does. |
 
 ## Phases 2 to 4
 

@@ -1,7 +1,7 @@
 // Writes docs/HINDI_REVIEW.md from the message files. Run: node scripts/hindi-review.mjs
 import { readFileSync, writeFileSync } from "node:fs";
 
-const load = (l) => JSON.parse(readFileSync(`apps/web/messages/${l}.json`, "utf8"));
+const load = (l) => JSON.parse(readFileSync(`frontend/messages/${l}.json`, "utf8"));
 const flat = (value, path = "", out = {}) => {
   if (typeof value === "string") out[path] = value;
   else for (const [k, v] of Object.entries(value)) flat(v, path ? `${path}.${k}` : k, out);

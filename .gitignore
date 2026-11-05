@@ -9,6 +9,7 @@ node_modules/
 out/
 dist/
 coverage/
+*.tsbuildinfo
 __pycache__/
 *.pyc
 .venv/
@@ -28,7 +29,7 @@ __pycache__/
 !research/current-site/assets/*.pdf
 
 # Public policy PDF served by the site
-!apps/web/public/pdf/*.pdf
+!frontend/public/pdf/*.pdf
 
 # Local API database
-apps/api/dev.db
+backend/dev.db

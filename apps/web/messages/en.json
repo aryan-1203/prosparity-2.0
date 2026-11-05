@@ -816,12 +816,20 @@
       "metaDescription": "The people behind ProsParity.",
       "title": "We've spent years financing Bharat's wheels.",
       "lead": "Long experience in vehicle finance on the ground, rebuilt for electric vehicles.",
-      "leadershipTitle": "Leadership",
-      "coreTitle": "Core team and advisor",
+      "coreTitle": "The people who keep it all moving",
       "ctaTitle": "Build EV credit with us.",
       "ctaText": "Field, credit, sales and technology people, across the places we work.",
       "ctaPrimary": "See careers",
-      "ctaSecondary": "Our story"
+      "ctaSecondary": "Our story",
+      "openProfile": "Open profile",
+      "closeProfile": "Close",
+      "onLinkedIn": "on LinkedIn",
+      "foundersTitle": "The founders",
+      "foundersText": "They've built lending at some of India's best-known finance companies, and now they're doing it for EVs.",
+      "coreText": "From Battron and technology to credit and the field. Tap anyone to read more.",
+      "seatLabel": "Open seat",
+      "seatTitle": "Your face here?",
+      "seatLink": "See careers"
     },
     "news": {
       "metaTitle": "Newsroom",
@@ -951,11 +959,11 @@
       "bio": "Fintech background, and built Stashfin's technology stack."
     },
     "hakam": {
-      "role": "Head, Commercial EV",
+      "role": "Cofounder and Head, Commercial EV",
       "bio": "Vehicle finance at Mahindra and Sundaram, with earlier roles at Sonalika and L&T Finance."
     },
     "jitendra": {
-      "role": "Head, Two Wheelers",
+      "role": "Cofounder and Head, Two Wheelers",
       "bio": "Vehicle finance, including at Sundaram across Madhya Pradesh and Chhattisgarh, with earlier roles at HDFC and Kotak Mahindra."
     },
     "girish": {

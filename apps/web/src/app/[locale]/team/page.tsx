@@ -1,33 +1,28 @@
-import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import { Cta, Intro, LinkOut } from "@/components/sections";
-import { advisor, core, leaders, type Person } from "@/components/team";
+import { Cta, Intro } from "@/components/sections";
+import { advisor, core, founders, type Person } from "@/components/team";
+import { TeamCard } from "@/components/team-card";
+import { Icon } from "@/components/ui/icon";
+import { Link } from "@/i18n/navigation";
 import { pageMeta, type PageParams } from "@/lib/meta";
 
 export async function generateMetadata({ params }: PageParams) {
   return pageMeta((await params).locale, "team", "/team");
 }
 
-async function People({ people }: { people: readonly Person[] }) {
+async function Card({ person, size }: { person: Person; size: "large" | "small" }) {
   const team = await getTranslations("team");
+  const t = await getTranslations("pages.team");
   return (
-    <ul>
-      {people.map((p) => (
-        <li key={p.id} className="grid grid-cols-[72px_minmax(0,1fr)] items-start gap-x-5 border-t border-hairline py-6 last:border-b md:grid-cols-[112px_minmax(0,4fr)_minmax(0,7fr)]">
-          {p.photo ? (
-            <Image src={p.photo} alt="" width={112} height={112} className="size-[72px] rounded-full bg-mint object-cover md:size-24" />
-          ) : (
-            <span aria-hidden="true" className="flex size-[72px] items-center justify-center rounded-full bg-mint text-xl font-[540] text-forest md:size-24">{p.name.charAt(0)}</span>
-          )}
-          <div>
-            <h3 className="t-subhead text-forest">{p.name}</h3>
-            <p className="text-slate">{team(`${p.id}.role`)}</p>
-            {p.linkedin && <LinkOut href={p.linkedin} className="t-small mt-1 inline-flex items-center text-forest underline underline-offset-4">LinkedIn</LinkOut>}
-          </div>
-          <p className="col-start-2 mt-2 md:col-start-3 md:mt-0">{team(`${p.id}.bio`)}</p>
-        </li>
-      ))}
-    </ul>
+    <TeamCard
+      name={person.name}
+      role={team(`${person.id}.role`)}
+      bio={team(`${person.id}.bio`)}
+      photo={person.photo}
+      linkedin={person.linkedin}
+      size={size}
+      labels={{ open: t("openProfile"), close: t("closeProfile"), linkedin: t("onLinkedIn") }}
+    />
   );
 }
 
@@ -39,14 +34,30 @@ export default async function TeamPage({ params }: PageParams) {
       <Intro title={t("title")} lead={t("lead")} />
       <section className="band-white">
         <div className="section container-site">
-          <h2 className="t-heading text-forest">{t("leadershipTitle")}</h2>
-          <div className="mt-6"><People people={leaders} /></div>
+          <h2 className="t-title text-forest">{t("foundersTitle")}</h2>
+          <p className="t-lead mt-3">{t("foundersText")}</p>
+          <ul className="mt-8 grid gap-4 md:grid-cols-2">
+            {founders.map((person) => <li key={person.id}><Card person={person} size="large" /></li>)}
+          </ul>
         </div>
       </section>
-      <section className="band-leaf">
+      <section className="band-mint">
         <div className="section container-site">
-          <h2 className="t-heading text-forest">{t("coreTitle")}</h2>
-          <div className="mt-6"><People people={[...core, advisor]} /></div>
+          <h2 className="t-title text-forest">{t("coreTitle")}</h2>
+          <p className="t-lead mt-3">{t("coreText")}</p>
+          <ul className="mt-8 grid grid-cols-2 gap-3 lg:grid-cols-4">
+            {[...core, advisor].map((person) => <li key={person.id}><Card person={person} size="small" /></li>)}
+            <li className="col-span-2 lg:col-span-2">
+              <Link href="/careers" prefetch={false} className="flex h-full min-h-48 flex-col justify-between rounded-panel bg-forest p-6 text-white">
+                <span className="flex size-11 items-center justify-center rounded-control bg-signal text-deep"><Icon name="Sprout" className="size-[22px]" /></span>
+                <span>
+                  <span className="t-small block text-mint">{t("seatLabel")}</span>
+                  <span className="t-heading mt-1 block">{t("seatTitle")}</span>
+                  <span className="mt-1 block text-mint">{t("seatLink")}</span>
+                </span>
+              </Link>
+            </li>
+          </ul>
         </div>
       </section>
       <Cta title={t("ctaTitle")} text={t("ctaText")} primary={t("ctaPrimary")} primaryHref="/careers" secondary={t("ctaSecondary")} secondaryHref="/about" />

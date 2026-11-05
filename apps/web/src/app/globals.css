@@ -118,7 +118,7 @@ body {
 
 /* Header */
 .site-header { position: sticky; top: 0; z-index: 40; height: var(--header-h); }
-.site-header::before { content: ""; position: absolute; inset: 0; z-index: -1; background: rgb(255 255 255 / 0.96); box-shadow: 0 1px 0 var(--color-hairline); opacity: 0; transition: opacity 200ms var(--ease-out-soft); }
+.site-header::before { content: ""; position: absolute; inset: 0; z-index: -1; background: var(--color-white); box-shadow: 0 1px 0 var(--color-hairline); opacity: 0; transition: opacity 200ms var(--ease-out-soft); }
 .site-header[data-scrolled="true"]::before { opacity: 1; }
 
 /* Index list row: the whole row is the target */
@@ -193,4 +193,11 @@ body {
   .product-art { transition: transform 200ms var(--ease-out-soft); }
   @media (hover: hover) { .product-card:hover .product-art { transform: translateY(-4px); } }
   @media (prefers-reduced-motion: reduce) { .product-card:hover .product-art { transform: none; } }
+}
+
+@layer components {
+  .team-photo { transition: transform 200ms var(--ease-out-soft); transform-origin: bottom center; }
+  @media (hover: hover) and (prefers-reduced-motion: no-preference) { .team-card:hover .team-photo { transform: scale(1.03); } }
+  .team-dialog[open] { animation: nav-in 200ms var(--ease-out-soft); }
+  @media (prefers-reduced-motion: reduce) { .team-dialog[open] { animation: none; } }
 }

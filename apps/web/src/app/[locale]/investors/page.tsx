@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { backers } from "@/components/home/logos";
-import { leaders } from "@/components/team";
+import { founders } from "@/components/team";
 import { FigureList, FormSplit, Intro } from "@/components/sections";
 import { Link } from "@/i18n/navigation";
 import { formatDate } from "@/lib/format";
@@ -51,9 +51,9 @@ export default async function InvestorsPage({ params }: PageParams) {
       <section className="section container-site">
         <h2 className="t-heading text-forest">{t("leadersTitle")}</h2>
         <ul className="mt-6">
-          {leaders.slice(0, 2).map((p) => (
+          {founders.slice(0, 2).map((p) => (
             <li key={p.id} className="flex items-center gap-5 border-t border-hairline py-5 last:border-b">
-              {p.photo && <Image src={p.photo} alt="" width={96} height={96} className="size-20 rounded-full object-cover" />}
+              {p.photo && <Image src={p.photo} alt="" width={96} height={96} className="size-20 rounded-full bg-sage object-cover" />}
               <div>
                 <p className="t-subhead text-forest">{p.name}</p>
                 <p className="text-slate">{team(`${p.id}.role`)}</p>

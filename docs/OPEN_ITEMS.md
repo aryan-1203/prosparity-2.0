@@ -84,7 +84,7 @@ Used because it describes how the company works, but no other source confirms it
 | Item | Note |
 | --- | --- |
 | Photography | None exists. Layouts work without it, but real vehicles, dealers and service bays would lift the site |
-| Team | Roles follow company material and differ from prosparity.in. Anuj Jain, Harry and Girish Chawla have no photo and use an initial. Harry needs a surname |
+| Team | Hakam Singh Dhakar and Jitendra Sharma are shown as cofounders with their company-material roles, because prosparity.in calls them cofounders and company material does not. Confirm this. Harendra Singh Matiyali's full name comes from his LinkedIn address, so confirm the spelling and whether he prefers Harry. His and Anuj Jain's photos came from small screenshots, so higher-resolution originals would look sharper. Girish Chawla has no photo and uses an initial |
 | Logos | Ecofy and Singularity AMC appear as text because no logo is available. Backer logos have a grey background baked in, so cleaner files would help |
 | ProsParity logo | The wordmark was recoloured from signal green to forest for use on white. Confirm with brand owner |
 | Hindi | All strings need a native-speaker review: `docs/HINDI_REVIEW.md` |

@@ -1,7 +1,7 @@
 "use client";
 
 import { useMotionValueEvent, useScroll } from "motion/react";
-import { useEffect, useRef, useState } from "react";
+import { useLayoutEffect, useRef, useState } from "react";
 
 const ramp = (v: number, from: number, to: number) => Math.min(1, Math.max(0, (v - from) / (to - from)));
 const CELL_WINDOWS = [[0, 0.06], [0.17, 0.23], [0.37, 0.43], [0.57, 0.63], [0.77, 0.83]] as const;
@@ -62,21 +62,35 @@ function paint(el: Parts, v: number, last: { index: number }) {
   });
 }
 
-export default function LifecycleMotion() {
-  // This component only ever runs in the browser, so the DOM is ready on first render.
-  const [root] = useState(() => document.getElementById("lifecycle"));
-  const [parts] = useState(() => (root ? collect(root) : null));
-  const target = useRef(root?.querySelector<HTMLElement>("[data-lc-steps]") ?? null);
+/** useScroll must see a non-null target.current on first render or Motion throws. */
+function LifecycleScroll({ targetEl, parts }: { targetEl: HTMLElement; parts: Parts }) {
+  const target = useRef(targetEl);
   const last = useRef({ index: -2 });
+  target.current = targetEl;
 
   const { scrollYProgress: p } = useScroll({ target, offset: ["start center", "end center"] });
 
   useMotionValueEvent(p, "change", (v) => {
-    if (parts) paint(parts, v, last.current);
+    paint(parts, v, last.current);
   });
-  useEffect(() => {
-    if (parts) paint(parts, p.get(), last.current);
+  useLayoutEffect(() => {
+    paint(parts, p.get(), last.current);
   }, [parts, p]);
 
   return null;
+}
+
+export default function LifecycleMotion() {
+  const [bound, setBound] = useState<{ target: HTMLElement; parts: Parts } | null>(null);
+
+  useLayoutEffect(() => {
+    const root = document.getElementById("lifecycle");
+    if (!root) return;
+    const parts = collect(root);
+    const target = root.querySelector<HTMLElement>("[data-lc-steps]");
+    if (parts && target) setBound({ target, parts });
+  }, []);
+
+  if (!bound) return null;
+  return <LifecycleScroll targetEl={bound.target} parts={bound.parts} />;
 }
